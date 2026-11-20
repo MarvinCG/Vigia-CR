@@ -1,0 +1,31 @@
+{
+ "_nota": "Contenido educativo fijo de la web. Cada dato debe llevar su fuente. No agregue afirmaciones sin enlace verificable.",
+ "derechos": [
+  {"titulo": "Derecho a reparación", "texto": "Toda persona que sufra daños en su persona, propiedad o intereses morales debe encontrar reparación acudiendo a las leyes, con justicia pronta y cumplida.", "fuente": "Constitución Política, art. 41", "url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=871"},
+  {"titulo": "Derechos de la víctima en el proceso penal", "texto": "Como víctima puede ser informada del avance del caso, intervenir en el proceso, pedir protección y apelar ciertas decisiones, aunque no tenga abogado.", "fuente": "Código Procesal Penal, art. 71", "url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=41297"},
+  {"titulo": "Protección a víctimas y testigos", "texto": "Si denuncia o declara y corre riesgo, puede pedir medidas de protección a la Oficina de Atención y Protección a la Víctima del Ministerio Público.", "fuente": "Ley 8720", "url": "https://www.pgrweb.go.cr/scij/"},
+  {"titulo": "Derecho de petición", "texto": "Puede dirigir peticiones a cualquier funcionario o entidad pública y tiene derecho a obtener respuesta.", "fuente": "Constitución Política, art. 27", "url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=871"},
+  {"titulo": "Acceso a información pública", "texto": "Puede solicitar información de interés público a las instituciones del Estado.", "fuente": "Constitución Política, art. 30", "url": "https://www.pgrweb.go.cr/scij/Busqueda/Normativa/Normas/nrm_texto_completo.aspx?nValor1=1&nValor2=871"},
+  {"titulo": "Proponer leyes", "texto": "Con las firmas del 5% del padrón electoral, la ciudadanía puede presentar un proyecto de ley. La Oficina de Iniciativa Popular de la Asamblea y la Defensoría asesoran gratis.", "fuente": "Ley de Iniciativa Popular N.º 8491", "url": "https://tse.go.cr/pdf/normativa/leydeiniciativapopular.pdf"}
+ ],
+ "impacto": [
+  {"dato": "873 homicidios en 2025, tercer año más violento de la historia; tasa de 16,7 por 100 mil habitantes.", "fuente": "OIJ vía Delfino", "url": "https://www.delfino.cr/2026/01/costa-rica-registro-873-homicidios-en-2025-el-tercer-ano-mas-violento-de-la-historia"},
+  {"dato": "260 bandas criminales plenamente identificadas a mayo de 2026.", "fuente": "OIJ vía El Financiero", "url": "https://www.elfinancierocr.com/economia-y-politica/todos-sobre-el-proyecto-de-ley-de-laura-fernandez/FRTWVZTCMJHSPED7OBW6VEHYLE/story/"},
+  {"dato": "Una banda robacarros habría usado teléfonos públicos y visitas para dar instrucciones desde La Reforma.", "fuente": "El Observador", "url": "https://observador.cr/justicia-sospecha-que-banda-robacarros-aprovechaba-telefonos-publicos-y-visita-intima-para-operar-desde-la-carcel/"}
+ ],
+ "fallas": [
+  {"titulo": "Restricciones por circular, no por ley", "texto": "Las reglas de alta contención se crearon con circulares, directrices y reglamentos. La Defensoría y algunos juzgados señalan que chocan con el Reglamento del Sistema Penitenciario, de mayor rango, y por eso se han revertido medidas.", "propuesta": "Fijar el régimen de alta contención en una ley de ejecución de la pena (ver expediente 24.912).", "url": "https://dhr.go.cr/informacion_relevante/comunicados/2025/mayo/019_Riesgos_implementacion_espacios_alta_contencion_Penitenciario.pdf"},
+  {"titulo": "Lo que sí sostienen los tribunales", "texto": "La Sala IV avaló restricciones a reos de altísimo perfil cuando se justificaron caso por caso; un juzgado reconoció la potestad de regular llamadas y encomiendas.", "propuesta": "Exigir perfiles técnicos individuales y documentados para cada traslado a alta contención.", "url": "https://www.teletica.com/politica/sala-iv-rechaza-amparo-de-alias-diablo-y-tan-por-restricciones-carcelarias_416932"}
+ ],
+ "comparaciones": [],
+ "otra_postura": [
+  {"texto": "El Mecanismo Nacional de Prevención de la Tortura considera que el régimen de alta contención constituye un 'entorno torturante' y que eliminar estudio y contacto familiar aumenta la reincidencia.", "url": "https://semanariouniversidad.com/?p=396457"},
+  {"texto": "Criminólogos sostienen que reducir homicidios requiere combinar represión con prevención social.", "url": "https://www.nacion.com/sucesos/es-posible-bajar-la-tasa-de-homicidios-durante-el/RY7VDORR4RCKPE5JGMC4IQG5QY/story/"}
+ ],
+ "acciones": [
+  "Escriba a los diputados de la Comisión de Seguridad y Narcotráfico y envíe observaciones a los proyectos en discusión.",
+  "Promueva o firme una iniciativa popular (5% del padrón).",
+  "Denuncie de forma confidencial al OIJ cualquier actividad criminal.",
+  "Comparta solo datos con fuente: la desinformación debilita la causa."
+ ]
+}

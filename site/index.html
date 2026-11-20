@@ -1,0 +1,111 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Vigía CR · Seguridad, leyes y cárceles</title>
+<meta name="description" content="Monitor ciudadano de leyes, fallos e informes sobre seguridad pública y cárceles en Costa Rica. Todo con fuente.">
+<style>
+:root{--bg:#f6f5f1;--card:#fff;--ink:#1c1f24;--muted:#5d6470;--line:#e2e0d8;--accent:#0b4f8a;--warn:#b5520b;--ok:#2e6b3a}
+@media (prefers-color-scheme:dark){:root{--bg:#14161a;--card:#1d2026;--ink:#ececea;--muted:#a3a9b3;--line:#2d3139;--accent:#6aa9e8;--warn:#f0a35e;--ok:#7cc48a}}
+*{box-sizing:border-box}body{margin:0;font:16px/1.55 system-ui,-apple-system,Segoe UI,Roboto,sans-serif;background:var(--bg);color:var(--ink)}
+header{padding:28px 18px 10px;max-width:960px;margin:auto}
+h1{font-size:1.7rem;margin:0}header p{color:var(--muted);margin:.3rem 0 0}
+nav{position:sticky;top:0;background:var(--bg);border-bottom:1px solid var(--line);z-index:5}
+nav div{max-width:960px;margin:auto;display:flex;gap:4px;overflow-x:auto;padding:8px 12px}
+nav button{border:0;background:none;color:var(--muted);padding:8px 12px;border-radius:8px;font:inherit;white-space:nowrap;cursor:pointer}
+nav button.on{background:var(--card);color:var(--ink);box-shadow:0 0 0 1px var(--line)}
+main{max-width:960px;margin:auto;padding:16px}
+section{display:none}section.on{display:block}
+.card{background:var(--card);border:1px solid var(--line);border-radius:12px;padding:14px 16px;margin:10px 0}
+.card h3{margin:0 0 4px;font-size:1.02rem}.card h3 a{color:var(--ink);text-decoration:none}.card h3 a:hover{text-decoration:underline}
+.meta{color:var(--muted);font-size:.85rem}
+.tag{display:inline-block;font-size:.75rem;padding:2px 8px;border-radius:99px;border:1px solid var(--line);margin:4px 4px 0 0;color:var(--muted)}
+.tag.flag{border-color:var(--warn);color:var(--warn)}
+.filters{display:flex;flex-wrap:wrap;gap:8px;margin-bottom:6px}
+select,input{font:inherit;padding:8px 10px;border-radius:8px;border:1px solid var(--line);background:var(--card);color:var(--ink)}
+input{flex:1;min-width:180px}
+.stats{display:grid;grid-template-columns:repeat(auto-fit,minmax(150px,1fr));gap:10px}
+.stat b{font-size:1.6rem;display:block}
+a{color:var(--accent)}.src{font-size:.85rem}
+.note{color:var(--muted);font-size:.9rem;border-left:3px solid var(--line);padding-left:10px}
+footer{max-width:960px;margin:20px auto 40px;padding:0 16px;color:var(--muted);font-size:.85rem}
+</style>
+</head>
+<body>
+<header>
+  <h1>Vigía CR</h1>
+  <p>Monitor ciudadano de leyes, fallos e informes sobre seguridad pública y cárceles en Costa Rica. Todo con fuente enlazada.</p>
+</header>
+<nav><div id="tabs">
+  <button data-t="novedades" class="on">Novedades</button>
+  <button data-t="revisar">Para revisar</button>
+  <button data-t="fallas">Fallas legales</button>
+  <button data-t="derechos">Tus derechos</button>
+  <button data-t="impacto">Cómo te afecta</button>
+  <button data-t="actuar">Qué hacer</button>
+</div></nav>
+<main>
+  <section id="novedades" class="on">
+    <div class="stats" id="stats"></div>
+    <div class="filters" style="margin-top:12px">
+      <input id="q" placeholder="Buscar (ej. llamadas, Sala IV, CACCO)">
+      <select id="cat"><option value="">Todas las fuentes</option><option value="asamblea">Asamblea Legislativa</option><option value="tribunales">Sala IV y juzgados</option><option value="defensoria">Defensoría / MNPT</option><option value="noticias">Noticias y OIJ</option></select>
+      <select id="topic"><option value="">Todos los temas</option></select>
+    </div>
+    <div id="feed"></div>
+  </section>
+  <section id="revisar">
+    <p class="note">Elementos con señales de choque normativo (por ejemplo "desacata", "inconstitucional", "reglamento", "ordena restablecer"). La marca es automática: cada caso necesita lectura humana antes de sacar conclusiones.</p>
+    <div id="flagged"></div>
+  </section>
+  <section id="fallas"><div id="fallasList"></div></section>
+  <section id="derechos"><div id="derechosList"></div></section>
+  <section id="impacto"><div id="impactoList"></div><h2 style="font-size:1.1rem;margin-top:22px">Comparaciones verificadas</h2><div id="compList"></div><h2 style="font-size:1.1rem;margin-top:22px">La otra postura</h2><p class="note">Para debatir con solidez hay que conocer los argumentos contrarios.</p><div id="otraList"></div></section>
+  <section id="actuar"><div id="accionesList"></div></section>
+</main>
+<footer id="foot">Cargando…</footer>
+<script>
+const CAT={asamblea:"Asamblea",tribunales:"Sala IV / juzgados",defensoria:"Defensoría / MNPT",noticias:"Noticias / OIJ"};
+const $=s=>document.querySelector(s);
+const esc=s=>String(s??"").replace(/[&<>"']/g,c=>({"&":"&amp;","<":"&lt;",">":"&gt;",'"':"&quot;","'":"&#39;"}[c]));
+const safeUrl=u=>/^https?:\/\//.test(u||"")?esc(u):"#";
+const fmt=d=>{try{return new Date(d).toLocaleDateString("es-CR",{day:"numeric",month:"short",year:"numeric"})}catch(e){return ""}};
+document.querySelectorAll("#tabs button").forEach(b=>b.onclick=()=>{
+  document.querySelectorAll("#tabs button").forEach(x=>x.classList.toggle("on",x===b));
+  document.querySelectorAll("section").forEach(s=>s.classList.toggle("on",s.id===b.dataset.t));
+});
+function itemCard(i){
+  const tags=(i.topics||[]).map(t=>`<span class="tag">${esc(t)}</span>`).join("")+(i.flag?`<span class="tag flag">Revisar</span>`:"");
+  return `<div class="card"><h3><a href="${safeUrl(i.url)}" target="_blank" rel="noopener">${esc(i.title)}</a></h3>
+  <div class="meta">${esc(CAT[i.category]||i.category)} · ${esc(i.source||"")} · ${fmt(i.date)}</div>
+  ${i.summary&&i.summary!==i.title?`<div class="meta" style="margin-top:4px">${esc(i.summary).slice(0,280)}</div>`:""}${tags}</div>`;
+}
+let ITEMS=[];
+function render(){
+  const q=$("#q").value.toLowerCase(),c=$("#cat").value,t=$("#topic").value;
+  const list=ITEMS.filter(i=>(!c||i.category===c)&&(!t||(i.topics||[]).includes(t))&&(!q||(i.title+" "+(i.summary||"")).toLowerCase().includes(q)));
+  $("#feed").innerHTML=list.slice(0,200).map(itemCard).join("")||'<p class="note">Sin resultados.</p>';
+}
+fetch("data/items.json",{cache:"no-store"}).then(r=>r.json()).then(d=>{
+  ITEMS=d.items||[];
+  const topics=[...new Set(ITEMS.flatMap(i=>i.topics||[]))].sort();
+  $("#topic").innerHTML+=topics.map(t=>`<option>${esc(t)}</option>`).join("");
+  const byCat=k=>ITEMS.filter(i=>i.category===k).length;
+  $("#stats").innerHTML=[["Elementos",d.count],["Para revisar",d.flagged],["Sala IV / juzgados",byCat("tribunales")],["Asamblea",byCat("asamblea")]].map(([a,b])=>`<div class="card stat"><b>${b}</b><span class="meta">${a}</span></div>`).join("");
+  $("#flagged").innerHTML=ITEMS.filter(i=>i.flag).sort((a,b)=>b.score-a.score).slice(0,150).map(itemCard).join("")||'<p class="note">Nada marcado todavía.</p>';
+  $("#foot").innerHTML=`Última actualización: ${new Date(d.updated).toLocaleString("es-CR")}. Proyecto ciudadano independiente. Verifique siempre en la fuente original.`;
+  ["q","cat","topic"].forEach(id=>$("#"+id).addEventListener("input",render));render();
+}).catch(()=>{$("#feed").innerHTML='<p class="note">Aún no hay datos.</p>'});
+fetch("data/contenido.json",{cache:"no-store"}).then(r=>r.json()).then(c=>{
+  const link=(u,t)=>u?`<div class="src"><a href="${safeUrl(u)}" target="_blank" rel="noopener">${esc(t||"Fuente")}</a></div>`:"";
+  $("#derechosList").innerHTML=c.derechos.map(x=>`<div class="card"><h3>${esc(x.titulo)}</h3><div>${esc(x.texto)}</div>${link(x.url,x.fuente)}</div>`).join("");
+  $("#impactoList").innerHTML=c.impacto.map(x=>`<div class="card"><div>${esc(x.dato)}</div>${link(x.url,x.fuente)}</div>`).join("");
+  $("#compList").innerHTML=c.comparaciones.length?c.comparaciones.map(x=>`<div class="card"><div><b>Privado de libertad:</b> ${esc(x.preso)}</div><div><b>Ciudadano común:</b> ${esc(x.ciudadano)}</div>${link(x.url,x.fuente)}</div>`).join(""):'<p class="note">Todavía no hay comparaciones verificadas. Solo se publican con datos oficiales y fuente para ambos lados.</p>';
+  $("#otraList").innerHTML=c.otra_postura.map(x=>`<div class="card"><div>${esc(x.texto)}</div>${link(x.url)}</div>`).join("");
+  $("#fallasList").innerHTML=c.fallas.map(x=>`<div class="card"><h3>${esc(x.titulo)}</h3><div>${esc(x.texto)}</div><div style="margin-top:6px"><b>Propuesta:</b> ${esc(x.propuesta)}</div>${link(x.url)}</div>`).join("");
+  $("#accionesList").innerHTML=c.acciones.map((x,n)=>`<div class="card"><b>${n+1}.</b> ${esc(x)}</div>`).join("");
+});
+</script>
+</body>
+</html>

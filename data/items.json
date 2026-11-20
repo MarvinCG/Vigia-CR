@@ -1,0 +1,137 @@
+{
+ "updated": "2026-11-20T01:36:36+00:00",
+ "count": 7,
+ "flagged": 4,
+ "items": [
+  {
+   "title": "Justicia no acatará recomendaciones de la Defensoría sobre privados de libertad",
+   "url": "https://www.diarioextra.com/noticia/justicia-no-acatara-recomendaciones-de-la-defensoria-sobre-privados-de-libertad/",
+   "source": "Diario Extra",
+   "date": "2026-11-01T12:00:00+00:00",
+   "category": "defensoria",
+   "summary": "El Ministerio mantendrá el régimen de alta contención para reos de mayor peligrosidad en el CACCO.",
+   "id": "2bca69b8d6b5ad0b",
+   "first_seen": "2026-11-20T01:36:31+00:00",
+   "topics": [
+    "Alta contención"
+   ],
+   "signals": [
+    "no acatará"
+   ],
+   "score": 3,
+   "flag": true
+  },
+  {
+   "title": "Sala IV rechaza amparo de alias Diablo y Tan por restricciones carcelarias",
+   "url": "https://www.teletica.com/politica/sala-iv-rechaza-amparo-de-alias-diablo-y-tan-por-restricciones-carcelarias_416932",
+   "source": "Teletica",
+   "date": "2026-09-01T12:00:00+00:00",
+   "category": "tribunales",
+   "summary": "La Sala acreditó llamadas telefónicas y visitas agendadas; la medida se adoptó en un contexto excepcional por el alto perfil criminal.",
+   "id": "9c82f68824f0ae3d",
+   "first_seen": "2026-11-20T01:36:31+00:00",
+   "topics": [
+    "Llamadas",
+    "Visitas"
+   ],
+   "signals": [
+    "rechaza"
+   ],
+   "score": 4,
+   "flag": true
+  },
+  {
+   "title": "Laura Fernández presenta seis proyectos de seguridad al Congreso",
+   "url": "https://delfino.cr/2026/06/laura-fernandez-presenta-seis-proyectos-de-seguridad-al-congreso-esto-hace-cada-uno-de-ellos",
+   "source": "Delfino",
+   "date": "2026-07-27T12:00:00+00:00",
+   "category": "asamblea",
+   "summary": "Reformas al Código Penal y Código Procesal Penal, beneficios en ejecución de la pena y extradición.",
+   "id": "120be9f53ed75f2e",
+   "first_seen": "2026-11-20T01:36:31+00:00",
+   "topics": [
+    "Beneficios penitenciarios",
+    "Extradición"
+   ],
+   "signals": [],
+   "score": 2,
+   "flag": false
+  },
+  {
+   "title": "Costa Rica registró 873 homicidios en 2025, el tercer año más violento de la historia",
+   "url": "https://www.delfino.cr/2026/01/costa-rica-registro-873-homicidios-en-2025-el-tercer-ano-mas-violento-de-la-historia",
+   "source": "Delfino",
+   "date": "2026-01-05T12:00:00+00:00",
+   "category": "noticias",
+   "summary": "Tasa de 16,7 homicidios por cada 100 mil habitantes según el OIJ.",
+   "id": "6f11ab710fd5b747",
+   "first_seen": "2026-11-20T01:36:31+00:00",
+   "topics": [
+    "Homicidios"
+   ],
+   "signals": [],
+   "score": 1,
+   "flag": false
+  },
+  {
+   "title": "Riesgos en la implementación de los espacios de alta contención: circulares desacatan el Reglamento Penitenciario de mayor rango",
+   "url": "https://dhr.go.cr/informacion_relevante/comunicados/2025/mayo/019_Riesgos_implementacion_espacios_alta_contencion_Penitenciario.pdf",
+   "source": "Defensoría / MNPT",
+   "date": "2025-05-23T12:00:00+00:00",
+   "category": "defensoria",
+   "summary": "Las circulares y directrices reducen visitas familiares y contradicen el Reglamento del Sistema Penitenciario.",
+   "id": "54688a9df68f33c3",
+   "first_seen": "2026-11-20T01:36:31+00:00",
+   "topics": [
+    "Alta contención",
+    "Visitas"
+   ],
+   "signals": [
+    "circular",
+    "contradice",
+    "desacata",
+    "mayor rango",
+    "reglamento"
+   ],
+   "score": 12,
+   "flag": true
+  },
+  {
+   "title": "Juzgado ordena restablecer reglas para visitas regulares y visitas íntimas para privados de libertad",
+   "url": "https://semanariouniversidad.com/pais/juzgado-ordena-restablecer-reglas-para-visitas-regulares-y-visitas-intimas-para-privados-de-libertad/",
+   "source": "Semanario Universidad",
+   "date": "2025-05-20T12:00:00+00:00",
+   "category": "tribunales",
+   "summary": "La resolución ordena que se ajuste la visita general y la visita íntima al Reglamento del Sistema Penitenciario.",
+   "id": "9da0ddb3b0eb654e",
+   "first_seen": "2026-11-20T01:36:31+00:00",
+   "topics": [
+    "Visitas"
+   ],
+   "signals": [
+    "ordena restablecer",
+    "reglamento",
+    "restablecer"
+   ],
+   "score": 7,
+   "flag": true
+  },
+  {
+   "title": "Justicia sospecha que banda robacarros aprovechaba teléfonos públicos y visita íntima para operar desde la cárcel",
+   "url": "https://observador.cr/justicia-sospecha-que-banda-robacarros-aprovechaba-telefonos-publicos-y-visita-intima-para-operar-desde-la-carcel/",
+   "source": "El Observador",
+   "date": "2025-04-10T12:00:00+00:00",
+   "category": "noticias",
+   "summary": "La banda usaba teléfonos públicos, visitas generales e íntimas para enviar instrucciones desde La Reforma.",
+   "id": "dd1068235839e2fc",
+   "first_seen": "2026-11-20T01:36:31+00:00",
+   "topics": [
+    "Llamadas",
+    "Visitas"
+   ],
+   "signals": [],
+   "score": 2,
+   "flag": false
+  }
+ ]
+}
