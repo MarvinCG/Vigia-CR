@@ -1,8 +1,22 @@
 {
- "updated": "2026-11-20T01:48:19+00:00",
- "count": 160,
+ "updated": "2026-11-20T01:53:20+00:00",
+ "count": 174,
  "flagged": 10,
  "items": [
+  {
+   "title": "Cambio detectado en: Poder Judicial - noticias",
+   "url": "https://pj.poder-judicial.go.cr/",
+   "source": "Poder Judicial - noticias",
+   "date": "2026-11-20T01:52:55+00:00",
+   "category": "tribunales",
+   "summary": "La página oficial cambió desde la última revisión. Revise si hay un documento nuevo.",
+   "id": "e57edf34a7058a99",
+   "first_seen": "2026-11-20T01:53:20+00:00",
+   "topics": [],
+   "signals": [],
+   "score": 0,
+   "flag": false
+  },
   {
    "title": "Perfil de la congresista Kathia Calvo Cruz - Delfino.cr",
    "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1EQ2VrOEV2b0txT0k4dWs0dG14blFOVTkwUzNWaDNRY21DLWJVSnZsTXZBcnBRYW5VVWpTR3lTVFNndTkzY1BBWW5nWGE4aFBXQ1dBS2NSdGpIZFNsQ1M2ZGstYXdOQm1xSHc?oc=5",
@@ -58,6 +72,21 @@
    "query": "CACCO Centro de Alta Contención",
    "id": "2bdabae060ff0ee5",
    "first_seen": "2026-11-20T01:48:19+00:00",
+   "topics": [],
+   "signals": [],
+   "score": 0,
+   "flag": false
+  },
+  {
+   "title": "Cruickshank descarta renunciar a la Defensoría, oficialismo dice que seguirá valorando su destitución - Delfino.cr",
+   "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPZE5UVHpZbGI2b3BJV0ZpZGtnTUJPSWtpaWFJdDdScE5INzlwWVpVQURWN3ZyYUhScEdtdWM1OU53MWd6Ni1yV0xJa25LeDM2eEttbk9sbldDQXhVQW5GVUhGMk1BUmM4OGd5U3kwTGxlTnVYQS1wLTROWVE4NTJDT1AxQmdhZUZIYU4xemtXTjdpU3h2UXVzZVdzVkZuSWRHeEM0VjZFWmYyWk80MjMzUEJHSTdEUGpmTWgzeEdVZEpzS0tOTFE?oc=5",
+   "source": "Delfino.cr",
+   "summary": "Cruickshank descarta renunciar a la Defensoría, oficialismo dice que seguirá valorando su destitución Delfino.cr",
+   "date": "2026-11-19T19:19:25+00:00",
+   "category": "defensoria",
+   "query": "Defensoría de los Habitantes privados de libertad",
+   "id": "b050594f843b0adb",
+   "first_seen": "2026-11-20T01:53:20+00:00",
    "topics": [],
    "signals": [],
    "score": 0,
@@ -269,6 +298,24 @@
    "flag": false
   },
   {
+   "title": "Asamblea Legislativa aprueba moción para exigir renuncia de defensora de los Habitantes y fiscales general tras visita al CACCO - Periódico La República (Costa Rica)",
+   "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOWFpjTlJoR3E1V1MyNV9tT1Y4Yjk2SVptTk1OOXpnaEdISGltRlR5cV9ZZHhOMnpRZUlJM2pSemdEVy12WnVJdWQwQlVSQTJaTlJmbV9TSEpOdEk0SEtCX3ptNnU4Z0NVUXR3Q2pRUFpnamxWNXNrY3R6TGViZ283SUkxd1E4N0Nsd3ItTFl3YjExT2dPZkZkMHRXTnJWSUthX05RaDJZdDVqWUs1aF9laEJ2UVBlcE1YVzVvZ1BTdlk3OWtRQTQ5cGdIRWxZVjRWR2Fz?oc=5",
+   "source": "Periódico La República (Costa Rica)",
+   "summary": "Asamblea Legislativa aprueba moción para exigir renuncia de defensora de los Habitantes y fiscales general tras visita al CACCO Periódico La República (Costa Rica)",
+   "date": "2026-11-17T03:26:15+00:00",
+   "category": "defensoria",
+   "query": "Defensoría de los Habitantes privados de libertad",
+   "id": "358c8248b17e770a",
+   "first_seen": "2026-11-20T01:53:20+00:00",
+   "topics": [
+    "Alta contención",
+    "Visitas"
+   ],
+   "signals": [],
+   "score": 2,
+   "flag": false
+  },
+  {
    "title": "OIJ da primeros detalles sobre los homicidas de Camilo Rodríguez - Teletica",
    "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPNjA0MWs2VXdBY0EwY0VxWXdxVUNYRzVWTzRHQkFwOU9HUmpHYUc2MDR3a1pDZk51LWxuQmlXa1lEb0ZMUGNJblVyNnN6SFZJenVoY0lpTkJXdzE0ZDVDcEFNcldaM180WWJsdHVXSlVJWFRZRldkemZwamJHWDhnZXNXbi1EeWpETk9xWkpHOXRTMzc5SXBJWTR1YVNWcnNKNzFpbDgyN20?oc=5",
    "source": "Teletica",
@@ -326,6 +373,40 @@
    "topics": [],
    "signals": [],
    "score": 0,
+   "flag": false
+  },
+  {
+   "title": "Defensoría y Fiscalía detectan posibles abusos, torturas y falta de atención médica en cárcel de alta contención - CRC 891",
+   "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxQelRGX0FGT3VQalFhVVNBS2dBVThIWHNpbkhEMmhBT2ZzWnpqNXZMY1ZQS1gzV01iSHczbHVMd0wxemdJUUw0NnN6YUl4N3VzdTY0eUVJTnp2bWVtZk5zU01URlllbHN1SmptWEhiNjFPdkZWMURnSDJSSDFadDJmN2lSeVlhTU92U1N4MjBEeFFQbEQybzdSLXQ0VWhFTEFTMTh1WUxwMTJUYnB2VFpjbHhwaUVFa0ZTZklmanBrQXhUZmVTNFV1c3VPMU91UmNmcXB6VGRBSURHQQ?oc=5",
+   "source": "CRC 891",
+   "summary": "Defensoría y Fiscalía detectan posibles abusos, torturas y falta de atención médica en cárcel de alta contención CRC 891",
+   "date": "2026-11-16T16:57:07+00:00",
+   "category": "defensoria",
+   "query": "Defensoría de los Habitantes privados de libertad",
+   "id": "f873305d19615c38",
+   "first_seen": "2026-11-20T01:53:20+00:00",
+   "topics": [
+    "Alta contención"
+   ],
+   "signals": [],
+   "score": 1,
+   "flag": false
+  },
+  {
+   "title": "Diputado Antonio Barzuna a defensora: “Debería acompañar a los adultos mayores y no andar en el CACCO” - Periódico La República (Costa Rica)",
+   "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOZ05QbS1mLVNKcndhV3ZFcHVNekNFT2R5clR0ZXNLdEZTU1JZVW9kNElXMm1HUWJiTWRHaWlKeGFhT25IczBWUGhlU1JYZ0hFVXZWZ3NFTTNPQmF4V0FHZ3BJMWFDZzViNzlpYTlXcnptMnU1OWlVZnR0bWZ4REtVWHhBcVNvckZHMlNsMUJxZlZfckc4akNycUF3dF8xUTFaMkJEYml3bGF0VEZvS2x1bTRsX3FNZjdkUU5XZjJMb2dzUUt0Y2Y0?oc=5",
+   "source": "Periódico La República (Costa Rica)",
+   "summary": "Diputado Antonio Barzuna a defensora: “Debería acompañar a los adultos mayores y no andar en el CACCO” Periódico La República (Costa Rica)",
+   "date": "2026-11-16T15:36:39+00:00",
+   "category": "defensoria",
+   "query": "Defensoría de los Habitantes privados de libertad",
+   "id": "35f5d7d273015fb5",
+   "first_seen": "2026-11-20T01:53:20+00:00",
+   "topics": [
+    "Alta contención"
+   ],
+   "signals": [],
+   "score": 1,
    "flag": false
   },
   {
@@ -423,6 +504,23 @@
    "flag": false
   },
   {
+   "title": "Fiscal general confirma indicios de tortura y abusos de autoridad en el CACCO - El Mundo CR",
+   "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOaXEtdTZ2N0VLYkN5TDJjRTdWQ1AtbmlPWW45a3pGOXlRRDR6ekhrNWxVTE5DS1NIZ2NZem5EaTVLd2ZRM2c5cW1oVzFGVUNEbWpkZlFSOUJUeDhqSmRhR1lGZ2pwZV9XZUxtcVZPcjRwaDNkTjFfT2NqRU5WWXJfZTM4dTVFTDV4VTc0dHFDYjI0WFZUeUppVzFpVlloVjFWSDdVRnZqalo4bUs3?oc=5",
+   "source": "El Mundo CR",
+   "summary": "Fiscal general confirma indicios de tortura y abusos de autoridad en el CACCO El Mundo CR",
+   "date": "2026-11-14T19:25:53+00:00",
+   "category": "defensoria",
+   "query": "Defensoría de los Habitantes privados de libertad",
+   "id": "c57308ef2a5c4914",
+   "first_seen": "2026-11-20T01:53:20+00:00",
+   "topics": [
+    "Alta contención"
+   ],
+   "signals": [],
+   "score": 1,
+   "flag": false
+  },
+  {
    "title": "El respeto a los derechos fundamentales no es un favor, es una obligación del Estado - El Mundo CR",
    "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNM3ZLRWI0bkVTSWxTcmJMOXZlRGE4XzYwSXRyX0RYYVlkYUZ5Q21rcDFZNTlEUDZJT2JrU2VDdTkzYXE5UDdEUzA3QUN4ZTBkZ0Y3azl1LWREMkh2SVpQUC1nQm0zZ3dBeHB5aGlkcVJsREVjYi1wSV9sZktRS1g2Q3ZEOXd5bXFJR0FSOWVkM2RFV3dHZS04Qlota1BqTzNaYlFxeElnZ18xNS1GYmhFVw?oc=5",
    "source": "El Mundo CR",
@@ -447,6 +545,21 @@
    "query": "Asamblea Legislativa proyecto de ley seguridad crimen organizado",
    "id": "c2685d9eb92a2c27",
    "first_seen": "2026-11-20T01:48:19+00:00",
+   "topics": [],
+   "signals": [],
+   "score": 0,
+   "flag": false
+  },
+  {
+   "title": "Carlo Díaz: “Buscaban ayuda por la tortura que están viviendo” - Diario Extra",
+   "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOb1lENDU1ZS0wSUMzanV5YXZnS2tHQWZuam1rb1BYbnZ1QmtoVUd6SUlKLVpqdDRMamV1c2xUZHF2N29qbHZudmctQ28yVE1TbEluU1pLX0Q1Zm5Ob2J6dTF3bEo3a21xNnFYdlp2VWh1bUZ0UEo2aXBOUl9qTVpKbkxSX19wb0FwQmd3WHpWS2dhaHFzNUNEX2htRmI?oc=5",
+   "source": "Diario Extra",
+   "summary": "Carlo Díaz: “Buscaban ayuda por la tortura que están viviendo” Diario Extra",
+   "date": "2026-11-14T06:00:00+00:00",
+   "category": "defensoria",
+   "query": "Defensoría de los Habitantes privados de libertad",
+   "id": "805337cca16cb2ff",
+   "first_seen": "2026-11-20T01:53:20+00:00",
    "topics": [],
    "signals": [],
    "score": 0,
@@ -514,6 +627,23 @@
    "query": "Defensoría de los Habitantes privados de libertad",
    "id": "245083f0e08f4d5a",
    "first_seen": "2026-11-20T01:48:19+00:00",
+   "topics": [
+    "Alta contención"
+   ],
+   "signals": [],
+   "score": 1,
+   "flag": false
+  },
+  {
+   "title": "Fiscalía investigará indicios de tortura y abusos en el Cacco - CR Hoy",
+   "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQOEMycmNFMUF5QzR3d0RTNlE3cFl6TDlFODNvVlhXdXl2eXhCbU9aVjJTMmx6SVdmVkZ3enR2UjBrV3lWZV8tVTNvSktRWldncS15ZXpOeVBTMXRtUTJyZmdCdVZiSzFjM0tmRm4zN2x1T0g1WHRCYW1zOFd6WXowYzRCZXRvRWUtLTJLc3d3SFg0Sl8tVWc?oc=5",
+   "source": "CR Hoy",
+   "summary": "Fiscalía investigará indicios de tortura y abusos en el Cacco CR Hoy",
+   "date": "2026-11-14T00:15:45+00:00",
+   "category": "defensoria",
+   "query": "Defensoría de los Habitantes privados de libertad",
+   "id": "74ecebfbd3de5c1d",
+   "first_seen": "2026-11-20T01:53:20+00:00",
    "topics": [
     "Alta contención"
    ],
@@ -614,6 +744,23 @@
    "query": "Defensoría de los Habitantes privados de libertad",
    "id": "67751073326ac9ef",
    "first_seen": "2026-11-20T01:48:19+00:00",
+   "topics": [
+    "Alta contención"
+   ],
+   "signals": [],
+   "score": 1,
+   "flag": false
+  },
+  {
+   "title": "Fiscal llega al CACCO: Conozca la razón - Diario Extra",
+   "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPdDNiZUlHM0dXUTRVMkR5X0IwU3RrbFhnT3dxNGFWRy0xMlUyRFZ5SVI2YkhIV0VUZGI1OGZjc3FnYTJsc3VUUDgwaGtSU3Bzd2ZhcVRReV9IUG96QjFTY0w1bmxhQUVyRXRCRkVSV1ZRbHBHVTNTMEVod3k0N0p0Zw?oc=5",
+   "source": "Diario Extra",
+   "summary": "Fiscal llega al CACCO: Conozca la razón Diario Extra",
+   "date": "2026-11-13T16:27:01+00:00",
+   "category": "defensoria",
+   "query": "Defensoría de los Habitantes privados de libertad",
+   "id": "0f66a04159483616",
+   "first_seen": "2026-11-20T01:53:20+00:00",
    "topics": [
     "Alta contención"
    ],
@@ -810,6 +957,23 @@
    "flag": false
   },
   {
+   "title": "Koldo recurre al TC para anular su condena y solicita quedar en libertad hasta que se responda a su recurso - Infobae",
+   "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxON0R5RTYteTNyZml2dnZ4Y2pkbm1wSVZ2LUViczhZcldRMW9fQk1Wa1QxUFhSbzZEQ09lSC1PWjQyQTRyRDQwdzktdlMwTlB3MnB2MHZiVTdQSFlFdkdQSmV3elFUdG1EUmVabW9RRURURU8xcnFXaDNsbjlCMDhESUtRQ3ZxaHJLZk9wVGlYX0FmZlctSmlmSWlneFc4YTB5TUtzX0NRZTV0bURGSkRtRFF1dlZPcmhZU3VvSi0xa0plYmcydVEtWk9SQXd2MEd0RFlkSXVFS2FJYmI4YUtFdXN1S1RobVZCR1YwREd5QzHSAYsCQVVfeXFMUGVWT2d1M3dkUHpFdDltR1dpQXNNaDEwUWJvNU0zLXljR1RyNFRabTY0MThINzMxLUpyZ0pSQkF4TlpEemQ2MEdoc1lzOF8zYzBNbFJCQlFlTTg3bk5VcEVHa1B6UlRsTlIza1VvZDB1MllYVDBMc3lNdFpkUUdzOGNtRzVIbTZKNXV3ZTQtdjlSZ2g2Rk12bG50cGQtb2tXSk8ycWtUOWFuREdPSHlZckRrb05jcFRxTENrY1Rzck5HMGJmcmRDLTFzZDZOQnNLUllheDFVTHQ0WW8zbGFUX0NkeHFFQmE5d05HN0M1RnBqS0N0YU5sSTNSaWd1MWNBY29hLUs5RTVVX21r?oc=5",
+   "source": "Infobae",
+   "summary": "Koldo recurre al TC para anular su condena y solicita quedar en libertad hasta que se responda a su recurso Infobae",
+   "date": "2026-11-11T10:47:00+00:00",
+   "category": "asamblea",
+   "query": "ley ejecución de la pena Costa Rica",
+   "id": "95bd00664f049ca8",
+   "first_seen": "2026-11-20T01:53:20+00:00",
+   "topics": [],
+   "signals": [
+    "anula"
+   ],
+   "score": 2,
+   "flag": false
+  },
+  {
    "title": "Diputados buscarán denunciar tratados internacionales que “obstaculicen” reducir la edad punible - Criterio.hn",
    "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOeUREZ3ZkUkJuckFlVjViMWJmUHRkbnF5Y0MyMDM5V0ZxQ1czdVpKYXdhb3UzMXpFRzQ5ZVBoV3NCa1hJRDZkQWFrN1Nxb0diYlB3UXFJRXkyYnEwbFlkaUoyNWtCUjczczRVY2t4ZWplZE5JcVZydS1KUVN2SDE0bGU4cFcyM0ttOEFJdHh5S284cTgxa1FiWmswdzEzTEkwcVE5YjFac0VQUGNMcHJ6LXJGcklSZw?oc=5",
    "source": "Criterio.hn",
@@ -995,6 +1159,23 @@
    "first_seen": "2026-11-20T01:48:19+00:00",
    "topics": [
     "Alta contención"
+   ],
+   "signals": [],
+   "score": 1,
+   "flag": false
+  },
+  {
+   "title": "Honduras registra 849 mujeres detenidas por delitos como narcotráfico, homicidio y trata de personas - Infobae",
+   "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxORlRMSmlmSlpqbG5TR3cxR0JJVEN2T1VQNmhRdXFCaDdSb1Axd2s3aENZQ1lUZFh0aTY5VFNjMm16NzV3VGpZLW1waXhWVkItNFo3U3Y5VXpYV3pCWUtvWWVFcFh2Z2hibGd4S3JENGFKMXIwMmtZZTlpYVZpMV9peWNWaDNZMk1JUjZQOEExSHhBUm5ITHZtcUZBWEYtd05hcFVzV0hfNE5ieFhKdFp6ZUpEQ3I5Y1N3eXphUG9EUWNlWVRtN29BWE5HVUZ2dVU5ekNwSEJfVVprWmRG0gH3AUFVX3lxTE11bXI5eUZRdnNUS3JoUVJ0WVRyWXhpWl9FQnA5YjZKTjdNT3BEVFoybVVpTHZlRVVaWWJTalFrejBnT1BGZllmRTRpQkdlMllNSnlSaE5PbldSQkFib0RsSnd2Mi1oOWwxTjJQUjFXREpZLXF0Mnk2dk5teUJHTnVjMGt2d0lVdmZzSFB6cUlNMGstb083a0NCRGF0ZTFEUllQWUZtb05RVkZ4bEdId2p0VW90bVRreHd4OEpPcjhPRjItN2IxSEtZd2VQTlp0cnpLNldKT0lqQjllTllPMFBLUkFIWFRXTVltWHJtM2h1UGRwRFhqTkE?oc=5",
+   "source": "Infobae",
+   "summary": "Honduras registra 849 mujeres detenidas por delitos como narcotráfico, homicidio y trata de personas Infobae",
+   "date": "2026-11-08T08:00:00+00:00",
+   "category": "asamblea",
+   "query": "Comisión de Seguridad y Narcotráfico expediente",
+   "id": "8d274b2e35733d25",
+   "first_seen": "2026-11-20T01:53:20+00:00",
+   "topics": [
+    "Homicidios"
    ],
    "signals": [],
    "score": 1,
@@ -2116,6 +2297,23 @@
    "flag": false
   },
   {
+   "title": "CACCO: Estas son las reglas de la nueva cárcel de alta contención - Radio Columbia - Tu Estación de Radio Costarricense",
+   "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNaG9zSTU0cE8yb2V6dHJkR2Q3bDdTSFBZOFVnSjRabmhJZUNEZ1NQLXY5U1FuWG5Ram1xb1J0U1E3Q1ZTelp2VHFoUDdJdzhnaGhpeHhvZVNNWkQxcXhiZlEza0pnWm50SnBna2toUVFwRUJnVVhRaU5kY21TU1NHQmZPYlN4RGVla1hjdmxvS1g?oc=5",
+   "source": "Radio Columbia - Tu Estación de Radio Costarricense",
+   "summary": "CACCO: Estas son las reglas de la nueva cárcel de alta contención Radio Columbia - Tu Estación de Radio Costarricense",
+   "date": "2026-10-27T07:00:00+00:00",
+   "category": "defensoria",
+   "query": "CACCO Centro de Alta Contención",
+   "id": "582e45eda63239fa",
+   "first_seen": "2026-11-20T01:53:20+00:00",
+   "topics": [
+    "Alta contención"
+   ],
+   "signals": [],
+   "score": 1,
+   "flag": false
+  },
+  {
    "title": "#Doctrina: Actuales debates bajo la Ley 27.801. Análisis de las primeras sentencias (edad de punibilidad, cautelaridad y derecho transitorio) - al día | argentina",
    "url": "https://news.google.com/rss/articles/CBMikwJBVV95cUxQUTlQLUN3Nk8yTkRtbThBTDNVS2FZLVZMMUl1ZVoxNkpzaVV1NXU2blBreXhBU0Z1UlhTMzc0MXUzMWdRMGVnQUxKOEZ5cFI2VDVaRmdOVnNIbkVkZjNSbGF2Ujd4YVQ5ODBaTnFpa2JHTlVrOVJxc0ZvR21ObGJwNmMwQzJHZm56N1RXUUktM0VDRHktOFIxckVFV1JadW1OM2V5VTM3cDUyWk5fWUxVYk0zME1MMjJKV0VBckRFOUphWnp2a3pNdnY1RDE4SEVGRmJKVHQxMFFMdzBhVjJxeFU1dF9qSWlBLVdSakhWXzV5Z3NHbjB1LWJfVFhlQmtIRFRNdjVoUE84c1hla29xalpHTdIBmAJBVV95cUxQbUdBSVBGRl95MFZXcGhVdWwxZmRSbk9SYThYR1pyUnlqdHU0cE1OWXZ5bl9rYjlTbUdSMzJ5cnZfY01UV1UzUkhNZWxvTFRWMHNyWGtlcjdHOUQ5THlMdG5xVkFvWW9DMXVOd3NwWFUwWnFDRkpjRVdYZEt2NG1wQjV6UWdLQm03WHJEVFZGZnktMEdSOGZrQUlCc0ZyelJhNVMybWo3d3ZfZ01FaWJTTkF6OGFRM1JMMlh0WG9HTkpWZGxvOFltMkJ4WmxmRl9Bdks5VW56QTRBM2lCbXItUkctdGFfVWtzV3VhTjA1Q09HbUhsbTFpZVVwUjRyRnIzdHp5V3R6UDVsdV8zaDBrLWpGM19oWkhL?oc=5",
    "source": "al día | argentina",
@@ -2194,6 +2392,36 @@
    ],
    "signals": [],
    "score": 1,
+   "flag": false
+  },
+  {
+   "title": "Costa Rica ante la CIDH: Organizaciones alertan sobre estrategias para debilitar la independencia judicial - Cejil",
+   "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxQaWlwSG16Q1dpazlLb2RONFNTZDN1ZXo0QnJsMk1UTHpPTEZrNTFTSjBNOTNSR0ZiNEI5NE9HQzhBQlYtWmxMUFR2QW5kUS1KZHdiYWhwRzJKY2k4azhyN1NxSVozNlp4SjlNOFJDU3lwYlZIbU13TFljVlFyekJacEpSUUJEMjRmNnRJdDBsRWVJQUlNVW9zeDQ2WFBUM0ZmNmxITEF2WHdQMkVZeG9wM1R3aWRqU1V4ZTIxMFZpSURvbTJsRlBuZHRpbUE2ZTVGYXltYlZtMF9zX3ZiYUE?oc=5",
+   "source": "Cejil",
+   "summary": "Costa Rica ante la CIDH: Organizaciones alertan sobre estrategias para debilitar la independencia judicial Cejil",
+   "date": "2026-10-26T07:00:00+00:00",
+   "category": "tribunales",
+   "query": "Sala Constitucional privados de libertad",
+   "id": "26d5212fa5da9994",
+   "first_seen": "2026-11-20T01:53:20+00:00",
+   "topics": [],
+   "signals": [],
+   "score": 0,
+   "flag": false
+  },
+  {
+   "title": "Costa Rica traslada a primeros 123 reclusos a megacárcel inspirada en modelo de El Salvador - Radio ABC Stereo",
+   "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPaE9IT3BTVTNCZzBOOVJhY3NpMjlEVUNZaVRNcUtoU1QyWEgtRm5tUFpuazVBTGVhMllfRi1DSF9lQzM4ckJNQnpXWERIbzBJZ1B1ZHNhR294M2RTenE1eVVwOFNINVNlRWFRZlFhREN0elFRLVVfOEEwQjE2R3dPUVdlRHd1Sjh3R25hNE8yUGlkWFhaMjVuZEx5T2Q3VzBvRDJiQjhTb2dTRzVDU2tnZWFlMkhka0Z1NWstWk5NbGZMWFJsa29Jag?oc=5",
+   "source": "Radio ABC Stereo",
+   "summary": "Costa Rica traslada a primeros 123 reclusos a megacárcel inspirada en modelo de El Salvador Radio ABC Stereo",
+   "date": "2026-10-26T07:00:00+00:00",
+   "category": "tribunales",
+   "query": "Sala Constitucional privados de libertad",
+   "id": "b04bd64ee00f6fda",
+   "first_seen": "2026-11-20T01:53:20+00:00",
+   "topics": [],
+   "signals": [],
+   "score": 0,
    "flag": false
   },
   {
