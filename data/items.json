@@ -1,8 +1,55 @@
 {
- "updated": "2026-11-20T15:25:29+00:00",
- "count": 189,
+ "updated": "2026-11-20T23:59:38+00:00",
+ "count": 211,
  "flagged": 10,
  "items": [
+  {
+   "title": "Sospechosos de tentativa de homicidio en Boston de Matina, Limón - CRprensa.com",
+   "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPVEFUbkpGWDJuUGlKMUYzQVkzenotaW1NMXRaT0paMkE0S2UxZ29zS2tBRzRXQTJlb0tzYktsdDh6YU9JQ1BUZVBHR1NOdXdGTU1tdWZ6OVJMWEFoME5CUzR5LXpVbEwwcUZQR1g3VlJ4UnJUQVRiTXREb1NHczhGT2VWdWQ2cUdDNEVsSjcxbUJIMVZDdGEwM2RjdkE?oc=5",
+   "source": "CRprensa.com",
+   "summary": "Sospechosos de tentativa de homicidio en Boston de Matina, Limón CRprensa.com",
+   "date": "2026-11-20T21:56:47+00:00",
+   "category": "noticias",
+   "query": "OIJ homicidios Costa Rica",
+   "id": "a2b191bdb0ac00e6",
+   "first_seen": "2026-11-20T23:59:38+00:00",
+   "topics": [
+    "Homicidios"
+   ],
+   "signals": [],
+   "score": 1,
+   "flag": false
+  },
+  {
+   "title": "Los gritos de un reo durante su ejecución en Texas reavivan el debate sobre la pena de muerte en EE.UU. - BBC",
+   "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9hR2V0aWNpajBBR3NaU0U0Y3VBbW0za0FWd2hfNUJ1b3BSMm1OQkhJOGRUSnNDNUN3ZWdvYzFteUp5dVplNlIwcU80TWp4ajlhRGNHdlJOZzd5eG1W0gFiQVVfeXFMTUFvWWdJWU1kOXNRMFlmaXdvXzdfTklJaXVaWFZrVnJCalVHV2N1YVAwZGxHcDdNamU0dF80aGRIbnFWZUwxb1o4MEZweGs1MmJUMUZFdmRISzdWdlVNT090eXc?oc=5",
+   "source": "BBC",
+   "summary": "Los gritos de un reo durante su ejecución en Texas reavivan el debate sobre la pena de muerte en EE.UU. BBC",
+   "date": "2026-11-20T17:38:05+00:00",
+   "category": "asamblea",
+   "query": "ley ejecución de la pena Costa Rica",
+   "id": "2df4c22fa31eb926",
+   "first_seen": "2026-11-20T23:59:38+00:00",
+   "topics": [],
+   "signals": [],
+   "score": 0,
+   "flag": false
+  },
+  {
+   "title": "Tribunal ordena garantizar alimentación y salud a personas privadas de la libertad en CDT de Cartagena - Defensoría del Pueblo de Colombia",
+   "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQVV9QVmkwQV9UeXJGTml1aXE2bzBvQjEtM1VqVnJWUFRGSC1zVFd6WGJ4LTloWUlCaVNkR2l5U2xDV3FCOUZXallqQjBBZkMzdjk4S0tyM09ranVpeFFSTEpXYUZjWHBZVWRxS0p3cUhRdXFjZ3dMX0RLVFVrMTZ6c3B5REg3a0FRZVh4ZnlKVQ?oc=5",
+   "source": "Defensoría del Pueblo de Colombia",
+   "summary": "Tribunal ordena garantizar alimentación y salud a personas privadas de la libertad en CDT de Cartagena Defensoría del Pueblo de Colombia",
+   "date": "2026-11-20T15:48:05+00:00",
+   "category": "tribunales",
+   "query": "Sala Constitucional privados de libertad",
+   "id": "83a303b9b3e140ab",
+   "first_seen": "2026-11-20T23:59:38+00:00",
+   "topics": [],
+   "signals": [],
+   "score": 0,
+   "flag": false
+  },
   {
    "title": "Cambio detectado en: Defensoría - comunicados",
    "url": "https://www.dhr.go.cr/",
@@ -62,6 +109,24 @@
    "topics": [],
    "signals": [],
    "score": 0,
+   "flag": false
+  },
+  {
+   "title": "Angie Cruickshank aclara que no renunciará por hacer su trabajo y visitar el CACCO - Periódico La República (Costa Rica)",
+   "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPYUlZWmt1TDM3aUt2VXV1dUhsVnowQTFVWUVmdFo5OWJsS1NLWVlrMk0wMUpZX3UtMG0zN1NVYkFueG5zVFBFdmlfZEJlUnRkNU5YZFh0M2RpdjY5NzBpWTZiSkJId25tUXF3SjNnRU5SQ1hWN0VfUjRta3VpWUY4M0lvR3VxSklpLTJoTEw1aHAyVlZCSzliV3cydGp3MTUydmFpZVhRTEFhbUpxNzVjVA?oc=5",
+   "source": "Periódico La República (Costa Rica)",
+   "summary": "Angie Cruickshank aclara que no renunciará por hacer su trabajo y visitar el CACCO Periódico La República (Costa Rica)",
+   "date": "2026-11-20T04:11:22+00:00",
+   "category": "defensoria",
+   "query": "Defensoría de los Habitantes privados de libertad",
+   "id": "3ffcd75b328bf4b1",
+   "first_seen": "2026-11-20T23:59:38+00:00",
+   "topics": [
+    "Alta contención",
+    "Visitas"
+   ],
+   "signals": [],
+   "score": 2,
    "flag": false
   },
   {
@@ -197,6 +262,21 @@
    "query": "Sala Constitucional privados de libertad",
    "id": "4d5b761dd4ede1a7",
    "first_seen": "2026-11-20T01:48:19+00:00",
+   "topics": [],
+   "signals": [],
+   "score": 0,
+   "flag": false
+  },
+  {
+   "title": "Condenaron a la esposa de “La Hiena Humana” y a guardiacárceles por la fuga que terminó con el crimen de un taxista - Agencia Noticias Argentinas",
+   "url": "https://news.google.com/rss/articles/CBMijgJBVV95cUxNcWdnUUEyNXFrLTJ0QWxXOGR3R1FER3dIeUtBbGx4QTJKYndfRUFNQUdVb184R0pZN0doUUpzNFZXbmZQdHg2VE9zR1dOVUVFMFMzc09CUU55a0M3M0FZUWNIREdrMmYtd3dfT3VOVDcxSDRlQlRRcDdmYjJYWlVyZEM3eDVmS0x5UzJnSXRjbGhVSWpyM0t3bVFVSzlIb0E5dW9neF9icmVRM1RyOTVmMlFWMWFGZVlKenNJcDBLSU8xTXN3eXYteW02VVBFVFF2TlZoTmdtWTBvUzBZclNqYWRhTFJtbl9LVHU3dDN3R2ZkVnZPOHU4N2sxWFhERl9fV3kwaERlQ29PMDViVXfSAZwCQVVfeXFMT0E1SWVybEhYRElsT2thUlRrOEt6aDkyVExsem1hc2xNV1VGN1JKZ0tySnhCZWh6T2ItWkoxQkpLWEVvYjlyT0VWV2UzMS12RkxXVTNlQk5WOFZ5TjhEdVZVR2laUk1BaHVUOXRGMlVVTjdvUWlrSldib3hPTUdrbmJkaWhHQVVSV3lmOFYzN0Q3Z1NvR1lQUXpFX1ItRnh6V1loOGpOSHh4NHZMRFVUQjRlSVg0dWgtRWxMcE9uU050cmRBZDhRZkdlQ0ZjQ2ZVWUJ2MHhCZlpjcklieVd3cDVjeE1MTURqS2VLc1JIVHhreEwtVDdoNUc5bTNXall2M3VlUDA2Z2dvV1hNTk9EcTJkcEpTb0xZamFLOV8?oc=5",
+   "source": "Agencia Noticias Argentinas",
+   "summary": "Condenaron a la esposa de “La Hiena Humana” y a guardiacárceles por la fuga que terminó con el crimen de un taxista Agencia Noticias Argentinas",
+   "date": "2026-11-19T14:37:14+00:00",
+   "category": "asamblea",
+   "query": "ley ejecución de la pena Costa Rica",
+   "id": "bc98c58dc657ec1e",
+   "first_seen": "2026-11-20T23:59:38+00:00",
    "topics": [],
    "signals": [],
    "score": 0,
@@ -342,6 +422,23 @@
    "first_seen": "2026-11-20T01:48:19+00:00",
    "topics": [
     "Sicariato"
+   ],
+   "signals": [],
+   "score": 1,
+   "flag": false
+  },
+  {
+   "title": "Homicidio calificado: Pueblo Soberano votó en contra de la moción del Frente Amplio contra los asesinatos de - Culturacr.net",
+   "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE5zd1VyYVhEbEtYS2JYNWtCYlBQSHhrVzJJYmxsaGhObGhBZ0t2MW5xR2JKaWl1YnVRZW9hb2poZlBPQTY5RFlSaDBVandNTEZxcG16STRoWDJrMnJtb0xYQVZKVnFnQ05JdWFmNGFVaF8tZ9IBd0FVX3lxTFBQQVN1bWFXY1pTNHBQN2VNZFY2YmZyU1ZGdnFJdXU2T2pOdkJ5RGQyb2pBSlU1T3JqOE5wQTloalh1eXAtQi0xV3l3eDVGcENxbUpYS2tIdXhNSXpTMnVuZW42d016ZXp4LW9zZ0J2OU55YUNoUlBr?oc=5",
+   "source": "Culturacr.net",
+   "summary": "Homicidio calificado: Pueblo Soberano votó en contra de la moción del Frente Amplio contra los asesinatos de Culturacr.net",
+   "date": "2026-11-17T20:52:43+00:00",
+   "category": "asamblea",
+   "query": "Comisión de Seguridad y Narcotráfico expediente",
+   "id": "f64714fbbcb94750",
+   "first_seen": "2026-11-20T23:59:38+00:00",
+   "topics": [
+    "Homicidios"
    ],
    "signals": [],
    "score": 1,
@@ -646,6 +743,21 @@
    "flag": false
   },
   {
+   "title": "Comisión legislativa de Costa Rica aprueba proyecto para destruir pistas clandestinas sin sentencia judicial - CRprensa.com",
+   "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNVnY4Q3ZCLXByMDUyb0cxa1dNbUV1aEROa0UtMXpMMjVXVjFDLWoxeE1iMElGcThyT0dTdEc4RkxjYTgzTHg1SnJJY0p0ZnpHczFIWkZ6dnA5OEJSbVhJWkp1aUJrMGZNeGI5NHFodlRBdXBtX29UNm50LVU5WnJvYk4zbUZMLWlGUG4wbC1kb2g0MzJMNGNTSkJtNDllVUxRTldRa0JqcXJWcUZoaDVkMjVtQV9MYl9GY3NWOEFvM0JzWWpNemdJUXhOMmRQS2ZFQ1lab0lMbVc?oc=5",
+   "source": "CRprensa.com",
+   "summary": "Comisión legislativa de Costa Rica aprueba proyecto para destruir pistas clandestinas sin sentencia judicial CRprensa.com",
+   "date": "2026-11-14T15:53:50+00:00",
+   "category": "asamblea",
+   "query": "Comisión de Seguridad y Narcotráfico expediente",
+   "id": "c72507f9f0b88b58",
+   "first_seen": "2026-11-20T23:59:38+00:00",
+   "topics": [],
+   "signals": [],
+   "score": 0,
+   "flag": false
+  },
+  {
    "title": "Costa Rica avanza con ley para destruir pistas clandestinas sin esperar sentencia penal y castigar con hasta 15 años de cárcel - Infobae",
    "url": "https://news.google.com/rss/articles/CBMigwJBVV95cUxQbXAyUU5tNTEzaUJlNkJLVzJQWUNPa09LTEdWUHc4N1hmSmg1OFdGZzlxbmJ4UEo2aFY2R2tHaERucXpVSkJha3FqMDBEdEF1Y3hYOGtGWW9CdEY2NHlwa2FySVFMYmowaDdBcUhNU1FSR09HNXJzaEhld1lRNXQzb29PdGdyWmpSSm5FUmxzY1JWTWo0d0ZnU0VqcGNWVXFDeVRFQnlhLU9CeWdBcUpvSnVDVjFOMHd5MTFHWU83U2RPT3g2WkJZTy15dzRLRmhlSkRoMkJhejdkbks0NGpUMDNDMjJsTFFfNVlEbUR2QnVSVWpiX2tQaUlVc1NEanZRUEYw0gGeAkFVX3lxTE5EQ3prVUphZU5PTWhtbkZsMVY3ZVhxU3VCUno2VEx1MFJJUnRYeGFyd3VoY3FKUU04QnJzSVY2R2FkZ1VjY19VQ2dvaEpYNnoxUE1DQWYzSmk3cS1LeWlZOHAxMXlsSmVEZHFtYUppV29QQ2hqSTZDUU5zSHh3TldMc0RaeF91bm52cmk4UmZrRGtKSV9ocEFCVlNTUVZwOFBWZEF6R3VBZHhIWjhXWndfLTJYSklySUZMOG1Vdjc3WGdQZGFvLTFGT1VLQWZmajJvaWw3Q0lUYW5LTThYVzRHUGdiT3JzckRzUDByYkpmLUhDSDRHZ1NvX19CaVU2TnVNRTFQMFExZ0pfRm14UUxJMlpXOVFkSWtkM0phbmc?oc=5",
    "source": "Infobae",
@@ -844,6 +956,23 @@
    "flag": false
   },
   {
+   "title": "Fiscal general: hemos recibido múltiples denuncias de violación a derechos humanos y tortura en el Cacco - AmeliaRueda.com",
+   "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNQ3FjdmZpMDZkVm1MaWhtdjFwR1NRM0tHZ3l1UGxWY1NaRGZxM3p1QkJxWU5MUnp2NlNlS2pMMWRSQTJvVjdQS0N3ZUVLWXdUTE1ZVTNsaENESk9NYURCU0V0UEJ3Z2J5cEtHcDJIbHJQUXlHWDF5RjBhYWFORTlmaWFMYzJyX1d1VDZOMFRMa19BZ3B1LU0xZ0x2MHR1bkhMY0N5SVdnZjVoZHlEOTFyZmZjbVNuUWhjS0l4T1pSWUpDTWMyLW9ranJNYjhabngtNHk3WExnOG0xQQ?oc=5",
+   "source": "AmeliaRueda.com",
+   "summary": "Fiscal general: hemos recibido múltiples denuncias de violación a derechos humanos y tortura en el Cacco AmeliaRueda.com",
+   "date": "2026-11-13T18:18:09+00:00",
+   "category": "defensoria",
+   "query": "Defensoría de los Habitantes privados de libertad",
+   "id": "9c6624436ad0b141",
+   "first_seen": "2026-11-20T23:59:38+00:00",
+   "topics": [
+    "Alta contención"
+   ],
+   "signals": [],
+   "score": 1,
+   "flag": false
+  },
+  {
    "title": "Fiscal general afirma que visita al Cacco permitió detectar posibles ‘violaciones de derechos humanos, abuso de autoridad y tortura’ - La Nación Costa Rica",
    "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPOHZWMlF2Q2Z3dE5PaGNuZkVXMGZrSkZMbHl6d2tDNHRmZ3pXQWZ6UkpxckJVbl9oejBKMTZNaTZtc0lWdk5zWFFqTkxJbnlRUUN0UV9neUNKWWhodWhBWDdOVU5FbnVLaGxWTjVYc1NyaHJoRU9nOFMtd3hRU1ZwVlhDNDkydUtOX0J2NmZ1ZFpzX0pZdzZndWJXcWxoWkFrWkx6SGFQaURZZUNoRDVpSDNvUEJmdw?oc=5",
    "source": "La Nación Costa Rica",
@@ -977,6 +1106,21 @@
    "flag": false
   },
   {
+   "title": "Dueños de pistas clandestinas enfrentarían hasta 15 años de cárcel - Periódico La República (Costa Rica)",
+   "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOeEtxUy1lQ0VEbjBCOFZZcjJBZVMzd1BvMjM3andFN3RtRzVya3E2Ykl6c1B2eHhvZ2RrUkZHNlRzeFF1dTl2aHFTYjRNbzV0MmRZMEpGanpDdlhCY0JJa3RWZFJPNVVMSi1QYzRjQUo2UTh5ZFdKNXNXR1JVSEtwT01adUt0QkR5Z2djSFV1RXQtd01wQVludFRyaw?oc=5",
+   "source": "Periódico La República (Costa Rica)",
+   "summary": "Dueños de pistas clandestinas enfrentarían hasta 15 años de cárcel Periódico La República (Costa Rica)",
+   "date": "2026-11-12T22:15:47+00:00",
+   "category": "asamblea",
+   "query": "Comisión de Seguridad y Narcotráfico expediente",
+   "id": "9bb8536fed67a1b1",
+   "first_seen": "2026-11-20T23:59:38+00:00",
+   "topics": [],
+   "signals": [],
+   "score": 0,
+   "flag": false
+  },
+  {
    "title": "Avanza proyecto sobre persecución de pistas clandestinas pero hay otra ley que \"lo borra con el codo\" - Semanario Universidad",
    "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQalJ6bUN1QjVxV0dqdFFIcU92QXR6WWh6NWs1NDdKbl9lX3dQVzFPRmttaHNHa0prRWF0eGF5RWZXSE1udzE1dmFhT0ozN0s4cFFkLUM3emF3WGgxQ1dGQjYtOUtqeWJTYXFUcmhsc1p6Z21CTi1KQWozY2RpWVZGZXJGWXJLck51em5IMkZKMjE0QThOMGZvUGV5QlZzVnl3SWdXYU5XVzZlbE44SG1DQWlVeW9DY2VWcURCQ01jcXlRLTVXakpVWWlYUUlUbHVneDNRWQ?oc=5",
    "source": "Semanario Universidad",
@@ -986,6 +1130,38 @@
    "query": "Asamblea Legislativa proyecto de ley seguridad crimen organizado",
    "id": "2804ada7b50945b3",
    "first_seen": "2026-11-20T01:48:19+00:00",
+   "topics": [],
+   "signals": [],
+   "score": 0,
+   "flag": false
+  },
+  {
+   "title": "OIJ investiga tres homicidios en vehículos en Cartago, Alajuela y Limón - CRprensa.com",
+   "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPMG05dVEtZ0pHeWEyQktOYzVIbW9YQ2QtNDRxRGpxdXdEN0N4bncxV0Y4OUhZN0xISlpQcGN1a2Fxd0lmT1FQVGdBdUtfQmQtcWExUm93dlVfMnp2OFcwSmFRaGtrTGNBVFFYX09CbURKNFkxNVhmZWJvTDZlUmJYYlhXZ1dfQjdDWnlnUjFMUjlPSlFIV1RITHh1NEFCTTI2d0htTjRn?oc=5",
+   "source": "CRprensa.com",
+   "summary": "OIJ investiga tres homicidios en vehículos en Cartago, Alajuela y Limón CRprensa.com",
+   "date": "2026-11-12T21:01:07+00:00",
+   "category": "noticias",
+   "query": "OIJ homicidios Costa Rica",
+   "id": "a1c386d92cba7755",
+   "first_seen": "2026-11-20T23:59:38+00:00",
+   "topics": [
+    "Homicidios"
+   ],
+   "signals": [],
+   "score": 1,
+   "flag": false
+  },
+  {
+   "title": "Prisión por pistas clandestinas: dictamen unánime para castigar con cárcel a quien las construya o tolere - - Culturacr.net",
+   "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE44UVBCRi1LZjFIV0FXcy1POHY3R2hlOWV6ZmpmdlRkMjMybUc3cFFUQUs2UDVQR2VjY3RBVE5kSlhGOUtEYU5FY1RUS1BjanNxcFhKTUliVDFTN3Fnc1Bzc2ZPZTNfbjFLWEt6SmwzdWpDRnIwMk9EdUln0gF6QVVfeXFMTjhRUEJGLUtmMUhXQVdzLU84djdHaGU5ZXpmamZ2VGQyMzJtRzdwUVRBSzZQNVBHZWNjdEFUTmRKWEY5S0RhTkVjVFRLUGNqc3FwWEpNSWJUMVM3cWdzUHNzZk9lM19uMUtYS3pKbDN1akNGcjAyT0R1SWc?oc=5",
+   "source": "Culturacr.net",
+   "summary": "Prisión por pistas clandestinas: dictamen unánime para castigar con cárcel a quien las construya o tolere - Culturacr.net",
+   "date": "2026-11-12T19:27:22+00:00",
+   "category": "asamblea",
+   "query": "Comisión de Seguridad y Narcotráfico expediente",
+   "id": "d95a080d7a2d344f",
+   "first_seen": "2026-11-20T23:59:38+00:00",
    "topics": [],
    "signals": [],
    "score": 0,
@@ -1063,6 +1239,21 @@
    "query": "delito ordenado desde la cárcel Costa Rica",
    "id": "6f09311b50f82230",
    "first_seen": "2026-11-20T01:48:19+00:00",
+   "topics": [],
+   "signals": [],
+   "score": 0,
+   "flag": false
+  },
+  {
+   "title": "Asesinatos en Cartago, Limón y Alajuela estarían vinculados a ajustes de cuentas - El Observador CR",
+   "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPWUlaY3ZGYlY2Y0o1QmotOEVCMVo5MG11cFBHeGpVU1VySGN6ZUhDODVKOEp2YXkzWGNCcnN1RkdWT014dWpLSFhjN2N0MHNEUnZ4bGY1UUNudlUwT2VDZkdqWDdyQ3E3MVlHZXRXNFdVNEhCeGd2VXNvVmhfSUFyZWItMzdVZl8yWllmeVVWUW5IR0JBSUpnTFg1S2hCNGVRZzY2ZA?oc=5",
+   "source": "El Observador CR",
+   "summary": "Asesinatos en Cartago, Limón y Alajuela estarían vinculados a ajustes de cuentas El Observador CR",
+   "date": "2026-11-12T06:03:00+00:00",
+   "category": "noticias",
+   "query": "OIJ homicidios Costa Rica",
+   "id": "cd209a4b546f1022",
+   "first_seen": "2026-11-20T23:59:38+00:00",
    "topics": [],
    "signals": [],
    "score": 0,
@@ -1273,6 +1464,21 @@
    "flag": false
   },
   {
+   "title": "Estado reconoce tortura contra Barragán y pide a CIDH no admitir caso - Los Ángeles Press",
+   "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPYTI1TnVSYWpXVFN3T1U2a25rWHRDZkdFZjRLc2pKX0hIS1JNbWZ6TllTOWJ1OEZaQU1jaGs2eWxJQkg2ejlKNTNhLWx5MU5KNng2RnNsN3NIaHY4NGlzWHRiOEFHWFZna2w1THhPa2VNVmNVVDRBNEp5dmRnOVNDRk5FRDM0VFhpMGxZYW92S3pHcmRzamIzXzNmajdnaGljdkRmUHA5QXF2SUtTTjQ0UWhrcjNNSVhaNDc1ZTRpYXRUNVRkSjEtbWl6Y0RxMG5tU2Y1N1I5RGE?oc=5",
+   "source": "Los Ángeles Press",
+   "summary": "Estado reconoce tortura contra Barragán y pide a CIDH no admitir caso Los Ángeles Press",
+   "date": "2026-11-09T08:00:00+00:00",
+   "category": "defensoria",
+   "query": "Mecanismo Nacional de Prevención de la Tortura informe",
+   "id": "fa321dbf1a067049",
+   "first_seen": "2026-11-20T23:59:38+00:00",
+   "topics": [],
+   "signals": [],
+   "score": 0,
+   "flag": false
+  },
+  {
    "title": "Homicidios apenas cederían en 2026 - Periódico La República (Costa Rica)",
    "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFA4TlZqbUhYNllsWjBYRG52QzhuTXNjNW84cGNtVXJtMUxyQjRNZ0xzdHVfek1IamVFeWNSYm1ZdUg5SGs4dmRiODJidzFkYWk0UGtYbDNNeEdXdGJNRWtHR3lhRWk3cmZmNEkwVlFUNHY?oc=5",
    "source": "Periódico La República (Costa Rica)",
@@ -1336,6 +1542,25 @@
    "topics": [],
    "signals": [],
    "score": 0,
+   "flag": false
+  },
+  {
+   "title": "Un juez de Paraguay ordena la prisión preventiva del expresidente Peña en un cuartel militar donde podrá recibir visitas y usar su teléfono - BBC",
+   "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE00Mk93Ukhidzg1N2MwVF9TM3dxTDVrbVR3SUNCY2t3WjZRanlYdm4xMkQ4QVl6eHRac2R1RURLeTVxN21oZzU1Zmx6MlI3WHNJU2lUWm5CRUN5M1Vj0gFiQVVfeXFMTmVkTHhXUUJNUWpHaTVrcmlWbG1ob2toOVpzcHZaNTkwVDlra1pmUUMzbHV1NnVMZWN0aGNfWlBJbjBVVnVVS0plU3hXZ1FOUDhOdFhWaFd1UDlGN2JXSzBySUE?oc=5",
+   "source": "BBC",
+   "summary": "Un juez de Paraguay ordena la prisión preventiva del expresidente Peña en un cuartel militar donde podrá recibir visitas y usar su teléfono BBC",
+   "date": "2026-11-07T08:00:00+00:00",
+   "category": "noticias",
+   "query": "delito ordenado desde la cárcel Costa Rica",
+   "id": "9bd3871d599281e2",
+   "first_seen": "2026-11-20T23:59:38+00:00",
+   "topics": [
+    "Llamadas",
+    "Prisión preventiva",
+    "Visitas"
+   ],
+   "signals": [],
+   "score": 3,
    "flag": false
   },
   {
@@ -1449,6 +1674,21 @@
    "flag": false
   },
   {
+   "title": "Frente Amplio y diputados chavistas alcanzan acuerdo para modificar registros de antecedentes penales - CRC 891",
+   "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNQVlUSWJGSHJVSEtJU2E4b25WLTZ5d01JbW1DMEpOWTFuTjhJUGVzUm1jc0hDYW8yMnpCT05HVVhoX0xIU2tUZEtURzktdkR1cnZYbFhWbDYyMnA4WTFxRVktbHlrNFpzZk9DYkZkbXJnZWtzWTVtMU41c09hVHFsUTE5MThIMWVlUzlzYV9ybjlNamhHZFFrRTNHdzFEdjlhZzFnV2NKUzdwaE14emFmOXlZSmxRQ2xvZGkwNDN1TmxqVUZiMVJ1b01TRE9uQ0ZZWjljZ2JkVDA?oc=5",
+   "source": "CRC 891",
+   "summary": "Frente Amplio y diputados chavistas alcanzan acuerdo para modificar registros de antecedentes penales CRC 891",
+   "date": "2026-11-05T20:04:07+00:00",
+   "category": "asamblea",
+   "query": "Comisión de Seguridad y Narcotráfico expediente",
+   "id": "ec3d5635fe97ad16",
+   "first_seen": "2026-11-20T23:59:38+00:00",
+   "topics": [],
+   "signals": [],
+   "score": 0,
+   "flag": false
+  },
+  {
    "title": "Sala IV acumula 27 expedientes relacionados con las medidas de alta seguridad en cárceles y el CACCO - Radio Monumental",
    "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNQVl6V0hFbEZadURRbm91TGRJM0xfSFlpME5ZY0FtSko1SzEyQjVrRDRsSm5PTUhReFBtZHBtUmIyMklXSXA2VUZzdml6MVZvazQxb0Z2em9tUXJtekI0TE9CQUhEU2Y3d1Z1anFNRDNObW5USlk5cF9VUGZjWjZ4Vjd1WUg5Y1UyYXJHc25hZVFhVVN3Q1E0Q1BZdkxfRFA3UWRZV181dmJJQkRXOUdyZ1hrZVRjSUlhcGppcmdhaEE3UERuckFCNmNZeDM3TlVOcWZKVzJjMkY?oc=5",
    "source": "Radio Monumental",
@@ -1514,6 +1754,21 @@
    "flag": false
   },
   {
+   "title": "Avanza tercer proyecto de seguridad presentado por Laura Fernández tras consenso entre el oficialismo y la oposición - El Observador CR",
+   "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNSGZpcWp0S2RJNkFPdnZ0V052cjVZTmZNRnh6cnQ2Wm9xMGtGektSR3V1RDZTaERZWjdjZTJ6cE1IdUpabFpKdUtLZGZZbUlrWFl5NVVod1FpUEhLUDZmX1g2aHkwQjFYaXNTanMzaUdTa29lUW1Rek1kWk5jUURSODh6SWRKd3pyLXF5VmRRZno3dWpYeGZfa185Tzh2UjVwRGlNMzlBYjlIelFmTFpQM3FVcmhmSlduNmpNSU53T2xMVks0Mk1KVzd4NzF2a3BhS2JMMXlR?oc=5",
+   "source": "El Observador CR",
+   "summary": "Avanza tercer proyecto de seguridad presentado por Laura Fernández tras consenso entre el oficialismo y la oposición El Observador CR",
+   "date": "2026-11-05T08:00:00+00:00",
+   "category": "asamblea",
+   "query": "Comisión de Seguridad y Narcotráfico expediente",
+   "id": "9030b7f9f02f8102",
+   "first_seen": "2026-11-20T23:59:38+00:00",
+   "topics": [],
+   "signals": [],
+   "score": 0,
+   "flag": false
+  },
+  {
    "title": "La falta de financiación complica el plan de De la Espriella para construir nuevas cárceles - EL PAÍS",
    "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxNR1ZQWERYdzJIeTQyV0RKa0JlbDZsMjJMeVpSR3h0QzlMSkdzNEtxYTg3c0pnNkdicDBzYnZDV1ZiQVRxLVREUlNGNnJ6WWxXWmlsNFp5dW1UWFp0NWJXT0lxVEVfcmYxMkNSTDYtOWFKNWFpN2E0Nnc4RDlKMmoxSlUwRlpKc0V0bldMSWpJVlh4ZHlnMWMzN0c4Qlk1cDhNRVhLdDdJbFhla0RVSXZhc1pteTJsa3Y1NEdUX0h3X1hxckFPLUNCVFdJZlRuSEx0SHY4b1RsMWpRWFXSAe8BQVVfeXFMUEJmOVRsaTQ4c2c1NG1MdE42QmdzVy1YaTB4VnpGb2J4STJuNUpIdVNVYURWU3g0LXFNM2RVZVhDQ0J0YzVpc0VxRnJBS3NhWE9WYTl1X3ItLTctWXl1QVJXMzFLQ0RmZXIwQTgzekxqQmhwMVBtU2tFUzhkSlRfOGhZRjNwMW9fZzlfMkhjbHVWNFFWa3JHcG5FMFJYa3Y3c0duVGVSSkNIdWs4c3VISG5EVF9DRVl4eTR4RGJuak45dU4wZXFtbW1WYXNUa0Z1RFN0dzR1RUk2Q2dydE5GdjVZdDFDTHBKQUZ3WUdkc2s?oc=5",
    "source": "EL PAÍS",
@@ -1541,6 +1796,38 @@
    "topics": [],
    "signals": [],
    "score": 0,
+   "flag": false
+  },
+  {
+   "title": "Corte Constitucional alerta por dos cárceles que llevan 10 años en construcción y no se han entregado | El Colombiano - El Colombiano",
+   "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOTHJqZVlKd1htX1BHSFFMTG5rZnF3N2NIS3E0SF9oS3ZSWnRsbUp0bW0wRmNxc3NQSXNsOG5qeHVjM1dYTTY5aDFYV0RfV0pSdnZ4YUxjbHExODh0OWd3SGtYNG84V3B4c3ltcVdnYWxoYkpZdU5URFo1LUZQYjdMamZydXFCZVdnVWFxVXdESjE4SDEtTEc4Ujc1NnNrcGlfNlVsN2VWVnA1WklvbEpEb3VIcFZsSjU1TEc4aG9yd2fSAcYBQVVfeXFMTUZaRUxaTm9pWW04emhrTFpvejNpRDZPZG56N0xQQVYwRmJWMXFGdzJId3NJOVRnZnd6ZVk5RDVRUWZxZVI4eU5HcU5FMmZHUnhNNzE2Rm4zNERvbUxyX0ppbTRITXVyS0N4V09rS0JiZ3lPenNLaHk4M2tTdlRSbTIyc25PTzJtMVNEa1FlRW5RQ0taZ0kwR3ZmVVhST1p6a2NlN29kNjRKaGRkS3ltam5wSmdNaWExTjUxRTZ0WW92YzVfMmNn?oc=5",
+   "source": "El Colombiano",
+   "summary": "Corte Constitucional alerta por dos cárceles que llevan 10 años en construcción y no se han entregado | El Colombiano El Colombiano",
+   "date": "2026-11-04T08:00:00+00:00",
+   "category": "tribunales",
+   "query": "Sala Constitucional privados de libertad",
+   "id": "114394f41c862f06",
+   "first_seen": "2026-11-20T23:59:38+00:00",
+   "topics": [],
+   "signals": [],
+   "score": 0,
+   "flag": false
+  },
+  {
+   "title": "Defensoría presentó propuestas para superar el Estado de Cosas Inconstitucional en el sistema penitenciario y carcelario - Defensoría del Pueblo de Colombia",
+   "url": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxPcnVVZzk5dlNkWUh1ejlxTXdfdEo3clM3d25IT2cyNEI1NGpKX0N1WUdoUENPc3B5akQ1cUpTQlhSc29DUTVXclNnRkJ2WG1OY29IMmhvbWNseTdlTHRmSTRNMHpSZHp2UkNyUjl4SmlJVGJiSGowNW04WVhhcjZGQ3B3VWdHTG5TMjBvWkp2c1ZWSG9zSXJKdHp1Z19PR1UyVWc2N1N6cVg0WEd0U2stTjdJelRFUTJUb1JYTHRiYjNSdnVOckIyNE9DaHM3b2JfTEJaZGdKZGZ2cVhsTVNaTjdQVXBZOEdIek1PNVZMMzV5RDJE?oc=5",
+   "source": "Defensoría del Pueblo de Colombia",
+   "summary": "Defensoría presentó propuestas para superar el Estado de Cosas Inconstitucional en el sistema penitenciario y carcelario Defensoría del Pueblo de Colombia",
+   "date": "2026-11-04T08:00:00+00:00",
+   "category": "tribunales",
+   "query": "Sala Constitucional privados de libertad",
+   "id": "9fb1e66d52a9d6c1",
+   "first_seen": "2026-11-20T23:59:38+00:00",
+   "topics": [],
+   "signals": [
+    "inconstitucional"
+   ],
+   "score": 2,
    "flag": false
   },
   {
@@ -1749,6 +2036,21 @@
    ],
    "signals": [],
    "score": 1,
+   "flag": false
+  },
+  {
+   "title": "Christa Pike rompe su silencio tras sobrevivir a dos inyecciones letales: “No contemplaba la posibilidad de se - Diario AS",
+   "url": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxNSDh3WUZLbFE5QlBGb0F6QU1MX29yUVAzdEx0empuT1FreHdzOS1aUlFDQ3llUV9oQlV5bDBaZTJhdmV0eTRJWXpVNUlub0VGVGtURERoOVdxZ0N5VFdQTmlxckVPSV9CdkxPdjZlQnpLSlhCYmxEanduWUV6MWxWZ2pUaG5Yak5LeDJEcExIVlVkZWxENENraVdzc2d6QXNtWUU4MVBxQ1pKek03WGFzckd4OFR3b2RnWTYxZk9ack5MSC1KUGl0NmFNa0JrY1JOVGI3bUI5M09CYk52cnBITHlDNFpLT3hnay1HWjdDUF9jWF81T2hwMGNVONIBjwJBVV95cUxOLTJ2cmVmUGxES2N1aVBHUnY1MEFNNmJ3ODlFaHVObWFZS2g4TGtTdUlub1FST05pTlJUTGpxNVg1Wi1aeTg0dG43WnM2VTdzSlc5SVhsaFBHelZBakM3cElTUFdMY2FGVGFfUy02TUF2UXU4eWF0ZXgxem5sMXc5R1lKQ09WdTRZWVV5WTlHTENIVk5vNUM4cmY3dkhfeGd5QjNOYTJ4YUZLQU1jRnEyeFRmOVNxSGZxX1dDWjJId1hHVWNpajdkZnhhRVVYQXg4bjk3ZFdBaXdvNTZKZHRTOC1zTkdZb3BQQ0ZoYTNBbjI3aXZUNG1RbHg5eTZKRDlRbUc4YVBSNjFaR0N2M1g0?oc=5",
+   "source": "Diario AS",
+   "summary": "Christa Pike rompe su silencio tras sobrevivir a dos inyecciones letales: “No contemplaba la posibilidad de se Diario AS",
+   "date": "2026-10-31T07:00:00+00:00",
+   "category": "asamblea",
+   "query": "ley ejecución de la pena Costa Rica",
+   "id": "74bfd7e4e909b115",
+   "first_seen": "2026-11-20T23:59:38+00:00",
+   "topics": [],
+   "signals": [],
+   "score": 0,
    "flag": false
   },
   {
@@ -2516,6 +2818,23 @@
    "flag": false
   },
   {
+   "title": "Oficialismo dictamina favorablemente proyecto “contra la reincidencia delictiva” sin ajustarlo a criterios técnicos y constitucionales - Semanario Universidad",
+   "url": "https://news.google.com/rss/articles/CBMigAJBVV95cUxNTHVCNms2cGQ2RkRIZHV0a0UxOHlLOC0tUDBDcWt4SGZmYzU4V3JyNnR1MFJZdzlBR1JxTnp2eEpQb1pMV0Q4eENiQkg0YkljOGNyNTFyRWhVeFVKeU9PWVdVQ09YMElrV2tuMTBNS2hPb2FEM3I5enJXRHZweEhTWUg0QlFRcmNRMnBqeElQMnNBdU5uVFh1c1V5WGdhUXNFNHBpdmgzQjIydEFZWllReHlsOVMyUC1lZnViS1p2VzZNRVlUVWFkLXI1Tm5CR0hhSE13UlROUDJsc08wTllvM2diWjRHb2x1ejIzdEVLaDZhUU1tT3M5QklMYU9IamJJ?oc=5",
+   "source": "Semanario Universidad",
+   "summary": "Oficialismo dictamina favorablemente proyecto “contra la reincidencia delictiva” sin ajustarlo a criterios técnicos y constitucionales Semanario Universidad",
+   "date": "2026-10-27T07:00:00+00:00",
+   "category": "asamblea",
+   "query": "Comisión de Seguridad y Narcotráfico expediente",
+   "id": "35832d0ec7d0c887",
+   "first_seen": "2026-11-20T23:59:38+00:00",
+   "topics": [
+    "Reincidencia"
+   ],
+   "signals": [],
+   "score": 1,
+   "flag": false
+  },
+  {
    "title": "#Doctrina: Actuales debates bajo la Ley 27.801. Análisis de las primeras sentencias (edad de punibilidad, cautelaridad y derecho transitorio) - al día | argentina",
    "url": "https://news.google.com/rss/articles/CBMikwJBVV95cUxQUTlQLUN3Nk8yTkRtbThBTDNVS2FZLVZMMUl1ZVoxNkpzaVV1NXU2blBreXhBU0Z1UlhTMzc0MXUzMWdRMGVnQUxKOEZ5cFI2VDVaRmdOVnNIbkVkZjNSbGF2Ujd4YVQ5ODBaTnFpa2JHTlVrOVJxc0ZvR21ObGJwNmMwQzJHZm56N1RXUUktM0VDRHktOFIxckVFV1JadW1OM2V5VTM3cDUyWk5fWUxVYk0zME1MMjJKV0VBckRFOUphWnp2a3pNdnY1RDE4SEVGRmJKVHQxMFFMdzBhVjJxeFU1dF9qSWlBLVdSakhWXzV5Z3NHbjB1LWJfVFhlQmtIRFRNdjVoUE84c1hla29xalpHTdIBmAJBVV95cUxQbUdBSVBGRl95MFZXcGhVdWwxZmRSbk9SYThYR1pyUnlqdHU0cE1OWXZ5bl9rYjlTbUdSMzJ5cnZfY01UV1UzUkhNZWxvTFRWMHNyWGtlcjdHOUQ5THlMdG5xVkFvWW9DMXVOd3NwWFUwWnFDRkpjRVdYZEt2NG1wQjV6UWdLQm03WHJEVFZGZnktMEdSOGZrQUlCc0ZyelJhNVMybWo3d3ZfZ01FaWJTTkF6OGFRM1JMMlh0WG9HTkpWZGxvOFltMkJ4WmxmRl9Bdks5VW56QTRBM2lCbXItUkctdGFfVWtzV3VhTjA1Q09HbUhsbTFpZVVwUjRyRnIzdHp5V3R6UDVsdV8zaDBrLWpGM19oWkhL?oc=5",
    "source": "al día | argentina",
@@ -2627,6 +2946,21 @@
    "flag": false
   },
   {
+   "title": "Congreso aprueba por unanimidad reforma para investigar denuncias por violencia política contra diputadas - Delfino.cr",
+   "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOSHBvakVmemdQTkJkX2J0UlBHOFBSckJDb3l2WlctU2NBVXpUS3Nvc1MzSUhIUGxITmZSajQyc2Y5TGpCYS1qX0dLa01MRG8zUFNyV2s1RW80QlhLZXVaVGV1dmZnU0dTTVJqR3gyeFZrUDdjcHBpMll4MEhTdHVTRFlldWk3ajhkZTYtTThPdVlSVjl3MnFkUDdfX3FOUDdjSHp6bThIdFpCelpyUUVsS0lkZEFCSVUtN2xVMnZUeTlJT1g1S0VLRkFOejM?oc=5",
+   "source": "Delfino.cr",
+   "summary": "Congreso aprueba por unanimidad reforma para investigar denuncias por violencia política contra diputadas Delfino.cr",
+   "date": "2026-10-26T07:00:00+00:00",
+   "category": "asamblea",
+   "query": "Comisión de Seguridad y Narcotráfico expediente",
+   "id": "f1148fec35f68662",
+   "first_seen": "2026-11-20T23:59:38+00:00",
+   "topics": [],
+   "signals": [],
+   "score": 0,
+   "flag": false
+  },
+  {
    "title": "Corte de Chillán rechaza amparo y remite al Juzgado de Garantía el debate sobre la salud de condenado a 12 años de presidio - Diario Constitucional",
    "url": "https://news.google.com/rss/articles/CBMigAJBVV95cUxNT05rUWxtdzc4MTlUaER4bVVfX1BISWt1TDl2UUh0R2xLSnhOdTJVWDFrRGxYbVFRQVFhX2JOUG1oOTVnMkdrV1QweU1lS2xKVTdfa0s2U2IxRldzREVycWF3aGNzemxZZmdqcXpzTVFJWVljaC1hVU8zMC0wcXNCUS1mV1ZUZklOWlN2aWJocUhVZlNMWXVzeHBQRXRHT0JfaGY4Tmp2eEVON09wM3YtR2o5TWh0VUh5V1J2Zm1LYmFJNzRxWWpzS19PQnNjUWtlMXlkLWRoQmtGNXpUTDNqQ09RQjFUZTZPcXR4OXlyQWZFRmtyU2ptVzY2U1lXamhp?oc=5",
    "source": "Diario Constitucional",
@@ -2658,6 +2992,21 @@
    ],
    "signals": [],
    "score": 1,
+   "flag": false
+  },
+  {
+   "title": "Detienen a integrante de banda de “Diablo” que justicia liberó por error - Teletica",
+   "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPajlmVkRibFhRWmtaazVFeFBJeFk4SGlUMlh0WEZSYlowczBUMkxLN1BNdzA5M1ZGc1FraU80UjQ2YWxfVjRuUzBGNlRsdVRPWlI1MHZMWTk5Ni11QXljQnFzYy1ZRTV5ZEdOUkNOLVN0ZTJSUW5NaFBBWkpHWXY3bHpBVVAyNGRvdVVzQmQwbkhJRlNobkpKdXNUVlJwSEY0S2ktN0NEcjJNZ2RwM0h3?oc=5",
+   "source": "Teletica",
+   "summary": "Detienen a integrante de banda de “Diablo” que justicia liberó por error Teletica",
+   "date": "2026-10-24T07:00:00+00:00",
+   "category": "noticias",
+   "query": "Ministerio de Justicia y Paz cárceles Costa Rica",
+   "id": "61b75bb4c0fb8937",
+   "first_seen": "2026-11-20T23:59:38+00:00",
+   "topics": [],
+   "signals": [],
+   "score": 0,
    "flag": false
   },
   {
