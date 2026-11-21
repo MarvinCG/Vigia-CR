@@ -1,8 +1,23 @@
 {
- "updated": "2026-11-20T23:59:38+00:00",
- "count": 211,
+ "updated": "2026-11-21T07:02:15+00:00",
+ "count": 219,
  "flagged": 10,
  "items": [
+  {
+   "title": "Congreso de Costa Rica investigará si Fiscalía y OIJ ignoraron amenazas denunciadas por el periodista Camilo Rodríguez antes de su asesinato - Infobae",
+   "url": "https://news.google.com/rss/articles/CBMilgJBVV95cUxQREk3ZnBRZFBmUy1SYWs2Q1p2bzVSdExTM0Fjb2s0UHF4OEEtSjlqdUx2bzFITW9keEJvek0tOGEyR25vMW9yMlFTTXJqa2NRdlRDREt6MVZwY2oxTTFoVy04QUxKSUJXS00yeERYQUUwTGExTDEwdzFaM01BZzEwbTFISHREbF9TU2h0NTQ5VHMtbmIyRTc0TkdyRUxUQjE3M29RUE9Ncms3VXZoZHBHU0R3ZEt4VXUzcFg4cFlYaFV0YzIxWjNkNUZHWUhvZ1lTeUd5RVdwWmFNQ1o2NFR0NkZzMS1QTE5KbVRaLUh4V2xLX0U3RW1kbllJTXZKakI4dHBVU0ZTZW1NNzlBcG5FNUtWeFRUdw?oc=5",
+   "source": "Infobae",
+   "summary": "Congreso de Costa Rica investigará si Fiscalía y OIJ ignoraron amenazas denunciadas por el periodista Camilo Rodríguez antes de su asesinato Infobae",
+   "date": "2026-11-21T01:37:00+00:00",
+   "category": "asamblea",
+   "query": "Comisión de Seguridad y Narcotráfico expediente",
+   "id": "0007a07e2d812d50",
+   "first_seen": "2026-11-21T07:02:15+00:00",
+   "topics": [],
+   "signals": [],
+   "score": 0,
+   "flag": false
+  },
   {
    "title": "Sospechosos de tentativa de homicidio en Boston de Matina, Limón - CRprensa.com",
    "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPVEFUbkpGWDJuUGlKMUYzQVkzenotaW1NMXRaT0paMkE0S2UxZ29zS2tBRzRXQTJlb0tzYktsdDh6YU9JQ1BUZVBHR1NOdXdGTU1tdWZ6OVJMWEFoME5CUzR5LXpVbEwwcUZQR1g3VlJ4UnJUQVRiTXREb1NHczhGT2VWdWQ2cUdDNEVsSjcxbUJIMVZDdGEwM2RjdkE?oc=5",
@@ -857,6 +872,23 @@
    "flag": false
   },
   {
+   "title": "¡Graves señalamientos! Fiscal general recibe e investiga denuncias de privados de libertad en el CACCO - AM Prensa",
+   "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPWmxCQlZfQ0dMZ1pENVVOc2daWmZ5NEF2d2dpX0hQeDFEeDdkV2tJSGJnRGxJam5yYnVIRnVyT2Z4NzBPbmNXMTVUOVE3Q3Nhc0lJTzBHb0JYWkVseU1qTjE4TnJ6NFpYeEhhRm9VUzRPblNqMTAxTGlwOVNLSGlxSGlzWkxiQnVxQzZHOU12eFpQQQ?oc=5",
+   "source": "AM Prensa",
+   "summary": "¡Graves señalamientos! Fiscal general recibe e investiga denuncias de privados de libertad en el CACCO AM Prensa",
+   "date": "2026-11-14T00:37:16+00:00",
+   "category": "defensoria",
+   "query": "Defensoría de los Habitantes privados de libertad",
+   "id": "75e8b4927530f550",
+   "first_seen": "2026-11-21T07:02:15+00:00",
+   "topics": [
+    "Alta contención"
+   ],
+   "signals": [],
+   "score": 1,
+   "flag": false
+  },
+  {
    "title": "Fiscalía investigará indicios de tortura y abusos en el Cacco - CR Hoy",
    "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQOEMycmNFMUF5QzR3d0RTNlE3cFl6TDlFODNvVlhXdXl2eXhCbU9aVjJTMmx6SVdmVkZ3enR2UjBrV3lWZV8tVTNvSktRWldncS15ZXpOeVBTMXRtUTJyZmdCdVZiSzFjM0tmRm4zN2x1T0g1WHRCYW1zOFd6WXowYzRCZXRvRWUtLTJLc3d3SFg0Sl8tVWc?oc=5",
    "source": "CR Hoy",
@@ -931,6 +963,23 @@
    "query": "Defensoría de los Habitantes privados de libertad",
    "id": "6c3604ff367f4a74",
    "first_seen": "2026-11-20T01:48:19+00:00",
+   "topics": [
+    "Alta contención"
+   ],
+   "signals": [],
+   "score": 1,
+   "flag": false
+  },
+  {
+   "title": "La Fiscalía y la Defensoría llegaron al CACCO para inspeccionar las denuncias por presunta tortura y abusos - La Teja",
+   "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNRVljZmxrazE1RHlYTVVWdG50R0JFUlQ3dU01SDRjcVVPbTBRM3pRY3ZTZUJ4T2czYXVteFJncy1IR2VqT1NvbGJSZHBOakxXSGhIMXMzN05hMUJPemhKUG50LWVIZFd4Zk1SczZmQTg3Z3dHd0hFclZVTjR5VDFUUFpXeEVnWEVaNlE4ZVJwa01wMG0wNHUzd2MtMVl1dGdHNW9BM3hYb2RHUE8tZ2h0cVhBVmk?oc=5",
+   "source": "La Teja",
+   "summary": "La Fiscalía y la Defensoría llegaron al CACCO para inspeccionar las denuncias por presunta tortura y abusos La Teja",
+   "date": "2026-11-13T19:20:28+00:00",
+   "category": "defensoria",
+   "query": "Defensoría de los Habitantes privados de libertad",
+   "id": "5c6b682b71c4160c",
+   "first_seen": "2026-11-21T07:02:15+00:00",
    "topics": [
     "Alta contención"
    ],
@@ -1292,6 +1341,21 @@
    "flag": false
   },
   {
+   "title": "Trump nomina a Pedro Cabrera como embajador en Guatemala: un político de Florida ante una agenda de migración, narcotráfico y seguridad regional - Infobae",
+   "url": "https://news.google.com/rss/articles/CBMilwJBVV95cUxQLXZQNjhncDg4UEkwOUZzUHJndUN3cmFKWUZDR2tyd3V3WFVqS1FOTE1tTUJFbnVRVlBKVWx6Z1p4UjRkbEpNWU84V19BMC02SDZ3X0dVT1Q3ZDVKRXRXX09qOVpFaDBnVXRHVjZTQ0hpUzBVcFA0Y21QUkJ6c2QyQTFXQkJuaV9oTlVZdFB1NEZzOHhzekR0MDA1OUZUQV9qcWxkQnpzdS1EbDJTSU1XQVE1MDgzTHNXeDIwaVNIN3RUb1E4Y1hseEZUWnM2YnhQa2k5TEhxc2JTUDVTX0RxNjNPZHJIS3UyZlNDMXIwUGRxa2JKUDlSU0NVWjk0UGVaOU1mQ0ZISEtkTHJ6QmpLSm9lQnMyZjDSAbICQVVfeXFMT1Z1TXVqTzJrLWt1c1N3ZGc4SHdqeFRwWlhsZ2tlQ0hiWk4wN29pVTRYTXFGTWotcUhoQTlTRzd1eTdBR2NyWEJzRW04azJRMzZSak14a0V2bnJ2QTdGVkRTbEFjd29PQndqX2EzeVpqTG1OZEl3YnZRcmFITEtvRXl2TE9fdm5uclRwclVueE5pblhBZDhHNkxzbzhSSUY1NFR1UjY5di1PZ1FNVU0wQU51ZHVGbkdjNkhWb2hoV3paa01vZE5BdkY4UmN3WmlLZ0ZJdTZvVk8zcVNQOVBMdTJDUG9Ldjc4b04tUUJ1UUlUdHJXUkl5d1ZUZnBxS0lLZXBCTmM2Si16WjBaRTgxRWM4ZDVURUNXOURDT2hscGpCZHlmSkUxeTNicmJoM3N1bjJR?oc=5",
+   "source": "Infobae",
+   "summary": "Trump nomina a Pedro Cabrera como embajador en Guatemala: un político de Florida ante una agenda de migración, narcotráfico y seguridad regional Infobae",
+   "date": "2026-11-11T08:00:00+00:00",
+   "category": "asamblea",
+   "query": "Comisión de Seguridad y Narcotráfico expediente",
+   "id": "e57e4ddacbe0a6a6",
+   "first_seen": "2026-11-21T07:02:15+00:00",
+   "topics": [],
+   "signals": [],
+   "score": 0,
+   "flag": false
+  },
+  {
    "title": "Diputados buscarán denunciar tratados internacionales que “obstaculicen” reducir la edad punible - Criterio.hn",
    "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOeUREZ3ZkUkJuckFlVjViMWJmUHRkbnF5Y0MyMDM5V0ZxQ1czdVpKYXdhb3UzMXpFRzQ5ZVBoV3NCa1hJRDZkQWFrN1Nxb0diYlB3UXFJRXkyYnEwbFlkaUoyNWtCUjczczRVY2t4ZWplZE5JcVZydS1KUVN2SDE0bGU4cFcyM0ttOEFJdHh5S284cTgxa1FiWmswdzEzTEkwcVE5YjFac0VQUGNMcHJ6LXJGcklSZw?oc=5",
    "source": "Criterio.hn",
@@ -1365,6 +1429,21 @@
    "query": "Asamblea Legislativa proyecto de ley seguridad crimen organizado",
    "id": "7b9f9dbbdb5d781a",
    "first_seen": "2026-11-20T15:25:29+00:00",
+   "topics": [],
+   "signals": [],
+   "score": 0,
+   "flag": false
+  },
+  {
+   "title": "El Supremo de Brasil archivó una polémica causa que investigó amenazas a la democracia - Infobae",
+   "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxObDhTaFBfekZjZFh5WmZOX3NtTm9uVjlFVlhtNHNmZUFFc2Z3N2N2WmoxaVZncWFsZGlkUWVaZkFETld5eEFleHVQODdvSEowM0ZRUkRTdE5rTTZJMUxDYnJGeWh3anJXVmMwZlNkMUZrTUVCRlctSmZyTXUtQnRBZDdvQ0VSaHRZS3FLWGVIN2gxWVdxZ2hUWDFWd3E2MzBOZjg4WFY2dC1HcWN2eG9HQ3Y3YThGSHl2QkRvVFlTN3FtMHlUMjdYUTFLbDE3T3o3NS16eUpKSVdRSzFlNWfSAfgBQVVfeXFMTk9YNmU4TnY1UExfM2NOVGJfQmxlaklmV2FxcFFoei1CRFBlOGZjV0VVRG5YbGczcDJablRVenh6Vm9LakF2S3JZUFM1WEJfVjUzLUpOOXdZWGFmQU5Ra1hzcnJJTmgwZElfdTBvWk0wZV9SQktYTk4xSzh5ZFNiNlM2d3NpTnZqLUswdXZnN3RUSlU5WTY1Q0MxTmhiTmJhdEJkWlM5RVJhRlhCbjM0ckVVRHl3SklteE1Zd0FBWVdtdGsxemVOeDNFTDkyTFJlN19vYVlSMl9qaDhVeDFjZDQ4TWdHUGdCSE9Da2JRblgyNWFHMXZ5R1A?oc=5",
+   "source": "Infobae",
+   "summary": "El Supremo de Brasil archivó una polémica causa que investigó amenazas a la democracia Infobae",
+   "date": "2026-11-10T08:00:00+00:00",
+   "category": "asamblea",
+   "query": "Comisión de Seguridad y Narcotráfico expediente",
+   "id": "db9e960d4128bd97",
+   "first_seen": "2026-11-21T07:02:15+00:00",
    "topics": [],
    "signals": [],
    "score": 0,
@@ -2131,6 +2210,41 @@
    "first_seen": "2026-11-20T01:48:19+00:00",
    "topics": [
     "Prisión preventiva"
+   ],
+   "signals": [],
+   "score": 1,
+   "flag": false
+  },
+  {
+   "title": "Ministro de Justicia cuestiona a la Defensoría por visita de funcionarios al CACCO - AM Prensa",
+   "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOZEVPcm45WmV2NTdzV1BzdmVXalJDd2lTLXdWdURNTlZibHZoWGJDMHhnU01BZnlUR25IM3B3UnpFTWJZUFlnZXlIQUtURUp1NndWQkUxSDU5RHFMMzhzeWVXVUhZWl94eVhNbVdSMzN5NlQ3eGdDYjUxSGdaV21hbU1PVWtMQy1zMHA2OGd2dkcwWnQ1aG5yME9PX2lGRHdBRFdrOHEzSkMxN2tpUHhKaTdzbFFrdw?oc=5",
+   "source": "AM Prensa",
+   "summary": "Ministro de Justicia cuestiona a la Defensoría por visita de funcionarios al CACCO AM Prensa",
+   "date": "2026-10-30T07:00:00+00:00",
+   "category": "defensoria",
+   "query": "Defensoría de los Habitantes privados de libertad",
+   "id": "a0393aa283aaf107",
+   "first_seen": "2026-11-21T07:02:15+00:00",
+   "topics": [
+    "Alta contención",
+    "Visitas"
+   ],
+   "signals": [],
+   "score": 2,
+   "flag": false
+  },
+  {
+   "title": "🔴🔵 Programa Cero Ocio: ministro de Justicia Ernesto Álvarez visita cárcel de El Salvador para revisar estrategias en penales🔽 - Facebook",
+   "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxNS0htOEhEWVFUYy05Z2F3d0dSZzl4cWV4MFlxWXlxY0tydzhhdXdES2R3UkdvRHMxRDl4Q3J6bGlXczhQUU1PMElZUE9DVHMyaGhzd0VWTE5OdFR3TFZPdEM1V3RZZlNzWTJoTGt4MHYyMXg5bGpqR3YwcHZFN2tYNE9LRlNTaFpjTHFDNjFsNlpGRGlFMmdLb2s2MjJtQTNzUjV3Nk51Sk5aVnE3Z3huZDViQzRUbTg2cGI1ZjdVLVk5S04tMTRiT09FS3VwSnpXd3N1U2VpTmpCcDZ5S3NJbVY3TWZjMFpCT0dN?oc=5",
+   "source": "Facebook",
+   "summary": "🔴🔵 Programa Cero Ocio: ministro de Justicia Ernesto Álvarez visita cárcel de El Salvador para revisar estrategias en penales🔽 Facebook",
+   "date": "2026-10-30T07:00:00+00:00",
+   "category": "noticias",
+   "query": "Ministerio de Justicia y Paz cárceles Costa Rica",
+   "id": "3f6be3314d4845a8",
+   "first_seen": "2026-11-21T07:02:15+00:00",
+   "topics": [
+    "Visitas"
    ],
    "signals": [],
    "score": 1,
@@ -2955,6 +3069,21 @@
    "query": "Comisión de Seguridad y Narcotráfico expediente",
    "id": "f1148fec35f68662",
    "first_seen": "2026-11-20T23:59:38+00:00",
+   "topics": [],
+   "signals": [],
+   "score": 0,
+   "flag": false
+  },
+  {
+   "title": "Impugnan la postulación de Fernando Zarabozo al Comité Nacional para la Prevención de la Tortura - Comisión Provincial por la Memoria",
+   "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNekJxd1JndzVJVmNIdm9IWXR6NDdJaGFTQmdSMTBndUEtMnRjaDk3U0xMMlhaYlViaTZaSTd6eGZTVVFCeVFaN0VQc3N1clFnY19XWmxhbFpHdG1Kel9Kb3VvdGpkaHB4czRNMWk3Ri14UVBDb1VNeC0tcTZDS2JsR09kQ2JILUY4TW9kd1o1NDZyUUhkWlF1SjYyU1NnZTRjaHBhU05wQ2RRNkd5UE42WERHc0FCVDNVTTlWMTAycEJ4YTFJMDFsTTVPb0xGbWM?oc=5",
+   "source": "Comisión Provincial por la Memoria",
+   "summary": "Impugnan la postulación de Fernando Zarabozo al Comité Nacional para la Prevención de la Tortura Comisión Provincial por la Memoria",
+   "date": "2026-10-26T07:00:00+00:00",
+   "category": "defensoria",
+   "query": "Mecanismo Nacional de Prevención de la Tortura informe",
+   "id": "d2096664fb498da6",
+   "first_seen": "2026-11-21T07:02:15+00:00",
    "topics": [],
    "signals": [],
    "score": 0,
