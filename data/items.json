@@ -1,8 +1,40 @@
 {
- "updated": "2026-11-22T06:43:54+00:00",
- "count": 240,
+ "updated": "2026-11-22T19:34:48+00:00",
+ "count": 250,
  "flagged": 10,
  "items": [
+  {
+   "title": "Los asesinatos de menores de entre 12 y 17 años crecieron en Costa Rica - Infobae",
+   "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQVTZLNjBGTVBib1hqVEtMa3FCY3ZsUjU3UlBXcUpCUmhKbHVQTTAwd2M5NHhUa3B3X1JYS0NVZlVDNGhfS0ZZZ3FRZVBxNm5tLTVzT1ZxUVh3UThfVkt1allCSDBzaDFFZjRDeENSeFFlVnJXRTFoSkY4N19wRTBvUWlYLXE2UF9FN0o5ZWRobTM0UTRoNGNwQTZEQVBpN0tnTWZHRDlzalZUQTlQSy1jZWNjaXhybnFiMFHSAdQBQVVfeXFMTXJEZktTSEFpTFF3eGd3UG95bzVBUTNTYjV0QWs4TlpQZ3lhZGV1Q0M3Q1J1WTJ2QjFNZm56cjlHSWtwMWZzbWxyRmprblRKWTdtUTk4WjlhQmZyN2habV9pc0xueGZUREdLNTRQcE8xdl9UUzN3dGl1WmNvS0JxLUNDak5pMlNvRzlqempudnNUQVA5NExmMmZWVkJGLWFCbEdTNjU2Q204U3NHSlNjd0dFZTB0WV9iNU5HZ01vT1FFVXB2b212UDNmcTN1SjE4d0JxWFA?oc=5",
+   "source": "Infobae",
+   "summary": "Los asesinatos de menores de entre 12 y 17 años crecieron en Costa Rica Infobae",
+   "date": "2026-11-22T13:54:00+00:00",
+   "category": "noticias",
+   "query": "OIJ homicidios Costa Rica",
+   "id": "1df7dd77d9059cf4",
+   "first_seen": "2026-11-22T19:34:48+00:00",
+   "topics": [],
+   "signals": [],
+   "score": 0,
+   "flag": false
+  },
+  {
+   "title": "El Cacco y la urgencia de recuperar el control - La Nación Costa Rica",
+   "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPV09CcHg1QnBWbVVKX2VEcFBZOUpDZjRuaGhDNzQ2QnpBYU53azhDZ25EbVdlSEM4aW1FZDFCTGw5ZGxRSE9PVW1aOVJqZEM0anhmTmhLek5sNmJEeklOVXZjaV9CaUtmQWs1SDRMd2JqTU9DRl9vYkRZQ3pHQUxsaERzNEpnRF94dmZhSGNVTWlxVGFWUkVhTzVOZkxkUVNVaVFsTzdvRXNkME9qY3NsZzllN3E3VGpX?oc=5",
+   "source": "La Nación Costa Rica",
+   "summary": "El Cacco y la urgencia de recuperar el control La Nación Costa Rica",
+   "date": "2026-11-22T11:50:00+00:00",
+   "category": "defensoria",
+   "query": "CACCO Centro de Alta Contención",
+   "id": "9439f8313f3a15bc",
+   "first_seen": "2026-11-22T19:34:48+00:00",
+   "topics": [
+    "Alta contención"
+   ],
+   "signals": [],
+   "score": 1,
+   "flag": false
+  },
   {
    "title": "Hombre fue capturado en Armenia para cumplir condena por violencia intrafamiliar agravada - La Cuyabra Radio",
    "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPZEx4R1k1RUZfUXNPOWhYWUljMHBkeFBEZEFtWG1ManhUU25ST0ZEQV9PeGNuNXVzMU1SZnphLUtuSFBla29mQ2lKNEE3UjZDRHJ3V0ZiYjFiNFFNemE5aVdGMXBZWnFhYVVJb013QUJKYTN2RFJ1czBVUFFXYWdZdHRaa21WOXRZVXhYUGd5TFlIZ21HOG9rV1dheTFlRnVTU2hPX0pKZ1JpU2VqZ0owLW1Zc3BKWTFHYXhTS01sTUN6WlpqNmxZ?oc=5",
@@ -156,6 +188,21 @@
    "flag": false
   },
   {
+   "title": "Gobierno recurre a terruqueo contra artistas y activistas: ordenan detenerlos por 15 días - Crónica Viva",
+   "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxONFhOcGM1aXlDT2RpdThqbFI1T2FhWTdTQ3ZBRnI1ZDJTaUkwekxqVHQydjJIUzdhNWh0TkZBbi02Nk95aDdMVnZhOU5fM0dacE1heTBjeEduYjl2N3BSS0lWQy1JdUhlUnl4Y2pnTzZxT0VMSXZOUjJYb3lwQ054SmN5cW9rNjRtYUNudmZseW1wVWtkS0E?oc=5",
+   "source": "Crónica Viva",
+   "summary": "Gobierno recurre a terruqueo contra artistas y activistas: ordenan detenerlos por 15 días Crónica Viva",
+   "date": "2026-11-20T15:44:45+00:00",
+   "category": "defensoria",
+   "query": "Mecanismo Nacional de Prevención de la Tortura informe",
+   "id": "cda8550183e4d517",
+   "first_seen": "2026-11-22T19:34:48+00:00",
+   "topics": [],
+   "signals": [],
+   "score": 0,
+   "flag": false
+  },
+  {
    "title": "Cambio detectado en: Defensoría - comunicados",
    "url": "https://www.dhr.go.cr/",
    "source": "Defensoría - comunicados",
@@ -266,6 +313,23 @@
    "flag": false
   },
   {
+   "title": "Diputados convocan a Carlo Díaz y Michael Soto por caso de Camilo Rodríguez, pero rechazan llamar a figuras de gobierno - La Nación Costa Rica",
+   "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQclVrWi1wbFRTUWRZMTBXNWs4SUdqOGxWM2ppZG1xZjJHQmRkVUwxQUFpeUdsOXZ3dGJ3amYxcU5WU1g4LXBGUHg4eXRIQjdqZ2JBbEFKRVNPMktybEdYUzd2cGNfcE5fUTRabHl6WGFoMm1ZMEVYanZ3a2NrT29BZmJlOVNHbk5Ea2N3NkFXU05qWlFTNTJBaHpuWmN4MmRVOGRyTVlvUjNHc2JOZlpLY3cwNEl6T3c?oc=5",
+   "source": "La Nación Costa Rica",
+   "summary": "Diputados convocan a Carlo Díaz y Michael Soto por caso de Camilo Rodríguez, pero rechazan llamar a figuras de gobierno La Nación Costa Rica",
+   "date": "2026-11-19T22:18:05+00:00",
+   "category": "asamblea",
+   "query": "Comisión de Seguridad y Narcotráfico expediente",
+   "id": "de485db4f76e6297",
+   "first_seen": "2026-11-22T19:34:48+00:00",
+   "topics": [],
+   "signals": [
+    "rechaza"
+   ],
+   "score": 2,
+   "flag": false
+  },
+  {
    "title": "Perfil de la congresista Kathia Calvo Cruz - Delfino.cr",
    "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1EQ2VrOEV2b0txT0k4dWs0dG14blFOVTkwUzNWaDNRY21DLWJVSnZsTXZBcnBRYW5VVWpTR3lTVFNndTkzY1BBWW5nWGE4aFBXQ1dBS2NSdGpIZFNsQ1M2ZGstYXdOQm1xSHc?oc=5",
    "source": "Delfino.cr",
@@ -372,6 +436,21 @@
    ],
    "signals": [],
    "score": 1,
+   "flag": false
+  },
+  {
+   "title": "La INDDHH presentó al Parlamento los riesgos asociados a las salidas no acordadas del sistema de protección del INAU - GUB.UY",
+   "url": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxPVnZJdzktVmVyZWRKd3dnMzZVbjBKSS1RendmOFo2el91QTNGaEFVODN5T0RMdkpRdzhmOTNxTExLaHZhOVZEd0Ixb0ozX3JiNHJzT2NHbjcwcWdEVW5zb0kzaVVYbDFSckM3ZnJWV256X0c1VGtYNEJDb2dQOXdnUWNVNjFPdVZIcWdLeXd1Tlc5aDZ3OEIxMEVDZmhoZ2dsQ28tbm8tekZaaFYwUU5VM0ZERjdLUkZkR3J3TUFsQXc1Y1BIYlIzeTd0WU9QS0hiM1A0VGNjdlBGQ1ZzRVNka1l1TFEwOFUxNjQxaS1qMG4wTGM?oc=5",
+   "source": "GUB.UY",
+   "summary": "La INDDHH presentó al Parlamento los riesgos asociados a las salidas no acordadas del sistema de protección del INAU GUB.UY",
+   "date": "2026-11-19T15:34:20+00:00",
+   "category": "defensoria",
+   "query": "Mecanismo Nacional de Prevención de la Tortura informe",
+   "id": "69e153ec140d2d8b",
+   "first_seen": "2026-11-22T19:34:48+00:00",
+   "topics": [],
+   "signals": [],
+   "score": 0,
    "flag": false
   },
   {
@@ -534,6 +613,23 @@
    "flag": false
   },
   {
+   "title": "Diputados presentan y aprueban iniciativa 6890 para reformar la prisión preventiva - La Hora",
+   "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOYnE0MUNveHhFeDhtM2huTF9UT192T3Y2Z1U0RFlkbV9MOC1sc0NfV0tzeVVTMEF1dmduNmpsemRjZHh3YjFwLS1HaDNZQnhtTmtELWNWZUl3N2diMkJYMWJBVGtJX3FycV8ya2pHNGkwbEc0N3BNZ21ZRGdBaWtGa1RwM0NuSzBRaGIyMWxnanFvR0JRckY3QzlpRFlJNHlYdUxDSjdIc2FhS1dmTmhQZjFCMXBaLXJyVDVtLVVsWjk3ZFZwUlVialJYMVh6eUtt?oc=5",
+   "source": "La Hora",
+   "summary": "Diputados presentan y aprueban iniciativa 6890 para reformar la prisión preventiva La Hora",
+   "date": "2026-11-18T02:44:36+00:00",
+   "category": "asamblea",
+   "query": "reforma Código Procesal Penal prisión preventiva Costa Rica",
+   "id": "3ad5d72de172f1c7",
+   "first_seen": "2026-11-22T19:34:48+00:00",
+   "topics": [
+    "Prisión preventiva"
+   ],
+   "signals": [],
+   "score": 1,
+   "flag": false
+  },
+  {
    "title": "Congreso aprueba reforma contra lavado de dinero que incluirá a subastas ganaderas - Delfino.cr",
    "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQajZaQVNHTEJlVDFWcGNiRU5Xa1RvTl9FNUNLSmVtZi1NdHZoTEFybkxNRWFCU1gyejl1NHdYU1J4bUYteU95Tm5TUzBXUG1XWmRqMWVHWWZONnNmMEJ0dzZzOGlvSFhnMWJjVDNGam1rZ2VJM3dZT01nRFZkVjFNQ0VFcno2ZTJheGZ5ajh3Rll6MHQzTzNuS1hST291R1E3VmRUaFRkWm5jeURVVGc?oc=5",
    "source": "Delfino.cr",
@@ -689,6 +785,21 @@
    "query": "delito ordenado desde la cárcel Costa Rica",
    "id": "87d5c50ec66d4448",
    "first_seen": "2026-11-20T01:48:19+00:00",
+   "topics": [],
+   "signals": [],
+   "score": 0,
+   "flag": false
+  },
+  {
+   "title": "Juez ordena trasladar a Santiago Peña a otra cárcel tras denuncias de privilegios en prisión - El Espectador",
+   "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQNms1NXlsamJBV21lT29XdUZTWFVYOEZYNFQwaWtZZnVwTVpsRmp6b1JVTkltQ0FrcWpYZ01TU1pLR0ZXNGRrR21hbWpnNG1LMGtDb1o5dkdwNG9rMGNpZUFidkNpbWlwNnllcmFLZHVVVHV0OGJOZW9rZl9WN3RUR0p5QW5Lb2ZSczVILVNIT3dtSnUyeWpPWnhmQk9OWHVUUjJaci1SckpnTm1zbXUydWd5Q0JTa0pIZlRfZXFqcUJhbVHSAdcBQVVfeXFMTzQ0eFdNMUhYQmJrOGhOcWlDVmFMY3ZsUDRZMVFyUjFyYWZzUDQ4TllvN3dxWGo2WjFmSVc2a2JTMUJCODFGc29OS3o0c04tWE9oeEZZdDExamVsZjRGRDdURm4zQ0VKX2hkMnVBaUhLN3hnakxqMkFRbmJsRFJPdGxTWUdJZVFNVGtYQlFQRlQxMmhyX3BUTzBNZ3o3SFJRVkNpTEpNX0FWVHRDZmhQLUZPbUV0YUMwMERTUG1hMWpVY2kza19Ca2FvYUc0NnpBX0lQOThnblE?oc=5",
+   "source": "El Espectador",
+   "summary": "Juez ordena trasladar a Santiago Peña a otra cárcel tras denuncias de privilegios en prisión El Espectador",
+   "date": "2026-11-16T19:00:00+00:00",
+   "category": "tribunales",
+   "query": "Juzgado de Ejecución de la Pena ordena",
+   "id": "8aa45513669217b5",
+   "first_seen": "2026-11-22T19:34:48+00:00",
    "topics": [],
    "signals": [],
    "score": 0,
@@ -1038,6 +1149,23 @@
    "query": "Defensoría de los Habitantes privados de libertad",
    "id": "75e8b4927530f550",
    "first_seen": "2026-11-21T07:02:15+00:00",
+   "topics": [
+    "Alta contención"
+   ],
+   "signals": [],
+   "score": 1,
+   "flag": false
+  },
+  {
+   "title": "¡Graves señalamientos! Fiscal general recibe e investiga denuncias de privados de libertad en el CACCO - AM Prensa",
+   "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNVkNENzNOWU5tOHg3U3pNTU1fUVZFNi03MXdKVjQtdkxOTDJTOVJpYW1fYjROY18xLWRHWEttYUU4UkVvQWNsZHFycWlwNUVkbHowOXNBWVFycnhkOE9vMWFHdENrNjl5dTgyT0EycmJtV1pqVUY0YTBLTjhSRS0wM1VJLWRiQkFyb0NBSXF3?oc=5",
+   "source": "AM Prensa",
+   "summary": "¡Graves señalamientos! Fiscal general recibe e investiga denuncias de privados de libertad en el CACCO AM Prensa",
+   "date": "2026-11-14T00:37:16+00:00",
+   "category": "defensoria",
+   "query": "Defensoría de los Habitantes privados de libertad",
+   "id": "529eab67e56bfedb",
+   "first_seen": "2026-11-22T19:34:48+00:00",
    "topics": [
     "Alta contención"
    ],
@@ -1942,6 +2070,21 @@
    ],
    "score": 4,
    "flag": true
+  },
+  {
+   "title": "Un narcotraficante guatemalteco requerido por la DEA ofrecía casas de seguridad y transporte desde Costa Rica - Infobae",
+   "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxOdkxQNk9vZ3pXV09LTjZyX0VuVUdoNjRqbmZhblZESmU1Y3VCd3Y1amdxU3dzdkhYYXZVbEx5dzlTRHEwdFhQbkxkM0tQSmRyYVU3SHBTdzRzWjlVVV8wNy1UTHJtSWFVbWlnRWtzX0J2d2JVRGVnVmM0MktjS2pvOXo1U3V6TFotZm9CQk41WHAzN3RrVkQwS3NoTF82ZFNsMnBsUHFPYUJuNlFaVlZwcHZXNHFkdUpEVC1yYVZtMTg0VnZVWVFfbDhNNjVPYmVVYUNtZ1hsb1U2dE9CU1VraE5RamhYQ1QtZE1XTtIBhwJBVV95cUxPNmFRNUs1eTVqNVZxSWVxa1hIelJsa3o1M2dDUHFqbi1mbnBDTmxBXy1CMW5adGczWkllSlpfXzJlR3k1RXkyQ0VJdzc3X2l6S3ZVcVhKM0ctYk9wR1V6OUo3cmpxei0yTlBZTmJDcWd4eGNUaTExRUNjR3lCaUxteDFJS1Z0MXFGMVFuQU96NGhOUjV6VWp4eUtfU0FONHpVV3dRQ25uSFFVbGJCNFdkckVTRlppd3p2eDAxdllfclFuWDlMeURWeUJYTGhTWHZxXzBwdEZheWNuNTc3LUZ4akRoSmVSVzZTVE9jYkh5TGNaalJpckNjNVJMb2dCSF9hUzBXU0VHTQ?oc=5",
+   "source": "Infobae",
+   "summary": "Un narcotraficante guatemalteco requerido por la DEA ofrecía casas de seguridad y transporte desde Costa Rica Infobae",
+   "date": "2026-11-06T08:00:00+00:00",
+   "category": "asamblea",
+   "query": "Comisión de Seguridad y Narcotráfico expediente",
+   "id": "ba52473f4834a65d",
+   "first_seen": "2026-11-22T19:34:48+00:00",
+   "topics": [],
+   "signals": [],
+   "score": 0,
+   "flag": false
   },
   {
    "title": "¿Recaudación y corrupción como política de Estado? - Última Hora",
@@ -3242,6 +3385,21 @@
    ],
    "signals": [],
    "score": 1,
+   "flag": false
+  },
+  {
+   "title": "Rapados y con uniformes naranja, Costa Rica comienza el traslado de presos a su megacárcel (+VIDEO) - La Prensa Gráfica",
+   "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxOYWxmN2FYUDNvUVRLb1JEUUZERHV0dWFiOWN3MER5Sm9mc0tuQ05ZeEJLTGJhWUsyRWlrdFE4eW85Nm9aWHc4Zmp4MTY5N0pob2twLUFjT2NUd3lyOXl4QlQyR1dyVFlfVDdrVThnTmd0aVVBSzJEMTVCZEpCX1VCYmdSTm90d2dhdzNaS216d1U1QVpJaWRlM2pHWVd3ZDRGZG5xcWtLSXBZSTlodmFBWl9lS3pOa3dQYVRNWUxvRmhwV3VRZjJBaFNKaDd0NkNxbks5bWpzakY2NWJsSC1QN0d3UnZlS00yekE?oc=5",
+   "source": "La Prensa Gráfica",
+   "summary": "Rapados y con uniformes naranja, Costa Rica comienza el traslado de presos a su megacárcel (+VIDEO) La Prensa Gráfica",
+   "date": "2026-10-27T07:00:00+00:00",
+   "category": "noticias",
+   "query": "Ministerio de Justicia y Paz cárceles Costa Rica",
+   "id": "f075d62a47263035",
+   "first_seen": "2026-11-22T19:34:48+00:00",
+   "topics": [],
+   "signals": [],
+   "score": 0,
    "flag": false
   },
   {
