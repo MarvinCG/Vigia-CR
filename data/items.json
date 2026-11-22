@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-21T19:12:46+00:00",
- "count": 232,
+ "updated": "2026-11-22T06:43:54+00:00",
+ "count": 240,
  "flagged": 10,
  "items": [
   {
@@ -1128,6 +1128,21 @@
    "flag": false
   },
   {
+   "title": "El fiscal de Costa Rica inspecciona megacárcel tras recibir denuncias de malos tratos - Infobae",
+   "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNNFZLVXVqdTVZRU4yZEFudE1zRm1fcE9mbGxTRm5PN1E4VVEycl9FenBVSGlZbUdNUDgydEFkVUNzczNVOFVLeTcxMUxUenE0Y0NQeHZUSXpLU2hlLU9LY080WlVyVWhRN1o2TkdCZFhnYm01Z2taSC0zUTB3NGJYYmxQMmd1OWRhOUk2ajJVUTF1YmtTTzNYOEZoRmszVF9kc0tKRkhOS1VyVzdJTmR6eTViZVlzUlhSQjZHUlB1ZDRiaks4MzJtaXJtZnVtVmlRNTU4Q9IB7wFBVV95cUxNY29LbS1UQnlMNFJ4TnZESFh2V24tTGxiS2FINDFPMnRsWTVqUWlqeFYzdVNQUXlKN1NZRkNVQVFKa2FsaldXVUE4RWlUYjNQVEFMb0JhT2x2ZS1CZENGSHRpaFBkaF9xdll0Z1hEbnhkeFg0Z1hKalNvWFpQLWhTTWQwaUZ0RVA4NHBtbi1GYkwwNzU4QUE3YUxEb1RNVzNxV0lySmhaUTdmUnRCaFFpc2VsUkNvQmtWZjdUTHVUVzllMGIxcmhxd1N0R3RZV1JvUmh6NmNrTl9PZ3VQYXFHTHE3QkdsSGtHOGlRVjFUcw?oc=5",
+   "source": "Infobae",
+   "summary": "El fiscal de Costa Rica inspecciona megacárcel tras recibir denuncias de malos tratos Infobae",
+   "date": "2026-11-13T19:47:00+00:00",
+   "category": "defensoria",
+   "query": "Defensoría de los Habitantes privados de libertad",
+   "id": "19bd326a67e23529",
+   "first_seen": "2026-11-22T06:43:54+00:00",
+   "topics": [],
+   "signals": [],
+   "score": 0,
+   "flag": false
+  },
+  {
    "title": "La Fiscalía y la Defensoría llegaron al CACCO para inspeccionar las denuncias por presunta tortura y abusos - La Teja",
    "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNRVljZmxrazE1RHlYTVVWdG50R0JFUlQ3dU01SDRjcVVPbTBRM3pRY3ZTZUJ4T2czYXVteFJncy1IR2VqT1NvbGJSZHBOakxXSGhIMXMzN05hMUJPemhKUG50LWVIZFd4Zk1SczZmQTg3Z3dHd0hFclZVTjR5VDFUUFpXeEVnWEVaNlE4ZVJwa01wMG0wNHUzd2MtMVl1dGdHNW9BM3hYb2RHUE8tZ2h0cVhBVmk?oc=5",
    "source": "La Teja",
@@ -1525,6 +1540,23 @@
    "topics": [],
    "signals": [],
    "score": 0,
+   "flag": false
+  },
+  {
+   "title": "Los homicidios en Guanacaste, Costa Rica, aumentaron 11.9% hasta noviembre, según autoridades - Infobae",
+   "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOQVU1bF9aWmFvekN1WkN2ZlJnNTVlNmFrSVRRVHVIbFlOd09oNkdWU2w2V3BEU2Zrb3dRSHdLUk5fWXJ2OWFxSWVrUWRrOXNNSkxpemRQWXhUTlRDVllBeW5NeHI1X01wQy1DLU9FYmU4UFppcWJXUHZ3amFUdXo5a3RTMDRTZEtBekVac0Zqa1Z5YmUtanZqTGowT19fTzBwc1ZtT1B0VEhCdWxyZjRndExKWWlMVTdZeVlGZGg1dzQ3NnhBTkdvZHQ2M253TXlJ0gHrAUFVX3lxTE9zTDU2R1N1T2EwNmplOGJ4ajl4S0k2VFFOUXRFTjRYYXBoRmM3MjBzRDNXUTcxUkRVQU11aDdHdk4tYVhScGcyRnJQUHZmZTRaMjJNSVpHQlM1Q2swV1lYZVVEQzEzTDlHUER3MFIzSG1VQmt0N0YwUkJaZEExMDlRVzdFdFVOb0pvYzBvckkxUW1PUi12V3BxMkpUVHJXR0RJSUg4TDhvUmVYbDNwZWJRSGJUSTFDUVNHaGZXaHVOUEJDdWx3ZnhZTjhWeHg5SjVJcTRTRnRlVzNwVXl1WEc2bFBNVVlfaHp0MnM?oc=5",
+   "source": "Infobae",
+   "summary": "Los homicidios en Guanacaste, Costa Rica, aumentaron 11.9% hasta noviembre, según autoridades Infobae",
+   "date": "2026-11-11T08:00:00+00:00",
+   "category": "noticias",
+   "query": "OIJ homicidios Costa Rica",
+   "id": "3d36ed1a13319e71",
+   "first_seen": "2026-11-22T06:43:54+00:00",
+   "topics": [
+    "Homicidios"
+   ],
+   "signals": [],
+   "score": 1,
    "flag": false
   },
   {
@@ -2223,6 +2255,21 @@
    "flag": false
   },
   {
+   "title": "Ministro de Justicia advierte a reclusos de nueva cárcel en Costa Rica tras decomiso de armas artesanales - CRprensa.com",
+   "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxOQ1hVdDRCVFFROUMzRmRDWldOWHJRNUhEMzI0OGRXZ20tc2J5MXY3ZHF2OWJmSE1yN3BRX3d2a29OYzktNlN6LXZ1Sk81WFhlTFJsbDFhRmVlT2lxUTVGTW9fSUx4Z0hxemQ4RUNTbVFOUHVGSl9GVGFLWjYybXlXRGx2VGJEMkJMUmFVUEVJV1lYcGhMYlg0VkpXOVJLTTk0OGJYcWQzOWRRam9jVnRpLTZiMmZGVWlDZWJSeDdjLVRWSEpaRHg1alFmckJBMmZ5RHJvNw?oc=5",
+   "source": "CRprensa.com",
+   "summary": "Ministro de Justicia advierte a reclusos de nueva cárcel en Costa Rica tras decomiso de armas artesanales CRprensa.com",
+   "date": "2026-11-03T08:00:00+00:00",
+   "category": "noticias",
+   "query": "Ministerio de Justicia y Paz cárceles Costa Rica",
+   "id": "e5db33054295fd03",
+   "first_seen": "2026-11-22T06:43:54+00:00",
+   "topics": [],
+   "signals": [],
+   "score": 0,
+   "flag": false
+  },
+  {
    "title": "DEFENSORÍA DEL PUEBLO REQUIERE INFORME A LA POLICÍA BOLIVIANA Y REITERA LA NECESIDAD DE FORTALECER LA SEGURIDAD PENITENCIARIA TRAS FUGA EN PALMASOLA - defensoria.gob.bo",
    "url": "https://news.google.com/rss/articles/CBMinwJBVV95cUxPRFFuZ0ZOVTZaNHQzNlltaDVzQ1hvZndMYkt3eXNJN1F2TGNtVHB4YWd1UTNGMjZOeVNseDZsbTF5eU5qSzVmc1oxTVh2NGtsVEh0MlAxSUFycVQ4Nnd5ZU5EMUpvXzF5UWhQV0trNGZJREoxM2VQN0FiRVVHM3VYYVFLXzl3bm9XVWdEcDJDa1YzUmJVTk1ydFMwVnM1WXpWOVFlYmFhUEZjLXhfUkZrcGFQcTJoYjBNbDk2R3A0aDhiZHZ0V0hEMF9jZVRqQVg0TEJ6c3ZXcExTZHJlZWhJMnpJamd0TFVQTDR2cTVzc3JZOGVSalJwMG15U1kzRDFXcUhEYlc2eUYydzkyU2lQcElQcm1NTTN4WnE4dGZ5UQ?oc=5",
    "source": "defensoria.gob.bo",
@@ -2267,6 +2314,21 @@
    ],
    "signals": [],
    "score": 1,
+   "flag": false
+  },
+  {
+   "title": "Proyectos archivados y retirados: estas son las iniciativas ‘muertas’ en la Asamblea Nacional en lo que va de este periodo legislativo - El Universo",
+   "url": "https://news.google.com/rss/articles/CBMimwJBVV95cUxQQjEtQ1o2QVlxRnV0T1VCeWhLcmVLaGxoZVY4VlFRUU1FTFJEZklfZGdvOU02QTdreDFDb21wWmNleVFDQ2Fja3kxVmxaQVpuTEg2SnFadDJxMTJYRnFSNUl0dTBCM2JYMEIxbXFZUDdJQ3oyZ0JvbDBBY2dhM3VZeVh6Y0cwaEFibjhxY3hMNTRHVHZsRjBaMk01bXI2NzBqWjdHUzVBcmNadUoyZkk0ZUoyblY4SEdiZ2ltQXpLODRYb2s2OU5LeG9TMHNIYWJLMV9xbmhMTEg1ckhSSWl0cXhFUEpTWEVHQ2x2WTlFUE9hYjYzUWRCdlE4c3E3WTJvQWNHWFE3THJBd0p6aEpzZzR4cjdYd21jelZB0gGvAkFVX3lxTFBmcVpLb09XUUwxMlFUSHM5Z1hEMXpCNlVHWW0zaVd4azZEU0VqbG8teEktOHc2cWRjeHFia2lNclV0YlF3Y2xIMTcwdV8wOVpCdkJCOVp6NXFaUnlTRElRdmh3elpSanZvSks2cmRZSnQ5NmdvbklyeVl6TFgwMXVFaDZDUnRCLW9zVVZmQmZfZnUtb29ubE9xR0FXdUN6MXZHc3NtSmVRcU9BYXVUeGtxUEpJNnFMck1RRjhsQkRUU2l3bEhMVklwTE1tS1BJb2pfZnN6VkRYS2Z2Z1Fuek1TdXpSN0NKWnJyakk4NzBhZXZ1U2F3aGhWRnFRLUYtZWV6R2FfWFFXaV9RcVJLLVluOTJYeVpYQ3EtQ3NNM2Z3Z3BuNF9HVXFRV19rZjlOYw?oc=5",
+   "source": "El Universo",
+   "summary": "Proyectos archivados y retirados: estas son las iniciativas ‘muertas’ en la Asamblea Nacional en lo que va de este periodo legislativo El Universo",
+   "date": "2026-11-02T08:00:00+00:00",
+   "category": "asamblea",
+   "query": "Asamblea Legislativa proyecto de ley seguridad crimen organizado",
+   "id": "243a169b5d415502",
+   "first_seen": "2026-11-22T06:43:54+00:00",
+   "topics": [],
+   "signals": [],
+   "score": 0,
    "flag": false
   },
   {
@@ -2331,6 +2393,21 @@
    "query": "ley ejecución de la pena Costa Rica",
    "id": "74bfd7e4e909b115",
    "first_seen": "2026-11-20T23:59:38+00:00",
+   "topics": [],
+   "signals": [],
+   "score": 0,
+   "flag": false
+  },
+  {
+   "title": "Honduras aprueba penas más duras contra maras y pandillas - Jambalaya News Louisiana",
+   "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxQeVVGSGFZX0ozVVVkUFZ2c256UHI3eEtXZzVSWnpxS2tGMnpfQ2pIdEQ4Yk80LXp2WnAyMEVyWFZHZE83T2VuLVF3b0V1MXVlQVY5UmJQRHRGNnQtYWNGLUV5OHFKeVZpWld2OTNGb3ByY0o2cXkxd1hEYlpCbkZ6UVZYQV9RUkVhdjZjQkN1aC13MW0zRHV0c2lRcnV2ajlua0RGbWg3OWJpS0JvMFNzYmk2WHA1d3JwWHJrdDZueHNSbHhudG5iRkhTN2NVNzhtTGpNS0NYdWlvOU12VFphby1xVnpfREZZRWNUdQ?oc=5",
+   "source": "Jambalaya News Louisiana",
+   "summary": "Honduras aprueba penas más duras contra maras y pandillas Jambalaya News Louisiana",
+   "date": "2026-10-31T07:00:00+00:00",
+   "category": "asamblea",
+   "query": "reforma Código Procesal Penal prisión preventiva Costa Rica",
+   "id": "a641981ad8f431e1",
+   "first_seen": "2026-11-22T06:43:54+00:00",
    "topics": [],
    "signals": [],
    "score": 0,
@@ -2641,6 +2718,21 @@
    "query": "Comisión de Seguridad y Narcotráfico expediente",
    "id": "98505d2f3677092a",
    "first_seen": "2026-11-20T15:25:29+00:00",
+   "topics": [],
+   "signals": [],
+   "score": 0,
+   "flag": false
+  },
+  {
+   "title": "CIDH y RELE urgen a Venezuela a derogar la “Ley contra el Odio” - Foro Penal",
+   "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOMDExNkhUSHpqMkRXSndMWkN6QVNBNkZ1V0pIVHdFUmxvQ09tdWp3eXI0aTRaZ2RDVXFNNG1vN05uRjlnNXI0RDlKQUpETjdYQlpuUDJWZmpKMm1WaF8tMndhLTA5b0ozekU3YzktZ2dtRFRYVUtnYVMtdHl4bTNQOXM4M3padGdqVDMzR2xLdWNMYjZF?oc=5",
+   "source": "Foro Penal",
+   "summary": "CIDH y RELE urgen a Venezuela a derogar la “Ley contra el Odio” Foro Penal",
+   "date": "2026-10-29T07:00:00+00:00",
+   "category": "tribunales",
+   "query": "Sala Constitucional privados de libertad",
+   "id": "e1758e1380cfe3be",
+   "first_seen": "2026-11-22T06:43:54+00:00",
    "topics": [],
    "signals": [],
    "score": 0,
@@ -3294,6 +3386,23 @@
    "flag": false
   },
   {
+   "title": "Video | Fuertes críticas por fotos del CACCO: ¿Una imitación barata de El Salvador? - Culturacr.net - Culturacr.net",
+   "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5HOVl3c1BuSlUxd1l5N0N6bVhnTVhlNkVIcXN3cVZDbE02SWRRNWVSNXYwUWhYVTU2Mm9qU2NEbXFCZHF5dUJsVGZMd3ZvV0hIX21oWVJQUjRtOFJpTGdmYWtkbUNXZ0Q3UnfSAW9BVV95cUxOV1JxTWUwTHFGQjROdU5DNWtNWHVSbXRFdVN3c1d3RTVzWDRlSFFaNlhkWGdyVjRFNkcxY25jMDNGcGF6LWdISEtacmtpQ3ltMGFiWnZibFo4WEJiN3lnbjQxYTFzbHRITHVIN0lWUHc?oc=5",
+   "source": "Culturacr.net",
+   "summary": "Video | Fuertes críticas por fotos del CACCO: ¿Una imitación barata de El Salvador? - Culturacr.net Culturacr.net",
+   "date": "2026-10-26T07:00:00+00:00",
+   "category": "defensoria",
+   "query": "Defensoría de los Habitantes privados de libertad",
+   "id": "2cd90f7f4bf2751c",
+   "first_seen": "2026-11-22T06:43:54+00:00",
+   "topics": [
+    "Alta contención"
+   ],
+   "signals": [],
+   "score": 1,
+   "flag": false
+  },
+  {
    "title": "Corte de Chillán rechaza amparo y remite al Juzgado de Garantía el debate sobre la salud de condenado a 12 años de presidio - Diario Constitucional",
    "url": "https://news.google.com/rss/articles/CBMigAJBVV95cUxNT05rUWxtdzc4MTlUaER4bVVfX1BISWt1TDl2UUh0R2xLSnhOdTJVWDFrRGxYbVFRQVFhX2JOUG1oOTVnMkdrV1QweU1lS2xKVTdfa0s2U2IxRldzREVycWF3aGNzemxZZmdqcXpzTVFJWVljaC1hVU8zMC0wcXNCUS1mV1ZUZklOWlN2aWJocUhVZlNMWXVzeHBQRXRHT0JfaGY4Tmp2eEVON09wM3YtR2o5TWh0VUh5V1J2Zm1LYmFJNzRxWWpzS19PQnNjUWtlMXlkLWRoQmtGNXpUTDNqQ09RQjFUZTZPcXR4OXlyQWZFRmtyU2ptVzY2U1lXamhp?oc=5",
    "source": "Diario Constitucional",
@@ -3384,6 +3493,21 @@
    "query": "reforma Código Procesal Penal prisión preventiva Costa Rica",
    "id": "6aac1e9dc06741b1",
    "first_seen": "2026-11-20T15:25:29+00:00",
+   "topics": [],
+   "signals": [],
+   "score": 0,
+   "flag": false
+  },
+  {
+   "title": "Antimafias: ¿cuándo llegará al Pleno la ley que sanciona la pertenencia a un grupo criminal? - Diario Extra",
+   "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOSVNjUnMxbEptSWV1azdPd3FZNjRWTGZIdnpQWVZMcW9udkluaVkwSWN2X2N4S2FrVlY0QlFhWUR5eGhVUldsWnhpYktmckN4MDN6UndZUEl0WjJkRlpheG1ZR2lHRTN5clBtNUZTTW52SXpMLXZ1WGdMdXdsaENNSUVSVlAwMFhzRTIwanYxdnFqYzZWLTJfY1pnaEVMOGU1V3dRNXN3NTBaekVLSG5NVm16SXDSAboBQVVfeXFMTkhOdzJ5UnpqcUFkU2hZRnFHMmdwVFphVVBBVUJ3cmZ6TGtLc2d0cFoxLUtOYldNM0thTGpwSDlUZXhuZ1lWNUNEdVROVE9jUFY2RXBKU29OcE5SdEpWLWIyZF9DZWtvbl9vNjV2V2l1RUhRTnh4blFlNVhQTmZzMU1kSWozWXJMOGZyM1ZiOWNfeXZReEY1bjdISVpJMzlITHVSR2FqRFJZRlNLVjFMU2tsc2pubkpxQld3?oc=5",
+   "source": "Diario Extra",
+   "summary": "Antimafias: ¿cuándo llegará al Pleno la ley que sanciona la pertenencia a un grupo criminal? Diario Extra",
+   "date": "2026-10-23T07:00:00+00:00",
+   "category": "asamblea",
+   "query": "Asamblea Legislativa proyecto de ley seguridad crimen organizado",
+   "id": "af02e810ebb46fa4",
+   "first_seen": "2026-11-22T06:43:54+00:00",
    "topics": [],
    "signals": [],
    "score": 0,
