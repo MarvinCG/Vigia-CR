@@ -1,7 +1,7 @@
 {
- "updated": "2026-11-23T07:32:36+00:00",
- "count": 269,
- "flagged": 10,
+ "updated": "2026-11-23T23:51:01+00:00",
+ "count": 285,
+ "flagged": 11,
  "items": [
   {
    "title": "Los asesinatos de menores de entre 12 y 17 años crecieron en Costa Rica - Infobae",
@@ -728,6 +728,21 @@
    "flag": false
   },
   {
+   "title": "¿Penas de 35 años para sicarios? Frente Amplio y Pueblo Soberano se enfrentan por idea - Periódico La República (Costa Rica)",
+   "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNWW1YcWRlWnlIdE1MQkdiZExjRWtZd0hkbDl5U01KRnU1azN1dTBzM1hicFd3X0RaT25DSG5IYTNXZ0ZvdzhhTTluUFdyV09IZzVoNkFxUGE4Tjk1a3BqZjZsM0tEYmpXU09TZFZ4cE5XZWJBd3B4TEg1VFhtanVMMWNYV1ZOUEdkWXgwTko3X29PWmlqMC0tbmN5amlIUEFsZTFNeG5ZNWVtenRTOXhPaVdtWQ?oc=5",
+   "source": "Periódico La República (Costa Rica)",
+   "summary": "¿Penas de 35 años para sicarios? Frente Amplio y Pueblo Soberano se enfrentan por idea Periódico La República (Costa Rica)",
+   "date": "2026-11-17T19:06:34+00:00",
+   "category": "asamblea",
+   "query": "Asamblea Legislativa proyecto de ley seguridad crimen organizado",
+   "id": "d866894ff1bb8853",
+   "first_seen": "2026-11-23T23:51:01+00:00",
+   "topics": [],
+   "signals": [],
+   "score": 0,
+   "flag": false
+  },
+  {
    "title": "Pueblo Soberano acusa al Frente Amplio de poner en riesgo ley contra el crimen organizado por «maniobras políticas» - El Mundo CR",
    "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNMEpta0RsVUlTQV80ZldrZEZhdFlVWVNZeDIwYmw1ejl2OUtCQjM2eENBU2Z3N045Zkx6ajQ5bTR6NWlqY1RKd3NSUmlsMlJYWGVYOWVvbnJHdXAtSURLTklnamY3cXZoM1l0US1qNTVGdkc1RENDNU1vTkRpTlg0WjZ6aDl2Z0NOR0tpMjhhcGctcllKbElrYVlja0NCalpOQ01OXzFQOENGaGMzUms4cVFnREF6clgyUmt1bW9EZEtDdW1WVWZwRTVxZEZ0X1FCdFIzSThvbjVsT0pQ?oc=5",
    "source": "El Mundo CR",
@@ -1110,6 +1125,21 @@
    "query": "Asamblea Legislativa proyecto de ley seguridad crimen organizado",
    "id": "c2685d9eb92a2c27",
    "first_seen": "2026-11-20T01:48:19+00:00",
+   "topics": [],
+   "signals": [],
+   "score": 0,
+   "flag": false
+  },
+  {
+   "title": "Asesinan a dueño de venta de comidas rápidas frente a su negocio en Costa Rica: dos hombres en motocicleta le dispararon - Infobae",
+   "url": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxObzNkazBxRGFiZ2JzZzh6VlVhZGF1QldvejNMdjRtekNjcnhsQkdHZFA5R0ladlZacWg1NlBDelk3dVRYRG5nZVktZFNoZjFTbU1TT2RVeTJ6b1Rpa05MVXRNTmhLZ3UwSS0xcno4ZDlZenp3OTBncHlQWW42TmZyVFNlM0lTWTJONEFJd3ZudEd6ZXRXZGdHZDFBQ05PcVNWbjBSV2tOM3o2LXRKR2xwdVZLckx2QTI5bDduTGpJT2syTVNMcmFvY1hCaFJuVXJfcmVEYzNGSlY5aGlMVTBuSDJQUVVna0g4X1ZtYXktZzhBcnlkeDZMZVBn0gGUAkFVX3lxTFBGRG1jTUN6MndEZm1VNEVFQWE4Rl9GSDVrVE5LQ3lCY01MMWJoQTZOcFFxOUtnMW1GMEdPNU92YndFeWprcUpCRHZsZHZBcURyeFBkMXpJTlN4STJlb0IweGYyZlR6VGFqdkRNRlBoTjZTcElSRTNSOWFBa2d6M2ZXZzZyWjlFejM1bFJFLXl6cEZiWDhzS19CUWhfVElscXRtd1c2TGJnUVZYSHY1d3MxdW1TYW9NVFpQbWFRRHBhZHAzNVVaOHRqT054cFp3bHNTU3otZ2ZxOWIzQ3VHT1VfOFVaSTY5RFNkVlJkZzVsYWw2YVFtdTFHT19WWHhhR2E4dVNzazRXYlcwcnpya0s3WnFZbQ?oc=5",
+   "source": "Infobae",
+   "summary": "Asesinan a dueño de venta de comidas rápidas frente a su negocio en Costa Rica: dos hombres en motocicleta le dispararon Infobae",
+   "date": "2026-11-14T08:00:00+00:00",
+   "category": "noticias",
+   "query": "OIJ homicidios Costa Rica",
+   "id": "e5d541130a32c80b",
+   "first_seen": "2026-11-23T23:51:01+00:00",
    "topics": [],
    "signals": [],
    "score": 0,
@@ -2001,6 +2031,21 @@
    "flag": false
   },
   {
+   "title": "Aprueban Ley Antimafias: penas de hasta 60 años de cárcel y nuevas sanciones contra el crimen organizado - Vistazo",
+   "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNQjZxSS1TdVpDeGR5NmhjclJWTlNOZDJBRzBvczIxX0tDb1ZfQjdONXdEcTBQSVNuMHJON1pXNTZOTkl4dTNpdWY5cUYwSnc0U01kNExzcVdpMy15UnViWlVuSUhFOVU5WURUamtxZTBnaHZOTXdNNzBla19WT1N0MWxjRmREVU11dmU5ZEN3N0Y2M3JveDdrbXlua1g2cTN1Y3ZWYkJ3U1ZERjJkcmlFN2U4SHQ1cUhrUFU1aG9FWXU3d2hTNHfSAcsBQVVfeXFMTm9neXpPb204a3hETDlKd2ZUM3E4RDJCVHl2QWZBYVBuZm1SeFFZRmJZWTJFWEdUd19nYm1rRWprV0ZpcU92V0lfcmprYWJRdmdFUTczRXF4T3VFd0JWUGdnTWdocGQxVTFTY01saG9HaEJIUGdKb3BtMHlKdm9XZkd6M1djSXJFc2NYNlNhcmZGajIwaFVrSlRUbE1FTFpWQXFBeUNDZ3JPNG8wdXNEajkyWUNGaTJNcGk3Y1F5UUFHSk4wdjVqUEM2Ukk?oc=5",
+   "source": "Vistazo",
+   "summary": "Aprueban Ley Antimafias: penas de hasta 60 años de cárcel y nuevas sanciones contra el crimen organizado Vistazo",
+   "date": "2026-11-09T08:00:00+00:00",
+   "category": "asamblea",
+   "query": "Asamblea Legislativa proyecto de ley seguridad crimen organizado",
+   "id": "382902127c780573",
+   "first_seen": "2026-11-23T23:51:01+00:00",
+   "topics": [],
+   "signals": [],
+   "score": 0,
+   "flag": false
+  },
+  {
    "title": "Homicidios apenas cederían en 2026 - Periódico La República (Costa Rica)",
    "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFA4TlZqbUhYNllsWjBYRG52QzhuTXNjNW84cGNtVXJtMUxyQjRNZ0xzdHVfek1IamVFeWNSYm1ZdUg5SGs4dmRiODJidzFkYWk0UGtYbDNNeEdXdGJNRWtHR3lhRWk3cmZmNEkwVlFUNHY?oc=5",
    "source": "Periódico La República (Costa Rica)",
@@ -2083,6 +2128,23 @@
    ],
    "signals": [],
    "score": 3,
+   "flag": false
+  },
+  {
+   "title": "Juez envía a prisión preventiva a Santiago Peña por el caso Ueno Bank - El Universal",
+   "url": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxQLWVlNWxsOFp2QTR3dTRWMW1jSnVNZ1Q4VlVwYWd5WlhMTDNJejY0TEF0eDBWWVBpZE5FQWRyY24wZGF2SVlZekgtWFpCQnRWUndFMDhkVWEteTVGUWMyMU84eFV4Qlc0NDdiNVhtNHhZRmFtbEo2eU9uMVVvTlY2TC1lVDY4YTRtUWdHRU5RYUNDVVUxMkxKeEE2eEhrbmJ0dFh0aFA1RXNxV1BiZjZhUmhVZlZSbEdrUl8yand0Ym1QNTBpQTVTY29kYWNGTE9ONjZyLVRjV2ZtbjFaM1d5WHNicXU1eFRCU3puR25kMVpUa2pCQUHSAYoCQVVfeXFMTWFDdE5SbXg2Z0kxWlFBY1lqZm02aG9uZ2RmQkdHRjU2TUhGUXFTaXpVS1pHanJmanltOEZaWmFkVk4teHY3OVhGcmVhQnNpRWY5OFE3OG9TNFVDZnU0MGx3NUdBV0RLOC1GcG8zM1k0aFNIdlFwTFQ4aHRVUVlXRHhtWV85by1GODIzNFJCSk8zdUJaNlp1OFVFZEdlckRqd0hnRHY0ZEdWc0JwVVlxNkFCNUpic1drWjBmTkhTNFBwQ3BqNEZZU3dIZ1RqRHdHM0JSSHV6UXQ3OVNhWnlrNnl1RFJnMjBWYTZ2eXo0Vl95ZHJEdzFocHZpR2NEcy1nTFZQbVlJVDRFNUE?oc=5",
+   "source": "El Universal",
+   "summary": "Juez envía a prisión preventiva a Santiago Peña por el caso Ueno Bank El Universal",
+   "date": "2026-11-07T08:00:00+00:00",
+   "category": "tribunales",
+   "query": "Juzgado de Ejecución de la Pena ordena",
+   "id": "fdcd0e79dffab132",
+   "first_seen": "2026-11-23T23:51:01+00:00",
+   "topics": [
+    "Prisión preventiva"
+   ],
+   "signals": [],
+   "score": 1,
    "flag": false
   },
   {
@@ -2211,6 +2273,21 @@
    "flag": false
   },
   {
+   "title": "Predicador fue condenado a 200 años de cárcel en Kenia por matar de hambre a sus seguidores - La Teja",
+   "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQM2tzYnRJb2xVWGJvZTdJMGl1UGlMUHVfaUxxVWNobVB2TFVJMzllUThUZUN2dldsSmhTdXR6WTVMM1puLXpqMVZ5ZzlnRUE0S1lwTjdOTTVCVkRld3dhbU5JaEtZaUFscC1zT0phMmc2aFJmYmhpTWJQYUJxUzJLZzBTUURGVmpqNzVjajI3TDB1LVYyeklpeldrZ1NlUXRKVENpZ1lDeUNmM013ZUxMRGdZaHpmUzlkVkU0cA?oc=5",
+   "source": "La Teja",
+   "summary": "Predicador fue condenado a 200 años de cárcel en Kenia por matar de hambre a sus seguidores La Teja",
+   "date": "2026-11-06T08:00:00+00:00",
+   "category": "asamblea",
+   "query": "ley ejecución de la pena Costa Rica",
+   "id": "b5d86204ed89441b",
+   "first_seen": "2026-11-23T23:51:01+00:00",
+   "topics": [],
+   "signals": [],
+   "score": 0,
+   "flag": false
+  },
+  {
    "title": "¿Recaudación y corrupción como política de Estado? - Última Hora",
    "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPTGNZSlJmT1VGRzBsVFd3dFFMZmZIM3VESFdMMlphNW9McGZ1R3huOWdGbUdmb1dfS09Ca0MwTTBQaFBscEVDckR1Vm55blZOS2tUTmo4UXlic0ZwQ2RCY2M4R0tRc0RtMWg4Wmh6Q1FxZ040U1NETWdndlExMEkyNNIBjgFBVV95cUxQZ2VEd1AwaGtONm1ibm9tNzIyaHNRMkV1NmtZQkJxTk9hTjZ2cHhSZ0dOZ3FmZklLSzU2ODNWSFphSW8wN1BvTVk0dGl4Z0xHRVV3ckpZdnh0cnhMN05jRGlWaDBwRHA5VUhhYjJTTEtwbnk2Y3dCaUloVUIxbkVGLTlwWF9RQ1RsckEwVXNR?oc=5",
    "source": "Última Hora",
@@ -2250,6 +2327,21 @@
    "query": "Comisión de Seguridad y Narcotráfico expediente",
    "id": "ec3d5635fe97ad16",
    "first_seen": "2026-11-20T23:59:38+00:00",
+   "topics": [],
+   "signals": [],
+   "score": 0,
+   "flag": false
+  },
+  {
+   "title": "PPSO cedió y se logra acuerdo sobre proyecto de hoja de delincuencia - Semanario Universidad",
+   "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPSEFzNFY3YndQd0t1aEVZMkFCS0Z1Qy1FbjNCNWw3c1RyS3VyaXhPM0p1ano5azJWQVdRSlFETjJkenlwMDlVM1d5MmVhc3p2LTJMSEg1NldmU0FnbC01U3VDT0E2N0Z6SzZkQmZPUUhIU184YkhKdEpxNGtuUEMwWU5pWUJLQXhCZ0lqVFNJd2V1WFY3STdVMmticXJnQTdwdmNFXzFpZG9ScnM?oc=5",
+   "source": "Semanario Universidad",
+   "summary": "PPSO cedió y se logra acuerdo sobre proyecto de hoja de delincuencia Semanario Universidad",
+   "date": "2026-11-05T18:08:39+00:00",
+   "category": "asamblea",
+   "query": "Comisión de Seguridad y Narcotráfico expediente",
+   "id": "fc9611e1a88f77cd",
+   "first_seen": "2026-11-23T23:51:01+00:00",
    "topics": [],
    "signals": [],
    "score": 0,
@@ -3113,6 +3205,21 @@
    "flag": false
   },
   {
+   "title": "Permiso para motel le cuesta 3 años de cárcel a exalcalde cartaginés - AM Prensa",
+   "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPTnlWRXEtaFhmZ1JET2JlSDlvcGw2TUgzQ3VxU1V4MFUwR3dDWkpCZzA5WUhqX0NMU0g1V2kwNElXOURTbV9JdGJMV2FHeWpTNXRoZ3J2VUc5Z2puWExKc0I1LTlRRlQyRWJDZHktdE1JY2EzSjdEb0tFdnBVZkFVTXVzeDFxNk0zb2VZMXVIRVdGMEVlLXJDNnV3N2dUUlEtbnJF?oc=5",
+   "source": "AM Prensa",
+   "summary": "Permiso para motel le cuesta 3 años de cárcel a exalcalde cartaginés AM Prensa",
+   "date": "2026-10-29T07:00:00+00:00",
+   "category": "asamblea",
+   "query": "ley ejecución de la pena Costa Rica",
+   "id": "3ea47d472da53470",
+   "first_seen": "2026-11-23T23:51:01+00:00",
+   "topics": [],
+   "signals": [],
+   "score": 0,
+   "flag": false
+  },
+  {
    "title": "Fiscalización del caso VaQnas en la Comisión de Transparencia tendrá tres ejes, mientras denunciante prepara una ‘segunda fase’ - El Universo",
    "url": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxQT2RSMlRHclZRTks2TjBCRFBvMUJOTEN2d1lGaF93NVZRYUdYSmVPaHFrVlYyRDZuTWlPUXRPSzkwTm9ld01DNGxic0F1T0VERTdWVHNrOVBxVVc2eHBuT0FWWmFqWEtiTGp5emI0dG1Zd19NWWRBcWgtVHcwWTYwQWhIelpjSmZKa1hkOGU2dmZvZGlVeXhzU0VQNHhGMVlncGs2aWp5WXZYckdEaF82U3FLWU9SSjVtN0d4U3JwT19WT25HWVp4bWFxdi1rYmg5QkI2NDQ2N0FQdzZUcmRyRTJGcGZTZ0RTa0RoS0VDc1NSZ9IBhgJBVV95cUxPcndIeFhhUzRXcVlST3dkM1VxY1AzV1k5UnhpWDk5Q0phRl9MZUU5ajl6UGQ1OTA4ckU2QXNBRlg1VVRMRkdpMFlEaFgzZFZrS0RTWEF0V0d2SFQ5T2VmallKMldMa3ZLNnRUVzlmSkRBWHpqeFBNN1YzYVNsZmxUSVVJSFVQVVhFQVpjSi1fdGJCaEFOYkVKSzJ6cTJTaFAtcXJKU0pLcWM5YnI5cnZvVE5IcnhlMzNvX21KT2tja0NiWmE0OHdKWmVNSlppZ2RKblBMVThnZFU1UmlHU2RwUEVSMEZmX3pLbDQ1a1owZjJIYnd2NVhfbEJTSHQxWXhkYTNLN0x3?oc=5",
    "source": "El Universo",
@@ -3295,6 +3402,38 @@
    "query": "Juzgado de Ejecución de la Pena ordena",
    "id": "a6a751d3c5b5e033",
    "first_seen": "2026-11-23T07:32:36+00:00",
+   "topics": [],
+   "signals": [],
+   "score": 0,
+   "flag": false
+  },
+  {
+   "title": "Presidente Bernardo Arévalo veta la reforma que limitaba la prisión preventiva por objeciones constitucionales - Infobae",
+   "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxNSnVDTDVseWM4UGtvd2sxaURBM1JiTmFuRTZDSUdwMy1CTDFuWU9PdkJqVFA5MXNtM3ZEQ2x6ZmU4NVNBRGFZZnQwdWZ4X0xmdW1tbk1fTktGNEhWYi1jQllFUC1zVnVhWGpmMkpPQS01ZGNUMGZOWXk5dkVLNV84NGluV3JTbFJzQUpfWU1LNEN4YWYyenRoYTA4dUd4Nm5jckY0aVBjOXo4ZXYzUm03c2ZWNEhnLVZ5SVFkVF9HdWxMSGhoOFllWUFhRi1SaXJkeTRnTG5TNTZSVkt5WW5MQTVtVlg5M2JjSzkxWdIBhwJBVV95cUxOMWwxSlcwMk5ub0JZZ0w3eFVaVkk0R1dPbUtZdUg3Q0oyaEo2dkJqSkx5SF94Uzhab3hvaVR2UFBZbnU0TF9HcmtpX3psM08wa24zMU1QWmdWTDU4Uk91WXJsZmhGNlpQT0NwME1pYlpndU13NGVKa1pvdE5UWDZ3ZlN6aU1PRmo4YjJlR1NfQjdaMVNqSW5iY1lVVkxaUkZ1cnZkM2Z6ZVN1dUtPNjFJVXVWODZaa0lFVlBmb2dFMzFieFUydThCYVJrNGxpU3hXOGtHYzMxcTNtanlJd2JOZ2oxMDQwLXFWbVFhWVBKRkhHZEJ2REJhYndSNDJHZGY5ZE51R2labw?oc=5",
+   "source": "Infobae",
+   "summary": "Presidente Bernardo Arévalo veta la reforma que limitaba la prisión preventiva por objeciones constitucionales Infobae",
+   "date": "2026-10-28T07:00:00+00:00",
+   "category": "asamblea",
+   "query": "reforma Código Procesal Penal prisión preventiva Costa Rica",
+   "id": "e5d6fbba0c0acaa2",
+   "first_seen": "2026-11-23T23:51:01+00:00",
+   "topics": [
+    "Prisión preventiva"
+   ],
+   "signals": [],
+   "score": 1,
+   "flag": false
+  },
+  {
+   "title": "Hondureños podrán ejercer legítima defensa en casas, negocios y vehículos con la Ley Casa Segura - ElHeraldo.hn",
+   "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQRDc5Y2dYRnNES25BWVhzbEZ0dnZmTUNDMjdCY2ROZUU2QVI4eTFtTzZGLXhCb0Y0amt0VDIyN3BVSnhzdHBYNmRIM3JvR3RZcVN0YkJMZTFSdklBOEFCa2NUaVdRV0RrNjExOWFiRkt0emhQSlpDRkVYTVQxRkdsaFZqdXRVREdaVUhlZWl4TjU2bld2eFNzdHNaSEdZQ05GRGpVbUFZODZ3MnBLQl94X25haDFBWUxQUWNHRFJDTmZWX0M5ZTNz?oc=5",
+   "source": "ElHeraldo.hn",
+   "summary": "Hondureños podrán ejercer legítima defensa en casas, negocios y vehículos con la Ley Casa Segura ElHeraldo.hn",
+   "date": "2026-10-28T07:00:00+00:00",
+   "category": "asamblea",
+   "query": "reforma Código Procesal Penal prisión preventiva Costa Rica",
+   "id": "c77094c1c593f6bc",
+   "first_seen": "2026-11-23T23:51:01+00:00",
    "topics": [],
    "signals": [],
    "score": 0,
@@ -3679,6 +3818,70 @@
    "flag": false
   },
   {
+   "title": "Plan contra reincidencia avanza en el Congreso pese a alertas de inconstitucionalidad - Teletica",
+   "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOejlyWlNHb1ExeGk4aER6NERQQ3pPRGhhdUd2WEo2elF5WkdTU3V6TmxSbGg4V0U1NUNOR1NvcEtmOTNnOGktUjhvRE9zSXpISlE1cU5JenlEN1VFdlg4NlBTLUZRZVYxUWYyVnJud2kwcEgxcVI4aUhROVRXejhsYjRHV0IyN01EeEVoOGJ3VVJHODBYTC1HVy1nOFRwaG1MbFd4akNrMTVSb09XYUJPM0pjaEtSQTFha3VDakFzUFpSNmJL?oc=5",
+   "source": "Teletica",
+   "summary": "Plan contra reincidencia avanza en el Congreso pese a alertas de inconstitucionalidad Teletica",
+   "date": "2026-10-27T07:00:00+00:00",
+   "category": "asamblea",
+   "query": "Asamblea Legislativa proyecto de ley seguridad crimen organizado",
+   "id": "4f48e56cd8ded0dc",
+   "first_seen": "2026-11-23T23:51:01+00:00",
+   "topics": [
+    "Reincidencia"
+   ],
+   "signals": [
+    "inconstitucional"
+   ],
+   "score": 3,
+   "flag": true
+  },
+  {
+   "title": "Cayó la “asesina del bikini” en Costa Rica: OIJ detuvo a joven sospechosa de matar a estadounidense con una licuadora - Infobae",
+   "url": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxPVk9wdkVHQ1V1Y3dlOW9MWjF0bDRmdk9VR21sdURrdXd1SmVqUkFtZk1GSWtBb3FMZ3JJczNzYU5SakM2Vk9HZTItblc1LU16TVlrZDNRdHNTNXFrNGJTRjFIWGlad1FkT01JNXY4TGNQSHZ6RnVtTG1ZcUJuaFA3S3ZNNkxJN1h5NHRaeVNEazQ1MTNULUc2dGdqR3B2YmJ3cE1pS280VV81R2VldDNtMEQ3Q204ak9lYnN0dUJJSVQwMHJ5aGFyWDFpNnFxS1c4NDk3NXFsaEIzN3hjN1AxdlV6LTNSSXJFOUhkc2JLZzRFNlHSAY4CQVVfeXFMUEdIYjQ0Ql9PUHZVdklIQ3A5U1cxeDBuX3RfNG53UjNTYUhlUmxjVzNFYUNScE13ZHR4c0RpVEZHRFNDZ1hRZTlKcEpiSVdNZVJ6OFIya1lPSVZpb0tXMW4zNWhkRFZLNE9Pdzc5ZzBIS1NuNmU5S3ZycU5MdEpWSXB3RU4yNkVNb2dYQzd6R0NoYWJ3WjNaeThsS2VUUmV4ZmZQNHZnS1NtRlhRdm4wdmZaUU45UTNHamkwcWpyekZyWTVIQ01NaFkzOEtYbHhJX2hweGxMemhLTXVQaUE5QmUtakFyVW1kUVBfYnB3NlZxaFF6c0hlMFF6YzlHdE9KMzkybjdlRG5TV2hHSnR3?oc=5",
+   "source": "Infobae",
+   "summary": "Cayó la “asesina del bikini” en Costa Rica: OIJ detuvo a joven sospechosa de matar a estadounidense con una licuadora Infobae",
+   "date": "2026-10-27T07:00:00+00:00",
+   "category": "noticias",
+   "query": "OIJ homicidios Costa Rica",
+   "id": "294864d5b7ae5dc8",
+   "first_seen": "2026-11-23T23:51:01+00:00",
+   "topics": [],
+   "signals": [],
+   "score": 0,
+   "flag": false
+  },
+  {
+   "title": "Ministerio de Justicia traslada a sospechosos del crimen de policía y 120 reclusos más a cárcel inspirada en el Cecot de El Salvador - Semanario Universidad",
+   "url": "https://news.google.com/rss/articles/CBMigAJBVV95cUxOVTNvd19DYjZrSFBIS3dacDVRcjBFQzhzcHNpNUJIU1dpcktaak9NdGFiNUhNT1RJSHlKWVpINHoyV3Y1cm9Td2UxLTlIdXpFZm1vQTZXR1ZXODZSUTVfNGhZMmo1YlY0aUtlekp3VjJFOGFDdmRmb3ZJUE1kMFZEaElUbDNOTHRILUU3VnhlTk1RekxPUzFLZUFtNTVzaTlRWTQ3MG1lSFIySEItQUd1eUNreEpwMFV1ZUhQUk1TWmd5YTZtQ0x1YXFGTWxpenRoR1ZlRXE4Q3NwaFFIMFVmVEJiRm9lTl9UREtRYW9Gdjk2RjgyZFJHdFdkbkxybFE3?oc=5",
+   "source": "Semanario Universidad",
+   "summary": "Ministerio de Justicia traslada a sospechosos del crimen de policía y 120 reclusos más a cárcel inspirada en el Cecot de El Salvador Semanario Universidad",
+   "date": "2026-10-27T07:00:00+00:00",
+   "category": "noticias",
+   "query": "Ministerio de Justicia y Paz cárceles Costa Rica",
+   "id": "0bd003eea70117c0",
+   "first_seen": "2026-11-23T23:51:01+00:00",
+   "topics": [],
+   "signals": [],
+   "score": 0,
+   "flag": false
+  },
+  {
+   "title": "Costa Rica traslada a los primeros 123 presos a su megacárcel inspirada en el CECOT de Bukele - Europa Press",
+   "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxQMDFzV1Z3MTZ6b01JUVNjVXZ1UUhIeV9PVUhQZ2hfWmpvT1JWR2E3Sk9iLWRNMGdZei03RVRjdTBUazdhUGoxNTVVZURENWFVZ2NnQUxuYms3ZFZydU4zNG9JQ01LZnVmNzA0QjZRZGtBbjFGNHJwdl9MVmFCNDlINzFoSDZjRnZhMUpVVTg0WnRTaVhEY2s3NnFLZFpaSlZNczRkWjFZUmVqYzlXeDFSaDF0WUtBSHU3dHJodElZWEJvVVowVnFCY2IxY2J1NWpPazZCOFF1NjgyQQ?oc=5",
+   "source": "Europa Press",
+   "summary": "Costa Rica traslada a los primeros 123 presos a su megacárcel inspirada en el CECOT de Bukele Europa Press",
+   "date": "2026-10-27T07:00:00+00:00",
+   "category": "noticias",
+   "query": "Ministerio de Justicia y Paz cárceles Costa Rica",
+   "id": "f58553009c4b02c6",
+   "first_seen": "2026-11-23T23:51:01+00:00",
+   "topics": [],
+   "signals": [],
+   "score": 0,
+   "flag": false
+  },
+  {
    "title": "#Doctrina: Actuales debates bajo la Ley 27.801. Análisis de las primeras sentencias (edad de punibilidad, cautelaridad y derecho transitorio) - al día | argentina",
    "url": "https://news.google.com/rss/articles/CBMikwJBVV95cUxQUTlQLUN3Nk8yTkRtbThBTDNVS2FZLVZMMUl1ZVoxNkpzaVV1NXU2blBreXhBU0Z1UlhTMzc0MXUzMWdRMGVnQUxKOEZ5cFI2VDVaRmdOVnNIbkVkZjNSbGF2Ujd4YVQ5ODBaTnFpa2JHTlVrOVJxc0ZvR21ObGJwNmMwQzJHZm56N1RXUUktM0VDRHktOFIxckVFV1JadW1OM2V5VTM3cDUyWk5fWUxVYk0zME1MMjJKV0VBckRFOUphWnp2a3pNdnY1RDE4SEVGRmJKVHQxMFFMdzBhVjJxeFU1dF9qSWlBLVdSakhWXzV5Z3NHbjB1LWJfVFhlQmtIRFRNdjVoUE84c1hla29xalpHTdIBmAJBVV95cUxQbUdBSVBGRl95MFZXcGhVdWwxZmRSbk9SYThYR1pyUnlqdHU0cE1OWXZ5bl9rYjlTbUdSMzJ5cnZfY01UV1UzUkhNZWxvTFRWMHNyWGtlcjdHOUQ5THlMdG5xVkFvWW9DMXVOd3NwWFUwWnFDRkpjRVdYZEt2NG1wQjV6UWdLQm03WHJEVFZGZnktMEdSOGZrQUlCc0ZyelJhNVMybWo3d3ZfZ01FaWJTTkF6OGFRM1JMMlh0WG9HTkpWZGxvOFltMkJ4WmxmRl9Bdks5VW56QTRBM2lCbXItUkctdGFfVWtzV3VhTjA1Q09HbUhsbTFpZVVwUjRyRnIzdHp5V3R6UDVsdV8zaDBrLWpGM19oWkhL?oc=5",
    "source": "al día | argentina",
@@ -3851,6 +4054,51 @@
    ],
    "signals": [],
    "score": 1,
+   "flag": false
+  },
+  {
+   "title": "Experta propone incorporar mecanismos de protección para personas desplazadas por la violencia en la Ley Antimafias - Asamblea Nacional del Ecuador",
+   "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOeGo3b19vbUcyeWlrSGw5T0xWR29kMlk3N2o2UWJwNVpzbFJuSFkzb05vUW1Uc3ZvVVBHTFBPUV96N2syeEIwZjRsNUhWU3J1d05BQUNhSWxrVmd2VnN2b2RKR0FRWE9BLWNtS0kzdUY2YXJLeXlMT2Z6d2V6NEZTSDFhZ3Y4UjEzVEhaNVFLamxUc1Vwb3N4aTdQblViMnJnMktQUGNYQ2w?oc=5",
+   "source": "Asamblea Nacional del Ecuador",
+   "summary": "Experta propone incorporar mecanismos de protección para personas desplazadas por la violencia en la Ley Antimafias Asamblea Nacional del Ecuador",
+   "date": "2026-10-26T07:00:00+00:00",
+   "category": "asamblea",
+   "query": "Asamblea Legislativa proyecto de ley seguridad crimen organizado",
+   "id": "2f3152e03743aceb",
+   "first_seen": "2026-11-23T23:51:01+00:00",
+   "topics": [],
+   "signals": [],
+   "score": 0,
+   "flag": false
+  },
+  {
+   "title": "Patricia Vargas: ¿Quién es y qué propone la nueva presidenta de la Corte Suprema de Justicia? - Radio Columbia - Tu Estación de Radio Costarricense",
+   "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOLXJfMjgtZVV3ZWwySmRJWVNQMU1FeE5MLURWaDN4dnFmczU3bk9BUk1XWnA3blNTY2VKeWhmYlhzd1NESXFGSEY0dUpVSDdkbHdQQkJHeVd4SklBRGVjTkZGYWlNNk1VbTU0MDZGaWhMNEFjSjBNLUY5dk9EbWJyU25pVzZmRzE4QU1GMEYyeVRIYjNOTml4SlNkT1JOYk5BcTVJbUJ6WDdhNEMyTnRTajZ3QQ?oc=5",
+   "source": "Radio Columbia - Tu Estación de Radio Costarricense",
+   "summary": "Patricia Vargas: ¿Quién es y qué propone la nueva presidenta de la Corte Suprema de Justicia? Radio Columbia - Tu Estación de Radio Costarricense",
+   "date": "2026-10-26T07:00:00+00:00",
+   "category": "asamblea",
+   "query": "ley ejecución de la pena Costa Rica",
+   "id": "2bc8e4f760846881",
+   "first_seen": "2026-11-23T23:51:01+00:00",
+   "topics": [],
+   "signals": [],
+   "score": 0,
+   "flag": false
+  },
+  {
+   "title": "Patricia Vargas González es elegida presidenta de la Corte Suprema de Justicia - El Mundo CR",
+   "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQZ3E0SVlJMjBvX1YzSHJOTG52T3NKN3JjYl9zQUx0WkI3OHNUWnZIOVY0a0VrSHV3bFlVZVdPaHMtV3RzLVd4alBXdUxuVFJzSGJ2d1YwLW5ENGtpVDA2RzJWbEhrUHZIUUNxMU01NkVUOVBCZ29QWE5GQ0IwRDBSYkRicGhoS3V0STFXV212VnJsd1ZfRVpuUmFPcVVkdjVkbHFQQjlGUmZLQXkyOHc?oc=5",
+   "source": "El Mundo CR",
+   "summary": "Patricia Vargas González es elegida presidenta de la Corte Suprema de Justicia El Mundo CR",
+   "date": "2026-10-26T07:00:00+00:00",
+   "category": "asamblea",
+   "query": "ley ejecución de la pena Costa Rica",
+   "id": "5132688a287ec112",
+   "first_seen": "2026-11-23T23:51:01+00:00",
+   "topics": [],
+   "signals": [],
+   "score": 0,
    "flag": false
   },
   {
