@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-22T19:34:48+00:00",
- "count": 250,
+ "updated": "2026-11-23T07:32:36+00:00",
+ "count": 269,
  "flagged": 10,
  "items": [
   {
@@ -125,6 +125,21 @@
    ],
    "signals": [],
    "score": 1,
+   "flag": false
+  },
+  {
+   "title": "Presentación publicación Estándares de derechos humanos para el cuidado de la salud mental de niñas/os y adolescentes - GUB.UY",
+   "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxPSlJTRzhPd3ZhTE45TTFmckQ4OUlYQW1KTjJxWHJyRkVtOXpPeDdmUDY1bTZwRW85QWJPeVZQSzVIcC03azJnc3drZkRMNV9TY19iOEpaLWxxZzVYQ0JmTnpoYU9jRmtzYTMxcEc1bHFRNFZNQ2ozQjNNdjdkOFppZzJuNHJkVDkwd0wyYTZZdTVIbm84LUlHUDZjLXJqZXZEN08tMUZ4Wk45MnJrMjlMZnFyUUNsV24zbWgzWWdNMEpROGstMWRpRGVKQXM3OTFzV2xidzJKMTlGNlA3R01jSWx3cHluQnJRdm9qd3BYbw?oc=5",
+   "source": "GUB.UY",
+   "summary": "Presentación publicación Estándares de derechos humanos para el cuidado de la salud mental de niñas/os y adolescentes GUB.UY",
+   "date": "2026-11-20T19:49:41+00:00",
+   "category": "defensoria",
+   "query": "Mecanismo Nacional de Prevención de la Tortura informe",
+   "id": "71d79b87639af50f",
+   "first_seen": "2026-11-23T07:32:36+00:00",
+   "topics": [],
+   "signals": [],
+   "score": 0,
    "flag": false
   },
   {
@@ -499,6 +514,21 @@
    "flag": false
   },
   {
+   "title": "Sin verdugos contra la tortura - Plaza Pública",
+   "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNdnRVUDV2Y1lDeEUxSW1FRWVScWNrblV2MkdSQkZ3UHNjakpzS2ZTYnF5TEtXa3N6RkE0dTZaLTRoWkpIREVGRnUyR2RkN0Y4b2N4NHZyQTJzRzZGUklnZHdMMGJuYm9icWVxa3BUTnhOU09FVVkya3VBVU1ldE9RSA?oc=5",
+   "source": "Plaza Pública",
+   "summary": "Sin verdugos contra la tortura Plaza Pública",
+   "date": "2026-11-19T04:42:54+00:00",
+   "category": "defensoria",
+   "query": "Mecanismo Nacional de Prevención de la Tortura informe",
+   "id": "e334e2ee6e5efdfd",
+   "first_seen": "2026-11-23T07:32:36+00:00",
+   "topics": [],
+   "signals": [],
+   "score": 0,
+   "flag": false
+  },
+  {
    "title": "Suprema ordena a Rabat resolver rebaja de pena - veredictum.cl",
    "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5JOUlVcVhMU0E2S3k1R2JWZ3pSZVdlR2wxaHBJWDR5bk01ejFKUy1qU0t4TUtOQzV6TFV4cmlVZjJtRlNqb3JWRU5kQ0ZtczBnR3FmYXl3UnJzRXZkZmZ2bXJrZDFqeHJnbE11TldzQnhSQVFVSFRCZw?oc=5",
    "source": "veredictum.cl",
@@ -791,6 +821,21 @@
    "flag": false
   },
   {
+   "title": "Costa Rica se consolida como centro de almacenamiento y reexportación de cocaína - CRprensa.com",
+   "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNS0NkMHFLMUhqaHFyZlJZY2lsR0FCa0ZYMjZJSVAwdXVLODZUbnZLQnlzUjBUMlNpZER4bGEtdGl5dVFuRmg4VHhwUUVDLXhKZnRndExyYnlfRzR2bG1UNXVSNG15UnBONy1XMWZPT2RHd2MtX1BRV2dEOGhMVnJsU3ljZmdzSlN0d0RrZzQydDdaVWZTSVVkaF9Qa3JVaWpUOFUzM0ItZkhZYlpWWWpzdzVJMA?oc=5",
+   "source": "CRprensa.com",
+   "summary": "Costa Rica se consolida como centro de almacenamiento y reexportación de cocaína CRprensa.com",
+   "date": "2026-11-16T19:23:30+00:00",
+   "category": "asamblea",
+   "query": "Comisión de Seguridad y Narcotráfico expediente",
+   "id": "946788fe0b414f2a",
+   "first_seen": "2026-11-23T07:32:36+00:00",
+   "topics": [],
+   "signals": [],
+   "score": 0,
+   "flag": false
+  },
+  {
    "title": "Juez ordena trasladar a Santiago Peña a otra cárcel tras denuncias de privilegios en prisión - El Espectador",
    "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQNms1NXlsamJBV21lT29XdUZTWFVYOEZYNFQwaWtZZnVwTVpsRmp6b1JVTkltQ0FrcWpYZ01TU1pLR0ZXNGRrR21hbWpnNG1LMGtDb1o5dkdwNG9rMGNpZUFidkNpbWlwNnllcmFLZHVVVHV0OGJOZW9rZl9WN3RUR0p5QW5Lb2ZSczVILVNIT3dtSnUyeWpPWnhmQk9OWHVUUjJaci1SckpnTm1zbXUydWd5Q0JTa0pIZlRfZXFqcUJhbVHSAdcBQVVfeXFMTzQ0eFdNMUhYQmJrOGhOcWlDVmFMY3ZsUDRZMVFyUjFyYWZzUDQ4TllvN3dxWGo2WjFmSVc2a2JTMUJCODFGc29OS3o0c04tWE9oeEZZdDExamVsZjRGRDdURm4zQ0VKX2hkMnVBaUhLN3hnakxqMkFRbmJsRFJPdGxTWUdJZVFNVGtYQlFQRlQxMmhyX3BUTzBNZ3o3SFJRVkNpTEpNX0FWVHRDZmhQLUZPbUV0YUMwMERTUG1hMWpVY2kza19Ca2FvYUc0NnpBX0lQOThnblE?oc=5",
    "source": "El Espectador",
@@ -830,6 +875,21 @@
    "query": "OIJ homicidios Costa Rica",
    "id": "29507d04e2bf59cd",
    "first_seen": "2026-11-20T01:48:19+00:00",
+   "topics": [],
+   "signals": [],
+   "score": 0,
+   "flag": false
+  },
+  {
+   "title": "Informe UDP sobre DD.HH. advierte falta de garantías legales para la autonomía del INDH y Defensoría de la Niñez - El Desconcierto",
+   "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNZWpTc1Vob0RHSlp1d0Jza25zQUFHYjNHYjJKdTNUcTFRLUh3RklFaF9tUE9PRVBTTEg4OUEwUjhCWTF4b3kwcjhzU3VZZXdBUjk4QlRhZ283eE9fSDU1czFkbEMya3lmMnVwWGxyQVR1VVNsRWFseXZyYVZXTk9LOXZrVmVSQzdQMHo5NVItOGpEU3Z5TU5GMlpLNEtkTV9iQVZuWWdGbjJKWldEdm1KallNcDcycXhpNS01M2hUeGgzOEhaUGRfT0FoTUdnVjc3cUlhdlZB?oc=5",
+   "source": "El Desconcierto",
+   "summary": "Informe UDP sobre DD.HH. advierte falta de garantías legales para la autonomía del INDH y Defensoría de la Niñez El Desconcierto",
+   "date": "2026-11-16T17:00:00+00:00",
+   "category": "defensoria",
+   "query": "Mecanismo Nacional de Prevención de la Tortura informe",
+   "id": "b2ef0baf349d98e7",
+   "first_seen": "2026-11-23T07:32:36+00:00",
    "topics": [],
    "signals": [],
    "score": 0,
@@ -1799,6 +1859,23 @@
    "flag": false
   },
   {
+   "title": "Reclusos del CACCO en Costa Rica fabrican naipes, pelotas y otros objetos prohibidos con uniformes, sandalias y materiales de sus celdas - Infobae",
+   "url": "https://news.google.com/rss/articles/CBMijgJBVV95cUxOdDRqNXN6bUJSMTVybnJLRzBpQklTTXRPUjhiUEpoMnk4WW8wSmNGTTNFWkpDVy1zWTJBY3ZnbDN1UEFLZk1HZ0RLeXY2UElNVDExbFZWbWV4SEwwZ0hLS21CTUx6VWNybnNFX3RVQVRrcncwam5UdDYwT09zRnA4WTgtMXh0UWJzbHQxdnFQd1JMSFFBT25kU2RJNnFOQVc3bEV5V0ZXN0FURy16SGVqRVNOSTdaMER1X05EU3drV1dHYlBGcllWQ0RERHVwOEc0ZWJmUmp2MWxKcEN4X3RLSW9rdUt0SjlaRlA2YkJhU1ZYVEtWdUVXOUYyV2tTVjRPUUtScm9SNDV6LTlTS3fSAagCQVVfeXFMTktTaWNuVklhQmYtd1NJTk9aWjhROTlQYjFzS2dpaVZPWkxjaFE0d1pRMGJwWmg3czVxclZpalAxeHhpTW5TTGZqVHhHVUFLdFhlNUJJWEtqLWdFSkM0UXRBOEpUVEtKRXMzT1Utd3E3TlJRY0lUUXpDdEcwSFpNd3lkM250ZXdBdmN0amJCOVVqWmtnUXFfUk84ZDBiejdXTG5zbXQ1dXB4ZTNQWlFtWTlpLWJmOGQyQ3JzZEg0ZWIwRF9DU1lMUG5IZ0F3U2d1QXlZUlRid2ZSQVVDMUl1ZWNBM0NvZ2FQb0dQRWRpMVVXX1RDVXBOTVNUankweURYNC1zRWZsSUMxNFlob3E2c2oycEFOZzYxazRXZDVnbko4TzdiM3RrLS0?oc=5",
+   "source": "Infobae",
+   "summary": "Reclusos del CACCO en Costa Rica fabrican naipes, pelotas y otros objetos prohibidos con uniformes, sandalias y materiales de sus celdas Infobae",
+   "date": "2026-11-10T08:00:00+00:00",
+   "category": "noticias",
+   "query": "Ministerio de Justicia y Paz cárceles Costa Rica",
+   "id": "65205c30d49894f3",
+   "first_seen": "2026-11-23T07:32:36+00:00",
+   "topics": [
+    "Alta contención"
+   ],
+   "signals": [],
+   "score": 1,
+   "flag": false
+  },
+  {
    "title": "Corte Constitucional reconoce ataques digitales contra las mujeres como violencia de género - Revista Semana",
    "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxOWEhhZmhMaVFhcEhvd3Z5bVlmMXN1bk1nOWhMRGZRTEJxU29oV3dpS3B1MnFOeW5wdnJHODJsT20yRDIycVoyRWxtNThvdkxZZXVlX3VBbm9KWUstSE9yclNjYXp3aG5ObHRDc21KdjNRWG9sajQ1bjM5Q3ZjQjRrYkt0Z3ViMW11RV9CN0gwSF8wbmFFcWJJQ2RYVV9zbFAya3FYdkd4RzUtMlhwYnB4VmJIaU11VmhRMmtTbG9nYXlrN2hhdGU4QUpsdjRkZDhiLWY5Vw?oc=5",
    "source": "Revista Semana",
@@ -1904,6 +1981,23 @@
    "topics": [],
    "signals": [],
    "score": 0,
+   "flag": false
+  },
+  {
+   "title": "Alias Tom ya está en libertad condicional y la Alcaldía de Medellín ordena a la Fuerza Pública mantenerlo bajo vigilancia - IFM Noticias",
+   "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPcXVMelYyS0FyZjUzUnVBTTRWeHlWZTlENEN3el8zbzdCdmd2bXRVQ2JQYXlxU21kYVh3Y1M2aE9YeTZPWUM2NmFWWUhoM2NtNHJiZFcxVVJtX0xZeGtiSUdGNGRyOWpfb0ZKajd5NV9OVVFXRkZXQTF1eTlDOHQzei1oYm1OSDQ5ZmMxakpMVnNHNUxfbHVmczRhcUMxVndUcmtVcGpwbWhOUmZPWnZSNEFpQjFYdw?oc=5",
+   "source": "IFM Noticias",
+   "summary": "Alias Tom ya está en libertad condicional y la Alcaldía de Medellín ordena a la Fuerza Pública mantenerlo bajo vigilancia IFM Noticias",
+   "date": "2026-11-09T08:00:00+00:00",
+   "category": "tribunales",
+   "query": "Juzgado de Ejecución de la Pena ordena",
+   "id": "21555d391a17082c",
+   "first_seen": "2026-11-23T07:32:36+00:00",
+   "topics": [
+    "Beneficios penitenciarios"
+   ],
+   "signals": [],
+   "score": 1,
    "flag": false
   },
   {
@@ -2081,6 +2175,36 @@
    "query": "Comisión de Seguridad y Narcotráfico expediente",
    "id": "ba52473f4834a65d",
    "first_seen": "2026-11-22T19:34:48+00:00",
+   "topics": [],
+   "signals": [],
+   "score": 0,
+   "flag": false
+  },
+  {
+   "title": "El brutal triple crimen que conmocionó a Cuenca llega ante un jurado: dos prisiones permanentes revisables y 450.000 euros - El Digital de Cuenca",
+   "url": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxPamVlbFZQYlkyek8tVWtEbmRCRl81RkM1eXg1c2NSSWppcUpHdklZR0hTWkdTOFhpRk1KNmFUakRUX3hFcU1LTjhNdi0zTVZEYkkxbzF0RXY5ZHp1cVZYUHo0MW5SZkRwWWNuenlWSlJNSU5YTHBFSHVaTnBJN1J5aUh3amdla2lDcVV1VkZ6a25jOUlTYjlMLVcyc1Rwb3Iyb193QU9uTXRudWx6UURzLUFzVHFzMEN2NnR6X191NGVDREhnOE1XU3c0cUxlaEFaTnRiRlF1RnplVlducl9XbDFwckcyc2tCMmQ5bnRvZldJMVB5NVE?oc=5",
+   "source": "El Digital de Cuenca",
+   "summary": "El brutal triple crimen que conmocionó a Cuenca llega ante un jurado: dos prisiones permanentes revisables y 450.000 euros El Digital de Cuenca",
+   "date": "2026-11-06T08:00:00+00:00",
+   "category": "tribunales",
+   "query": "Juzgado de Ejecución de la Pena ordena",
+   "id": "7334da4931a77c09",
+   "first_seen": "2026-11-23T07:32:36+00:00",
+   "topics": [],
+   "signals": [],
+   "score": 0,
+   "flag": false
+  },
+  {
+   "title": "Se presentó en la Facultad de Psicología la sección de salud mental del informe CPM - Agencia Andar",
+   "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNUnFjTjNPcFk0U1BOYUYxdlZqWlZNd0loc01odl9EUVoxb044MVhLSFJGUXNJaUZoWHdiVkJFYld3ZzJSQlUzVXlJNkowaEtHR0tyRGJYUU5YNGJXdUc4Z0tLUzh1TmxyWkgwSjJqTjc3cDJEcmRPOHJQUWg0YWliSFBRbDFQMzd5MUxGRHZOZ1g4bGJuS01Ba1BEekFZUzNUTU1SV0t5OFFTWkdLc3k0VXhDaw?oc=5",
+   "source": "Agencia Andar",
+   "summary": "Se presentó en la Facultad de Psicología la sección de salud mental del informe CPM Agencia Andar",
+   "date": "2026-11-06T08:00:00+00:00",
+   "category": "defensoria",
+   "query": "Mecanismo Nacional de Prevención de la Tortura informe",
+   "id": "4bcdb6bd14cc7dea",
+   "first_seen": "2026-11-23T07:32:36+00:00",
    "topics": [],
    "signals": [],
    "score": 0,
@@ -2289,6 +2413,21 @@
    "flag": false
   },
   {
+   "title": "El TIP revocó un fallo sobre la extracción de muestras genéticas a personas condenadas - El Diario de la Pampa",
+   "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOcXlTWlA1cDY3VjkwMkhiaURvTDM5N1FiM25YcGZjRlpldlVqWHdTU0NNcjlsVjJQQmU5VmM0dFlQME0xS1NWWWV2N3d6UXpQSHpXYUFyYUNCNVVtX0JVbFBtd29FSG1jZ1VYSEs1eUd5cmlCR1pDeDdiS2ZlY3hqcmI1YkNOQUNBTmxFZjFYVFhxSUNwUzJSTEJ2eUZWMTRjTE9xOElFWjJidGdoNHlQNlQzaUZTY1plUTBFZ0pJeFdvQzlNZ0NfZUw5UHM4Sm81ZUtrWjJ3?oc=5",
+   "source": "El Diario de la Pampa",
+   "summary": "El TIP revocó un fallo sobre la extracción de muestras genéticas a personas condenadas El Diario de la Pampa",
+   "date": "2026-11-04T08:00:00+00:00",
+   "category": "tribunales",
+   "query": "Juzgado de Ejecución de la Pena ordena",
+   "id": "36f8adabd323e432",
+   "first_seen": "2026-11-23T07:32:36+00:00",
+   "topics": [],
+   "signals": [],
+   "score": 0,
+   "flag": false
+  },
+  {
    "title": "Costa Rica superó los 700 homicidios en lo que va del año - Radio Monumental",
    "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQaDN5RGtTeHY2bXBOSEZZbW40X0NEZng2dWNWa0ZJV1d1eTN2S19sT0xubUI4eC1ybThWTGdPMEhrYkxqR2xaYzlINkhyTUpYb3NCdmVPdFFBdXowa3ZfQkMwTGw5dG9CZkZTQWZFYm44ZEU1QzhSdlFMQWNTR2NxcDN5bFVnV0hoUHlzbG0zNE5iaDhwTDRvdzdtUmczUFU?oc=5",
    "source": "Radio Monumental",
@@ -2413,6 +2552,21 @@
    "flag": false
   },
   {
+   "title": "Proyecto de ley busca elevar la edad mínima para tener y portar armas en Costa Rica - AM Prensa",
+   "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOSkR6aERrZ2RWWkk0YlJ2Y2M1TWkwcXNpNVpab1JpRVYxMk04eE83TVFEbkFINF84N3F3ZWJpVjE5bmk4LXptOTRKb2J2bEVZQjVaSUdSVlRad3VEMkxra1o3Vll4d0tiZlIxLWREYlhVZmRFUlNYdkItRFJsdDNjb2g4YVJxd0VRcEdORkh0V0lNYy1MOVFjYTZKUFM2UU1Vd3p3VF9fUzZNN0tFOUpXd0Y3S0V3a0U?oc=5",
+   "source": "AM Prensa",
+   "summary": "Proyecto de ley busca elevar la edad mínima para tener y portar armas en Costa Rica AM Prensa",
+   "date": "2026-11-03T08:00:00+00:00",
+   "category": "asamblea",
+   "query": "Asamblea Legislativa proyecto de ley seguridad crimen organizado",
+   "id": "b70a8d018facc9b8",
+   "first_seen": "2026-11-23T07:32:36+00:00",
+   "topics": [],
+   "signals": [],
+   "score": 0,
+   "flag": false
+  },
+  {
    "title": "DEFENSORÍA DEL PUEBLO REQUIERE INFORME A LA POLICÍA BOLIVIANA Y REITERA LA NECESIDAD DE FORTALECER LA SEGURIDAD PENITENCIARIA TRAS FUGA EN PALMASOLA - defensoria.gob.bo",
    "url": "https://news.google.com/rss/articles/CBMinwJBVV95cUxPRFFuZ0ZOVTZaNHQzNlltaDVzQ1hvZndMYkt3eXNJN1F2TGNtVHB4YWd1UTNGMjZOeVNseDZsbTF5eU5qSzVmc1oxTVh2NGtsVEh0MlAxSUFycVQ4Nnd5ZU5EMUpvXzF5UWhQV0trNGZJREoxM2VQN0FiRVVHM3VYYVFLXzl3bm9XVWdEcDJDa1YzUmJVTk1ydFMwVnM1WXpWOVFlYmFhUEZjLXhfUkZrcGFQcTJoYjBNbDk2R3A0aDhiZHZ0V0hEMF9jZVRqQVg0TEJ6c3ZXcExTZHJlZWhJMnpJamd0TFVQTDR2cTVzc3JZOGVSalJwMG15U1kzRDFXcUhEYlc2eUYydzkyU2lQcElQcm1NTTN4WnE4dGZ5UQ?oc=5",
    "source": "defensoria.gob.bo",
@@ -2524,6 +2678,36 @@
    ],
    "signals": [],
    "score": 1,
+   "flag": false
+  },
+  {
+   "title": "Hermanos Guevara: casi 22 años presos y una orden de la Corte IDH en desacato - Efecto Cocuyo",
+   "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOYWEtQmlpX1FoMG95RkJoWEhxZDZpbFFWc2U2b29ZZi1JZk5Ea2oyaFlFeHpZekhreVhuQTlpazV0VzA5RmFiN3F0aHNIWUlPMG9Sa05iMzJTQW8yQUVDbTdVQ2FhMDYzWnAyZEJ1OEp1TGI1R29ENlJXUnJaTW5SUzQ4dDBXUEZsTDhxRjY1R1o3NU94QUlEME9tU0JGRXFMN1k2QkZZR0tzZ2VrS0M0b1FCZkFHUQ?oc=5",
+   "source": "Efecto Cocuyo",
+   "summary": "Hermanos Guevara: casi 22 años presos y una orden de la Corte IDH en desacato Efecto Cocuyo",
+   "date": "2026-11-01T07:00:00+00:00",
+   "category": "tribunales",
+   "query": "Juzgado de Ejecución de la Pena ordena",
+   "id": "d9524c29a1fef63e",
+   "first_seen": "2026-11-23T07:32:36+00:00",
+   "topics": [],
+   "signals": [],
+   "score": 0,
+   "flag": false
+  },
+  {
+   "title": "Costa Rica estrena su megacárcel: 123 presos llegan a la prisión inspirada en el Cecot de El Salvador - W Radio",
+   "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQVldMQ1E2d2c4WW15RDM5b2lWMHpWZWg2Q3JRVzBmWklsOUMxOEduX1V0eGxHbFdYV0tuUE1FRDBoWTFoSzhXV1I4YXpxdjVEYXJtN1NVWFFjSUFidHhtUjUyRUxSbGxfU2tvNVAtS3d2T0ptYWxyczZSYjM3TE9faFR1cVc2LVlYUkotdlkwYy1DZGw5dVpWdWRsWGpscVFhZldOZmNISDhEWDVBbWFwbWJhTEl3MTBBRFZWeFlXWVBGeUg2RDFVR3R4VHg2dUnSAeMBQVVfeXFMTnYyOHRHOGN6TkFYNkl1bU8wN3ZYWjRndDBka2Q2aXdCc2Z6WVVxd180a1p3N0hBa3BrQ1NLWEw4NUEwcF9peVZlQ0pGTFF4VjMzNkZhYUdvYTdzeW1Lekx4aFNqR1k4enQyeXlmRFA5ektUTGNqbENUeElQR0l5LTRtWWRfZFVtUHprQVktdktSWDRWeTc2T0xVbG1GWmpiN09vVEpicEZZVzB5bWwzREFtdHlTemdCMTRiR3RVQjc1emhLcjE3cjRETldlVHJ3SVlSZWltaUhoNUZhb2JRdjFyOW8?oc=5",
+   "source": "W Radio",
+   "summary": "Costa Rica estrena su megacárcel: 123 presos llegan a la prisión inspirada en el Cecot de El Salvador W Radio",
+   "date": "2026-11-01T07:00:00+00:00",
+   "category": "noticias",
+   "query": "Ministerio de Justicia y Paz cárceles Costa Rica",
+   "id": "fb411b65520ff493",
+   "first_seen": "2026-11-23T07:32:36+00:00",
+   "topics": [],
+   "signals": [],
+   "score": 0,
    "flag": false
   },
   {
@@ -2669,6 +2853,38 @@
    "first_seen": "2026-11-21T07:02:15+00:00",
    "topics": [
     "Visitas"
+   ],
+   "signals": [],
+   "score": 1,
+   "flag": false
+  },
+  {
+   "title": "#LoMásRelevante | Enfermera cobraba altas tasas de interés por préstamos a personas en la capital La sospechosa tenía orden de captura pendiente por el delito de usura. - Facebook",
+   "url": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxPS2VtTS1nZlozOEdKMGJzTFZiRXBxVUlLdlIzT19DNFgtbzFvVmM2bXM5X01wVG11c3FWejliWXZpbi1SbXBOdDExZEg0NWRZbWhFRjE1Q25nUV9wbzZxLTNZN3JuTnZ0MHpVQTVTTGtmeVhSOVFiajFPOEtHX3kzWW95dXhPVlJPTFFJVWFWVDNwS19LNTB0NVd3bjdHcEVtX0UtNVhFdjlLb3dIcEozTkx6b3lmMF93bjNoWmdaTmJFMXRpT0wtNzdyM0x1Wlowcng3Q2phZjlHTmZJZW9VMDRfc1M2Sy1NNzB5X0dSbl91OEJmMUhwV21QNW9icEE?oc=5",
+   "source": "Facebook",
+   "summary": "#LoMásRelevante | Enfermera cobraba altas tasas de interés por préstamos a personas en la capital La sospechosa tenía orden de captura pendiente por el delito de usura. Facebook",
+   "date": "2026-10-30T07:00:00+00:00",
+   "category": "tribunales",
+   "query": "Juzgado de Ejecución de la Pena ordena",
+   "id": "da4b39f88bc04854",
+   "first_seen": "2026-11-23T07:32:36+00:00",
+   "topics": [],
+   "signals": [],
+   "score": 0,
+   "flag": false
+  },
+  {
+   "title": "CACCO: Defensa Pública presenta recurso de amparo por «trato denigrante» a reclusos - Radio Columbia - Tu Estación de Radio Costarricense",
+   "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQalE0MzVOd0NHVWQ1ckk3MkpTR1JiUnFVZTdtU3NKa1B3eldFTGV1d1NZTlJBX0lDSUhONHRLX1hRTEhST2ZRWWYydHU0YkYyaG9xUDZUWE5ab2lfZ1RrUXE0WjFIdzhfenAzLVc1RGlfYXVrVmdxblNIdVN4VmNpNXJQVmJuQ3B0ODVFNWpsNzRyUlpHaVE3UTZ6MGg1Q2JhSXNKRHZR?oc=5",
+   "source": "Radio Columbia - Tu Estación de Radio Costarricense",
+   "summary": "CACCO: Defensa Pública presenta recurso de amparo por «trato denigrante» a reclusos Radio Columbia - Tu Estación de Radio Costarricense",
+   "date": "2026-10-30T07:00:00+00:00",
+   "category": "defensoria",
+   "query": "Defensoría de los Habitantes privados de libertad",
+   "id": "80b11a4a8c16baa1",
+   "first_seen": "2026-11-23T07:32:36+00:00",
+   "topics": [
+    "Alta contención"
    ],
    "signals": [],
    "score": 1,
@@ -2882,6 +3098,21 @@
    "flag": false
   },
   {
+   "title": "PUBLICAN LISTADO DE ASPIRANTES A RELATORES A LA OPT - Congreso de la República de Guatemala",
+   "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBSYWItQjJtNlFUemFRUWVwb2tUemxxUTVIVGhpazB6TE40UXEybmhLQ0JCTnNvLWt6RmtXb0M3MWJObFVTMVYyaGpodFpxdHpJcVR2blYtRWJJN2ZOOFNyZVBUMTJaSjdxX3c?oc=5",
+   "source": "Congreso de la República de Guatemala",
+   "summary": "PUBLICAN LISTADO DE ASPIRANTES A RELATORES A LA OPT Congreso de la República de Guatemala",
+   "date": "2026-10-29T07:00:00+00:00",
+   "category": "defensoria",
+   "query": "Mecanismo Nacional de Prevención de la Tortura informe",
+   "id": "ed6e93311d7e18a5",
+   "first_seen": "2026-11-23T07:32:36+00:00",
+   "topics": [],
+   "signals": [],
+   "score": 0,
+   "flag": false
+  },
+  {
    "title": "Fiscalización del caso VaQnas en la Comisión de Transparencia tendrá tres ejes, mientras denunciante prepara una ‘segunda fase’ - El Universo",
    "url": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxQT2RSMlRHclZRTks2TjBCRFBvMUJOTEN2d1lGaF93NVZRYUdYSmVPaHFrVlYyRDZuTWlPUXRPSzkwTm9ld01DNGxic0F1T0VERTdWVHNrOVBxVVc2eHBuT0FWWmFqWEtiTGp5emI0dG1Zd19NWWRBcWgtVHcwWTYwQWhIelpjSmZKa1hkOGU2dmZvZGlVeXhzU0VQNHhGMVlncGs2aWp5WXZYckdEaF82U3FLWU9SSjVtN0d4U3JwT19WT25HWVp4bWFxdi1rYmg5QkI2NDQ2N0FQdzZUcmRyRTJGcGZTZ0RTa0RoS0VDc1NSZ9IBhgJBVV95cUxPcndIeFhhUzRXcVlST3dkM1VxY1AzV1k5UnhpWDk5Q0phRl9MZUU5ajl6UGQ1OTA4ckU2QXNBRlg1VVRMRkdpMFlEaFgzZFZrS0RTWEF0V0d2SFQ5T2VmallKMldMa3ZLNnRUVzlmSkRBWHpqeFBNN1YzYVNsZmxUSVVJSFVQVVhFQVpjSi1fdGJCaEFOYkVKSzJ6cTJTaFAtcXJKU0pLcWM5YnI5cnZvVE5IcnhlMzNvX21KT2tja0NiWmE0OHdKWmVNSlppZ2RKblBMVThnZFU1UmlHU2RwUEVSMEZmX3pLbDQ1a1owZjJIYnd2NVhfbEJTSHQxWXhkYTNLN0x3?oc=5",
    "source": "El Universo",
@@ -3049,6 +3280,36 @@
    "query": "delito ordenado desde la cárcel Costa Rica",
    "id": "eedb5665e5b262c1",
    "first_seen": "2026-11-20T15:25:29+00:00",
+   "topics": [],
+   "signals": [],
+   "score": 0,
+   "flag": false
+  },
+  {
+   "title": "Fiscalía confirma salida del expresidente Elías Antonio Saca de prisión - La Prensa Gráfica",
+   "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNdm1CQk51eUtIdm40Z0xuQVRjUzd6WFZ0dlpIZ2RWZFBCaW5xXzNEbXlSZy1zajVNeG9tSXUyWXRJVEN6NEJ1SkpWYlBfb1VleUdab1RFMXRlZk1UVjVzVUZ0X2xMR1FIRjRxaUJtWlR2SkVuQ0ZMY2NCTzZzSUtsWno3T1FmQ1FITHdSVHBOdlpZT0xHb2xabS1VUk16TDA1VUphZ0FyRXowUU5aTGc5a3ItSEJWdFkyRUx1aFVmTHNVOTA4SllrNkd2SjJkdw?oc=5",
+   "source": "La Prensa Gráfica",
+   "summary": "Fiscalía confirma salida del expresidente Elías Antonio Saca de prisión La Prensa Gráfica",
+   "date": "2026-10-28T07:00:00+00:00",
+   "category": "tribunales",
+   "query": "Juzgado de Ejecución de la Pena ordena",
+   "id": "a6a751d3c5b5e033",
+   "first_seen": "2026-11-23T07:32:36+00:00",
+   "topics": [],
+   "signals": [],
+   "score": 0,
+   "flag": false
+  },
+  {
+   "title": "Caso Rodrigo Quintana: fijan plazos de condena de Florentín - Resumen de Noticias",
+   "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxObFZOR05ZWFNqNWE1cS1ldEJtMGlvVmVyRGVqSGdCNUFyUDhXVTVKV2NIalBuY19zRjd6RW9UZ3AxamRJU1dTU0kwTTgxV3lDanZXcDMzS3I5cHNWa3M3eDdTbEN0c0w4alY3LWZZM0xscVlocmVkZDlVS2RoYl82elQzNXl0MXpjMHUyRDRETjZUdFBheUY2cQ?oc=5",
+   "source": "Resumen de Noticias",
+   "summary": "Caso Rodrigo Quintana: fijan plazos de condena de Florentín Resumen de Noticias",
+   "date": "2026-10-27T19:38:51+00:00",
+   "category": "tribunales",
+   "query": "Juzgado de Ejecución de la Pena ordena",
+   "id": "a4a9317b15d5391d",
+   "first_seen": "2026-11-23T07:32:36+00:00",
    "topics": [],
    "signals": [],
    "score": 0,
@@ -3403,6 +3664,21 @@
    "flag": false
   },
   {
+   "title": "Pedro Rodríguez, el primer condenado por el escándalo de la UNGRD, que queda en libertad - Revista Semana",
+   "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQaGt6bE1iSGd0Q3JvTU05ZnM1SVFOSDk0aFRINFZhOTYwcldwaHJlQy1UTnZKVnBjeldwMzdvRXhDaV9iU1k3Q1RTZDJWSUcxWVZMRS1abnFBLVNJRVVlUjZjc0N1NjFUWl9VaDIwZldMeHl1clJhYVI0QlFLM1k5T21adWtBazEzRnV5UmZBeTR4Q1JTenZsMXBIYS0yTTRKTTBKT2JVVl9idFdPNkI3bG8tSDFCWWVGY3JGaW1vMEQxZTdhWHlXM0RfU0pqdw?oc=5",
+   "source": "Revista Semana",
+   "summary": "Pedro Rodríguez, el primer condenado por el escándalo de la UNGRD, que queda en libertad Revista Semana",
+   "date": "2026-10-27T07:00:00+00:00",
+   "category": "tribunales",
+   "query": "Juzgado de Ejecución de la Pena ordena",
+   "id": "35b675f3cd0c59c6",
+   "first_seen": "2026-11-23T07:32:36+00:00",
+   "topics": [],
+   "signals": [],
+   "score": 0,
+   "flag": false
+  },
+  {
    "title": "#Doctrina: Actuales debates bajo la Ley 27.801. Análisis de las primeras sentencias (edad de punibilidad, cautelaridad y derecho transitorio) - al día | argentina",
    "url": "https://news.google.com/rss/articles/CBMikwJBVV95cUxQUTlQLUN3Nk8yTkRtbThBTDNVS2FZLVZMMUl1ZVoxNkpzaVV1NXU2blBreXhBU0Z1UlhTMzc0MXUzMWdRMGVnQUxKOEZ5cFI2VDVaRmdOVnNIbkVkZjNSbGF2Ujd4YVQ5ODBaTnFpa2JHTlVrOVJxc0ZvR21ObGJwNmMwQzJHZm56N1RXUUktM0VDRHktOFIxckVFV1JadW1OM2V5VTM3cDUyWk5fWUxVYk0zME1MMjJKV0VBckRFOUphWnp2a3pNdnY1RDE4SEVGRmJKVHQxMFFMdzBhVjJxeFU1dF9qSWlBLVdSakhWXzV5Z3NHbjB1LWJfVFhlQmtIRFRNdjVoUE84c1hla29xalpHTdIBmAJBVV95cUxQbUdBSVBGRl95MFZXcGhVdWwxZmRSbk9SYThYR1pyUnlqdHU0cE1OWXZ5bl9rYjlTbUdSMzJ5cnZfY01UV1UzUkhNZWxvTFRWMHNyWGtlcjdHOUQ5THlMdG5xVkFvWW9DMXVOd3NwWFUwWnFDRkpjRVdYZEt2NG1wQjV6UWdLQm03WHJEVFZGZnktMEdSOGZrQUlCc0ZyelJhNVMybWo3d3ZfZ01FaWJTTkF6OGFRM1JMMlh0WG9HTkpWZGxvOFltMkJ4WmxmRl9Bdks5VW56QTRBM2lCbXItUkctdGFfVWtzV3VhTjA1Q09HbUhsbTFpZVVwUjRyRnIzdHp5V3R6UDVsdV8zaDBrLWpGM19oWkhL?oc=5",
    "source": "al día | argentina",
@@ -3553,6 +3829,23 @@
    "query": "Defensoría de los Habitantes privados de libertad",
    "id": "2cd90f7f4bf2751c",
    "first_seen": "2026-11-22T06:43:54+00:00",
+   "topics": [
+    "Alta contención"
+   ],
+   "signals": [],
+   "score": 1,
+   "flag": false
+  },
+  {
+   "title": "Ministro reconsiderará habilitar audiencias virtuales en el CACCO - CR Hoy",
+   "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOLVpVbHpjVWVnTFkxTTBWeUUxUlFjS1plVll6NzlxM1FBbGVtVnR5R0ZvNnBBZ195c1J4MTJ3VV9sYi1NRUJBNUdZQnBjbHI0NlRnbE9EREtwcVpQb21XWlRIRTBVNVVobkMtT1ZkTFlHejlseWUwdWRBc2xhb0NNUnF4WndPM1F5OWlXdlpRdE1ESkZzVnBLN1FzWQ?oc=5",
+   "source": "CR Hoy",
+   "summary": "Ministro reconsiderará habilitar audiencias virtuales en el CACCO CR Hoy",
+   "date": "2026-10-26T07:00:00+00:00",
+   "category": "tribunales",
+   "query": "Juzgado de Ejecución de la Pena ordena",
+   "id": "3225e7ac49547a42",
+   "first_seen": "2026-11-23T07:32:36+00:00",
    "topics": [
     "Alta contención"
    ],
