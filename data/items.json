@@ -1,8 +1,40 @@
 {
- "updated": "2026-11-23T23:51:01+00:00",
- "count": 285,
+ "updated": "2026-11-24T09:51:06+00:00",
+ "count": 299,
  "flagged": 11,
  "items": [
+  {
+   "title": "Gabriel Aguilar estira criterio de Cruz Roja para justificar 60 personas por celda en el CACCO - Radios UCR",
+   "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE4yZVZzOTBUaC16STMxSVJfMVB4eW9HOUloWEF3dHJYeWpQS21PZUxZclpOUXRCNGptSlc0TW1aVEozOTlUMlhQM05HN21vZm11cThJZ2N1el9VTUs5RGY4bEZwel9leXJwT1NwSA?oc=5",
+   "source": "Radios UCR",
+   "summary": "Gabriel Aguilar estira criterio de Cruz Roja para justificar 60 personas por celda en el CACCO Radios UCR",
+   "date": "2026-11-24T02:32:56+00:00",
+   "category": "defensoria",
+   "query": "CACCO Centro de Alta Contención",
+   "id": "37d63a934b58696e",
+   "first_seen": "2026-11-24T09:51:06+00:00",
+   "topics": [
+    "Alta contención"
+   ],
+   "signals": [],
+   "score": 1,
+   "flag": false
+  },
+  {
+   "title": "Quién es quién en la supuesta red de narcotráfico desmantelada en la operación Rompeolas - Diario Libre",
+   "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNTTdhR3JWOUNnNUM1UVY5Vy1ULUFyTWw2ZGx4ZHhHNDdXMkJMTkhEaFdyV2o3cjV5eHEwS1NyVXN2SjBaZ3pIUWVfemM0c0gwQUlvZGhNbUJqVHBaX2ZuUnVNZDR2VHNhME5XM2NlS0xuNDFsY0VMeGp3VzJIWVF6ZXNTZkVBdk1VWGhhSTJEdmg3QUdURVRBQTRrU1diUFNqUURad2lWNmo2SlBLbFMxcHdqanhWTHVkOExLSl9kVGRvV08xQkFFZDFQbDZjTmZv0gHWAUFVX3lxTE41R2FZdERyM2liSEZYb1dLaHdLNFZPYkZUMzNYSjZlMnVBamNDUUpQampBLWtfYXhBSlBDZW9lMUFNSmJ4bGhOcVRXQnFsMWJxTUNVME1hSnZSSjJZbU5JRER2Y1Y4c0JwdVBDcWd0eWdsazlOWkV4T014TU53U25ySEpCV1czVTVndnJQN25ZWlN0REdsLVJQWWxxSTFOSkJXZVFwbWxFSWZzd3JWcDhXU2VuYzVwTXpDYXJOQ3RaRGtCaG9HZURlQnBtMDN2OHo4UTVXQ0E?oc=5",
+   "source": "Diario Libre",
+   "summary": "Quién es quién en la supuesta red de narcotráfico desmantelada en la operación Rompeolas Diario Libre",
+   "date": "2026-11-23T02:01:00+00:00",
+   "category": "asamblea",
+   "query": "Comisión de Seguridad y Narcotráfico expediente",
+   "id": "6c3fc01d94d18ad0",
+   "first_seen": "2026-11-24T09:51:06+00:00",
+   "topics": [],
+   "signals": [],
+   "score": 0,
+   "flag": false
+  },
   {
    "title": "Los asesinatos de menores de entre 12 y 17 años crecieron en Costa Rica - Infobae",
    "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQVTZLNjBGTVBib1hqVEtMa3FCY3ZsUjU3UlBXcUpCUmhKbHVQTTAwd2M5NHhUa3B3X1JYS0NVZlVDNGhfS0ZZZ3FRZVBxNm5tLTVzT1ZxUVh3UThfVkt1allCSDBzaDFFZjRDeENSeFFlVnJXRTFoSkY4N19wRTBvUWlYLXE2UF9FN0o5ZWRobTM0UTRoNGNwQTZEQVBpN0tnTWZHRDlzalZUQTlQSy1jZWNjaXhybnFiMFHSAdQBQVVfeXFMTXJEZktTSEFpTFF3eGd3UG95bzVBUTNTYjV0QWs4TlpQZ3lhZGV1Q0M3Q1J1WTJ2QjFNZm56cjlHSWtwMWZzbWxyRmprblRKWTdtUTk4WjlhQmZyN2habV9pc0xueGZUREdLNTRQcE8xdl9UUzN3dGl1WmNvS0JxLUNDak5pMlNvRzlqempudnNUQVA5NExmMmZWVkJGLWFCbEdTNjU2Q204U3NHSlNjd0dFZTB0WV9iNU5HZ01vT1FFVXB2b212UDNmcTN1SjE4d0JxWFA?oc=5",
@@ -33,6 +65,21 @@
    ],
    "signals": [],
    "score": 1,
+   "flag": false
+  },
+  {
+   "title": "Gobierno y Corte pactan mesas sobre audiencias virtuales y consultas de órdenes de captura - Teletica",
+   "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOUHZtZWRraXFhWTlBSFpHZ20zN2VZNHFkTXJMbDdYUXIzeV92ZlFoTW53N1drUkNpNDVlbXlHOXpMVDdyTVRCeWg4VUJGNERZaUdpaGdhemltdTl1LTVoQXFLLUdodlZoeWZFa1VGRkNVcE1FSDFnODdCZXM4bWVsY0h5S0ZDYWtHYTFldF90RENtMHJvczJISnZiUlFjRUl5ODUxNUYyNXdHU1czRnR6WEJWNFJueWg4aTB3VjJhN05ZWDVUbmxxeGJRUQ?oc=5",
+   "source": "Teletica",
+   "summary": "Gobierno y Corte pactan mesas sobre audiencias virtuales y consultas de órdenes de captura Teletica",
+   "date": "2026-11-21T15:01:48+00:00",
+   "category": "tribunales",
+   "query": "Juzgado de Ejecución de la Pena ordena",
+   "id": "769f819209f6b8e5",
+   "first_seen": "2026-11-24T09:51:06+00:00",
+   "topics": [],
+   "signals": [],
+   "score": 0,
    "flag": false
   },
   {
@@ -125,6 +172,21 @@
    ],
    "signals": [],
    "score": 1,
+   "flag": false
+  },
+  {
+   "title": "🔴🔵 Tras una sesiòn del Consejo de Ministros, el titular de Justicia, Erenesto Àlvarez, afirmó que “no es necesario” que el gobierno replique el modelo del Centro de Confinamiento del Terrorismo (CECOT) de El Salvador, pero que sí tomará referencia del sist - Facebook",
+   "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxPNVM2OTlTMGdHeFlpeE5BNXJTZ2E2YnZYWUN4LVdhaDJXbnE0Tkdla01GOWxfUl84UExEY2FuZWRIOWNacGN3TVNtX0lRTnVkdjRBazFtVUtrLUZlbkJZNmhtRThtZ3FYc3Z1Uk5QUDM2Z0txQUJRNkN1eUdDSnJTZVBRSWl3LXVPUkxQRFR1RDE4VGpCTWt0YllScGxiUzJPN0NydHMxc3RzaGVnSHoyTXlXdmx4SW5zZzd0dUZQRXBqeG95eEd6bzhqOGk3ckM0b0t2MVViVTdwbGh2XzZuZ2JCVFlUM3pRSjd5Rw?oc=5",
+   "source": "Facebook",
+   "summary": "🔴🔵 Tras una sesiòn del Consejo de Ministros, el titular de Justicia, Erenesto Àlvarez, afirmó que “no es necesario” que el gobierno replique el modelo del Centro de Confinamiento del Terrorismo (CECOT) de El Salvador, pero que sí tomará referencia del sist Facebook",
+   "date": "2026-11-20T21:14:59+00:00",
+   "category": "noticias",
+   "query": "Ministerio de Justicia y Paz cárceles Costa Rica",
+   "id": "132930cf77da3e50",
+   "first_seen": "2026-11-24T09:51:06+00:00",
+   "topics": [],
+   "signals": [],
+   "score": 0,
    "flag": false
   },
   {
@@ -375,6 +437,21 @@
    "flag": false
   },
   {
+   "title": "“No presentaré mi renuncia”: responde Defensora de los Habitantes a Pueblo Soberano - Radio Columbia - Tu Estación de Radio Costarricense",
+   "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQc043WDF6Z1ZDcnZidUVueUo3OGxLWFlGejRlczFBVjZ0SHBOU2JqRlJyM0ZWalNnVzdaWnNMSHpaU29jM2tQbWJFZDZNU1JTU0FObDhYcl92VENKY2MxUkl5RWNnMmpfTXlvTmYzNjE2eXcyRXRUbmt5RUtObDFqd2xkZXpySENkUlFfc0h0N1p5NndNTjFWRE1GRWFhaUVfSUZjd3ZR?oc=5",
+   "source": "Radio Columbia - Tu Estación de Radio Costarricense",
+   "summary": "“No presentaré mi renuncia”: responde Defensora de los Habitantes a Pueblo Soberano Radio Columbia - Tu Estación de Radio Costarricense",
+   "date": "2026-11-19T20:24:42+00:00",
+   "category": "defensoria",
+   "query": "Defensoría de los Habitantes privados de libertad",
+   "id": "c2331018796e2365",
+   "first_seen": "2026-11-24T09:51:06+00:00",
+   "topics": [],
+   "signals": [],
+   "score": 0,
+   "flag": false
+  },
+  {
    "title": "Expediente Confidencial / Europa y las drogas... estudiante contra Morena... haitianos con Bukele... - El Sol de México",
    "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxOUjdIeXA1aWl4R1lnT2FXQ1M0Z1lrZ1duT3VuZnowSlRNNmZZdlV1SVpRR3BOZnQwZDNXdE5fNkFjaWJjUVdjXzBtMGJZMUVNTTlHeDRfVmhIU1Z5R0Z0NGZUbzU4anVwR0ZndTFPTlNjcXIzanE3RDVHQjNncGhHeVFZY1l3cHktWmt6cFNlRG1ZQ2swS3kwQl9EamNNeWJHSzJSVmhKMFNJY1hhbFo1bTJhckVGTmJKa19LNTNmY213SVlFSHR1ZTZ6R0FwMnhMbnhGLXA4VGw?oc=5",
    "source": "El Sol de México",
@@ -602,6 +679,24 @@
    "query": "Defensoría de los Habitantes privados de libertad",
    "id": "736bc319044e0444",
    "first_seen": "2026-11-21T19:12:46+00:00",
+   "topics": [
+    "Alta contención",
+    "Visitas"
+   ],
+   "signals": [],
+   "score": 2,
+   "flag": false
+  },
+  {
+   "title": "¡Graves denuncias en el CACCO! Esto dijeron reos a Defensora de los Habitantes durante visita a la cárcel - AM Prensa",
+   "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNN01LNDhtQ0FTRmFOQTdyQ3B2ei1HbHF2NWZ2bmpIbFVnM29NYmZWOFpKdjFPWnFfTjI2NXdvSm1ybjFIbUtyRDhmT0dwSHg2SGZ0aEJveE9DRUFWZzJMcXJ3V0NmTF9xc3lsV21zUHgzanN0ODBFVFZDdHlWTWxhUDc0WkQwdFVoOS05WmdpY0UyS2s?oc=5",
+   "source": "AM Prensa",
+   "summary": "¡Graves denuncias en el CACCO! Esto dijeron reos a Defensora de los Habitantes durante visita a la cárcel AM Prensa",
+   "date": "2026-11-18T17:02:53+00:00",
+   "category": "defensoria",
+   "query": "Defensoría de los Habitantes privados de libertad",
+   "id": "97e8029a98b4edb5",
+   "first_seen": "2026-11-24T09:51:06+00:00",
    "topics": [
     "Alta contención",
     "Visitas"
@@ -1622,6 +1717,21 @@
    "flag": false
   },
   {
+   "title": "Prisión por pistas clandestinas: dictamen unánime para castigar con cárcel a quien las construya o tolere - - Culturacr.net",
+   "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5Va0stRWZYakItSlR5UGFad3hIVEJUMFU3VHBmUnFUZGx3a2Jaak93akw3bmh6N1RJcEtGQnpXal92NnFTeWV0UHdYWW5VeURPUVdIcllzV05OT2x6eWVnS09aemJzS2FhUHNERGd3akp1SFUz0gF6QVVfeXFMTjhRUEJGLUtmMUhXQVdzLU84djdHaGU5ZXpmamZ2VGQyMzJtRzdwUVRBSzZQNVBHZWNjdEFUTmRKWEY5S0RhTkVjVFRLUGNqc3FwWEpNSWJUMVM3cWdzUHNzZk9lM19uMUtYS3pKbDN1akNGcjAyT0R1SWc?oc=5",
+   "source": "Culturacr.net",
+   "summary": "Prisión por pistas clandestinas: dictamen unánime para castigar con cárcel a quien las construya o tolere - Culturacr.net",
+   "date": "2026-11-12T19:27:22+00:00",
+   "category": "asamblea",
+   "query": "Comisión de Seguridad y Narcotráfico expediente",
+   "id": "be66b470c016e4f2",
+   "first_seen": "2026-11-24T09:51:06+00:00",
+   "topics": [],
+   "signals": [],
+   "score": 0,
+   "flag": false
+  },
+  {
    "title": "Autoridades costarricenses investigan tres homicidios de hombres atacados dentro de vehículos en Cartago, Alajuela y Limón - Infobae",
    "url": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxQbi1ROUZrWnQ5SzJFcGF3SGNCUFlqTnFrMktXZEY4dnY1ZmdoeHNJeUg3Rzc4bmNzcXBzTExkOVMyYktzS09PbWxCMGRnNUJHZ3JZMWFXclRUZUtLT05WWkZEZmV4NHhJWTQ3eVRDNHBIMXAyOVBrWFVoZ3VWWkpCQXVNZkNsYXMzZ29FcF9WRFR2Tkk0Uzdyb2VnRER4UFc3TmVIbG1EaHI3Z21VMktFbUFvaFZIMkdjZS14em1QTHhqNElSTDlXNlFnWVlSWVpHRFpxd2I4TkxzYnlORTJxYi1DTGx1bzZyZU5jRTM3RU1yd2I5Nl90QTJteHbSAZcCQVVfeXFMTzFkUTZ2eHM0cmZEbmk5X0Fzb2FfV3NkMjFMV0lWbV8yWk96eXhSbnNjeHZtbE1SZG5EVWpxMXJhbTZWWjF5bEFRa2JEMUk5ZnFHVDFDak11aWJRRDZ0QmUxMk9FZ1NSZHpyaUxqTzJJaHgwSFNnN0JZTnZkQWdJeE9yV0w5VVFPZ2pKTmIwa2plUG00XzFtajhGQndHWDllazFmNXl2Q3FnRGJvUzZzam4yd3ItZWdQdnhaU205X2xSVWJfR0JoMkJuRVVfRl8tTlF2SzVWeDJWRTRvVFA0WWpNTllZeTlSZEFqajJ4Nm1DMzh5U0V4Wlk4ZXE4UHhoY1V3N242aUVCTDFPUDZNd3FyY2NtRXZR?oc=5",
    "source": "Infobae",
@@ -1778,6 +1888,21 @@
    "flag": false
   },
   {
+   "title": "Presos de San Miguel sufren por agua, el 64% debe adquirirla por sus propios medios - El Sol de México",
+   "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNQWYyWXBNakdkaGFtRDZvdmhXZVNGLTY4UkJyT21oYTVoN2Y1QlNsWGNyRDRkQ2dveVpZT2VBM0puY0M4QjdnZ0thN2JOMlZaV1VLZndmMEVKNWREZUZnV25ZVXl1Z3N5c0d6VGxlUkFmR0lPZzl4SkRSdXFLYUkxUHR5VFdILWF2VXlHelpMczFuOFlRSkZWWkY4UDQ4YVR4NUh2TElEaFZBeG50dGVwSXdyQzVNWHpVdkMxUjVHdGVRSnY1RUNpeA?oc=5",
+   "source": "El Sol de México",
+   "summary": "Presos de San Miguel sufren por agua, el 64% debe adquirirla por sus propios medios El Sol de México",
+   "date": "2026-11-11T08:00:00+00:00",
+   "category": "defensoria",
+   "query": "Mecanismo Nacional de Prevención de la Tortura informe",
+   "id": "daf605445c54d1a4",
+   "first_seen": "2026-11-24T09:51:06+00:00",
+   "topics": [],
+   "signals": [],
+   "score": 0,
+   "flag": false
+  },
+  {
    "title": "Diputados buscarán denunciar tratados internacionales que “obstaculicen” reducir la edad punible - Criterio.hn",
    "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOeUREZ3ZkUkJuckFlVjViMWJmUHRkbnF5Y0MyMDM5V0ZxQ1czdVpKYXdhb3UzMXpFRzQ5ZVBoV3NCa1hJRDZkQWFrN1Nxb0diYlB3UXFJRXkyYnEwbFlkaUoyNWtCUjczczRVY2t4ZWplZE5JcVZydS1KUVN2SDE0bGU4cFcyM0ttOEFJdHh5S284cTgxa1FiWmswdzEzTEkwcVE5YjFac0VQUGNMcHJ6LXJGcklSZw?oc=5",
    "source": "Criterio.hn",
@@ -1903,6 +2028,21 @@
    ],
    "signals": [],
    "score": 1,
+   "flag": false
+  },
+  {
+   "title": "Allanan una “sala de pánico” perteneciente a Peña en San Bernardino - La Nación",
+   "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNYVdOSEN6RGw5bVNOZ3BzQnR6TFZjbWtsYzd0X1pLNEJZWmM0NWMxTkFVNjd5WUpkWW9DZ2NOT3Y1emxiMU5oUXpSaUhia3RWNjc4WTM3OXh6bWZidjdrV2Ztb2lTSFhYS0F5NzBxZGtPUUdKODVtNEJ1TGtvRHFYVFZ0ZjJka3RXdGJqVkJEakVkX3FwWUxmRDV6dTk3Szhxc09DQUpzcE1kc3ctdnFFZVpteWJnZHc?oc=5",
+   "source": "La Nación",
+   "summary": "Allanan una “sala de pánico” perteneciente a Peña en San Bernardino La Nación",
+   "date": "2026-11-10T08:00:00+00:00",
+   "category": "tribunales",
+   "query": "Juzgado de Ejecución de la Pena ordena",
+   "id": "7bfdbe8387de922c",
+   "first_seen": "2026-11-24T09:51:06+00:00",
+   "topics": [],
+   "signals": [],
+   "score": 0,
    "flag": false
   },
   {
@@ -2659,6 +2799,21 @@
    "flag": false
   },
   {
+   "title": "Entra en vigor la ley especial que endurece las penas contra maras y pandillas - ElHeraldo.hn",
+   "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPamlscS0wTlplSk55S2hlTFFGVXpYbjlLMEl2TnJDbmFkOEl3UVpGNTVmXzdJUWFxQzJSUmxzUEpZR3BwcnlHQkdnQjhFQ2ZFUUFjNDNoMDVYbWtfU21uMWJ0RU1IVFhTeUZMWlVCRkJFWDBwLXo1eHZKVXB6dEhSb3ExSFlUdmlTbjhUNEVndjd2Xy1fVE1Ca1hxZjU0d0tQRlgwdl9qYnFkbVE?oc=5",
+   "source": "ElHeraldo.hn",
+   "summary": "Entra en vigor la ley especial que endurece las penas contra maras y pandillas ElHeraldo.hn",
+   "date": "2026-11-03T08:00:00+00:00",
+   "category": "asamblea",
+   "query": "reforma Código Procesal Penal prisión preventiva Costa Rica",
+   "id": "bd4a7ac9036fb1ac",
+   "first_seen": "2026-11-24T09:51:06+00:00",
+   "topics": [],
+   "signals": [],
+   "score": 0,
+   "flag": false
+  },
+  {
    "title": "DEFENSORÍA DEL PUEBLO REQUIERE INFORME A LA POLICÍA BOLIVIANA Y REITERA LA NECESIDAD DE FORTALECER LA SEGURIDAD PENITENCIARIA TRAS FUGA EN PALMASOLA - defensoria.gob.bo",
    "url": "https://news.google.com/rss/articles/CBMinwJBVV95cUxPRFFuZ0ZOVTZaNHQzNlltaDVzQ1hvZndMYkt3eXNJN1F2TGNtVHB4YWd1UTNGMjZOeVNseDZsbTF5eU5qSzVmc1oxTVh2NGtsVEh0MlAxSUFycVQ4Nnd5ZU5EMUpvXzF5UWhQV0trNGZJREoxM2VQN0FiRVVHM3VYYVFLXzl3bm9XVWdEcDJDa1YzUmJVTk1ydFMwVnM1WXpWOVFlYmFhUEZjLXhfUkZrcGFQcTJoYjBNbDk2R3A0aDhiZHZ0V0hEMF9jZVRqQVg0TEJ6c3ZXcExTZHJlZWhJMnpJamd0TFVQTDR2cTVzc3JZOGVSalJwMG15U1kzRDFXcUhEYlc2eUYydzkyU2lQcElQcm1NTTN4WnE4dGZ5UQ?oc=5",
    "source": "defensoria.gob.bo",
@@ -2977,6 +3132,23 @@
    "first_seen": "2026-11-23T07:32:36+00:00",
    "topics": [
     "Alta contención"
+   ],
+   "signals": [],
+   "score": 1,
+   "flag": false
+  },
+  {
+   "title": "🔴🔵 Programa Cero Ocio: ministro de Justicia Ernesto Álvarez visita cárcel de El Salvador para revisar estrategias en penales🔽 - Facebook",
+   "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxNVlppQVBIcW1QUlFocC1EaHVVeWVQekdDQk14b3FvWUQ4VzdSc1JOYnhmYzBmSS1CMkNaeW9MZVFLeC1jZURyR3l5VC1hNVZxYUUtS2xkNTdFdkhjUGVXVlBMZ1k4WDl1OEIzc1kxbVlza09FNGk2MXhQeEJQdEhWdkJFU1RDSGNPVGRqVzk0dUtjMkpXamt4elVTTWZxcHZfVlZVN3pDakxjaHdiWVdGaUx1ZEExcEUxQW05ZnR0RzdpVXFYc1IzelhFSno3QTBpWkRzb1RHTmlGX2JSM2lFWXRoZjB2V3R6Rjh3?oc=5",
+   "source": "Facebook",
+   "summary": "🔴🔵 Programa Cero Ocio: ministro de Justicia Ernesto Álvarez visita cárcel de El Salvador para revisar estrategias en penales🔽 Facebook",
+   "date": "2026-10-30T07:00:00+00:00",
+   "category": "noticias",
+   "query": "Ministerio de Justicia y Paz cárceles Costa Rica",
+   "id": "24e59d612aaf78ed",
+   "first_seen": "2026-11-24T09:51:06+00:00",
+   "topics": [
+    "Visitas"
    ],
    "signals": [],
    "score": 1,
@@ -3876,6 +4048,51 @@
    "query": "Ministerio de Justicia y Paz cárceles Costa Rica",
    "id": "f58553009c4b02c6",
    "first_seen": "2026-11-23T23:51:01+00:00",
+   "topics": [],
+   "signals": [],
+   "score": 0,
+   "flag": false
+  },
+  {
+   "title": "Cárcel de por vida, 48 horas de detención y allanamientos expres: las nuevas medidas contra criminales - ElHeraldo.hn",
+   "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxNejBnLVZ2NkhZbUZqTzZ4dHdJNlNHU2FtZF93dGpyZ3pxSVljSm5yUlhacWdES0dEN1VlUXVZdWhkREh1d3dYaWhTbFFtVnJONGRKbWYyUkYwWVF3d2MzVzFNZndURE5oM1VfbUpfUml3clBiWnExVjJ3ajZxSi1JV2tQQkIyNGpVbUlkVXUySWFJRkNyTmVJQWpGbGpxNnNHSWV0akxOa2xiakJYRkx3SDRFRHQwN3RmLVphSzJQQVhhLW4tSUdiNWpSZ1M3LTBZeDNoQkNPX1lmaTQ?oc=5",
+   "source": "ElHeraldo.hn",
+   "summary": "Cárcel de por vida, 48 horas de detención y allanamientos expres: las nuevas medidas contra criminales ElHeraldo.hn",
+   "date": "2026-10-27T07:00:00+00:00",
+   "category": "asamblea",
+   "query": "reforma Código Procesal Penal prisión preventiva Costa Rica",
+   "id": "777bfdd220b284f2",
+   "first_seen": "2026-11-24T09:51:06+00:00",
+   "topics": [],
+   "signals": [],
+   "score": 0,
+   "flag": false
+  },
+  {
+   "title": "Costa Rica traslada a los primeros 123 presos a su megacárcel inspirada en el CECOT de Bukele - Crónica Viva",
+   "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNckllVUliNi1jME1zd0RBZTJGOXJrLXozT2FQdlA3S1VEd1o3bVJseDluRm5fZExGS05kbl9Qc2pUQWx5TUlPSGhCaV8zZjRTRVVMVmZvUVd1VUlNVWpTTGxrZFFUbEdsUl9hZ1g4YUVlNDhUblVjY1ljbHc4Z3Btb21JeFVzbkZHR0tBTC16b1R4OG45cE9rS2N5eXREcC1ETWdnR3V0aHcyQVJCYnlxd2xhdVIxZm94ZGlCWE5zZGs4ak0?oc=5",
+   "source": "Crónica Viva",
+   "summary": "Costa Rica traslada a los primeros 123 presos a su megacárcel inspirada en el CECOT de Bukele Crónica Viva",
+   "date": "2026-10-27T07:00:00+00:00",
+   "category": "noticias",
+   "query": "Ministerio de Justicia y Paz cárceles Costa Rica",
+   "id": "ba15b08eb93fc131",
+   "first_seen": "2026-11-24T09:51:06+00:00",
+   "topics": [],
+   "signals": [],
+   "score": 0,
+   "flag": false
+  },
+  {
+   "title": "Rapados y con uniformes naranja, así comienza Costa Rica el traslado de presos a su megacárcel - La Vanguardia",
+   "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxPaUtUQ0c3M0t4UkF5SkJhb1o1SmdlTFZtc3FaNkswa3Y4TGRMWEt3QWQzLXQ1TGtsci1JS080aXRYaFk2S2VCNlgwU0JLZWZhZnBQdnJacnlpSE94VGNLSThONU8xZEF6RV9FcHRPQVltQXl2LWFBMGw2RUM3R2gzbEQ0aXc1Rm1IUm5SeF9fX3p0M3pHNDVtUm9ZT3dzaXNSZGVHQVl5RFBwRnFHbi1KUEpZeFY3cDhPUUhtNTVmRnhiNXc3YVBIN2xaLWlXcG5KRC05QmpnZmVWcmo0VzBhOHhMYW5WUdIB6wFBVV95cUxQLVA2WjRYcWwtOVBLazluREdBUk5ubDlfWFVtTlhpeGdpS3RFeVBheVVjemNzLXh2emRlaU03YXVYOXBOYlYxM0lKUWhkS1ZrcnhidFM0RDNUV3Bra3NldGZXdC1pRElGZTBSWXI1MWJmUl9VWWd2NFB2dWNsY0JIdGlSa09Vay1Iamxndy01X1R1bmlwR1lXMFdNT3BSMXJrYU51OTM4bG13NFp3YVBlTDNGQzktbEpDUkUwZ3JqSy1wT1VDTVh2SVpVQ19ON2ZzZjV3MEhpYnRJbzZEY3lNOUNfS0RBNUYwT1Nr?oc=5",
+   "source": "La Vanguardia",
+   "summary": "Rapados y con uniformes naranja, así comienza Costa Rica el traslado de presos a su megacárcel La Vanguardia",
+   "date": "2026-10-27T07:00:00+00:00",
+   "category": "noticias",
+   "query": "Ministerio de Justicia y Paz cárceles Costa Rica",
+   "id": "285bf07565067f1b",
+   "first_seen": "2026-11-24T09:51:06+00:00",
    "topics": [],
    "signals": [],
    "score": 0,
