@@ -1,8 +1,55 @@
 {
- "updated": "2026-11-24T22:24:45+00:00",
- "count": 307,
- "flagged": 11,
+ "updated": "2026-11-25T08:28:26+00:00",
+ "count": 318,
+ "flagged": 12,
  "items": [
+  {
+   "title": "Corte de Concepción rechaza protección para eliminar - veredictum.cl",
+   "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQQm92YVJnUjRqVmUxVnRKemNMdFZVYXh5SWtSRVVmYkp5Y2t5VDFRYURNcW9HQjBtTDN6emJtWjBlRW9BOHRHUm8tNjJoN2hsQTJMaGE3ZHpReEVHcW9rZ1F6Mm96WXBpaDR4TFJERlpFdDdEOFJuUzRrX3c4VVNDWl94LTkxemlEX3VhTElxNF9lWVFxcU5zYXZxOA?oc=5",
+   "source": "veredictum.cl",
+   "summary": "Corte de Concepción rechaza protección para eliminar veredictum.cl",
+   "date": "2026-11-25T08:24:18+00:00",
+   "category": "tribunales",
+   "query": "Juzgado de Ejecución de la Pena ordena",
+   "id": "56cb907be8a34e29",
+   "first_seen": "2026-11-25T08:28:26+00:00",
+   "topics": [],
+   "signals": [
+    "rechaza"
+   ],
+   "score": 2,
+   "flag": false
+  },
+  {
+   "title": "El TC andorrano avala la prisión provisional de dos condenados por tráfico de cocaína ante el riesgo de fuga - La Veu Lliure",
+   "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOV2xMRlltdjZfa2xqRjk3c3I3cXM4TGVQaTR4WE95cXNEb1pPbzh0OFQ3V2gyUTFNcWFha0hUSmJqbUJGankwM0hUeFVKY01VLWZmUHB3MzZOMUZmX205dDRpOFFOcGRGb1pQanBlYW5KMF9DSU8wQjdSdWdrRmtDS3VtNm5fZUdOblBjOW0xZHl0Tk9vR0w4b0FHRFdKTGx1b29nNHRuNA?oc=5",
+   "source": "La Veu Lliure",
+   "summary": "El TC andorrano avala la prisión provisional de dos condenados por tráfico de cocaína ante el riesgo de fuga La Veu Lliure",
+   "date": "2026-11-25T00:12:15+00:00",
+   "category": "tribunales",
+   "query": "Sala Constitucional privados de libertad",
+   "id": "9d62c17f201f8839",
+   "first_seen": "2026-11-25T08:28:26+00:00",
+   "topics": [],
+   "signals": [],
+   "score": 0,
+   "flag": false
+  },
+  {
+   "title": "Asamblea Legislativa de Costa Rica conforma comisión para investigar a defensora de los Habitantes - CRprensa.com",
+   "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPVTJfNzhhRDdueGNyanhmWThIUUwzMjZUOTdsMlBqTWh5VHFiVWdDOEtob0Z2SzltNTBnS0lrTGJaV1FycExqME9KR0EtMjdlMXRSRmxEem96amh0SzZBc2dwUTlpQjRZaXdaMlI0X2tUOGlRelBuZjFIMTQtRE1UQ05Id0pNQU9QYk9jbFB5Z29SckFGenFrVkNpSzFBNUk2NUZoREdNckdEZTg2Y0ZhdXk3aTJPaHl6M1NieThlUUdIbHlJUnBTOFg5MA?oc=5",
+   "source": "CRprensa.com",
+   "summary": "Asamblea Legislativa de Costa Rica conforma comisión para investigar a defensora de los Habitantes CRprensa.com",
+   "date": "2026-11-24T23:44:12+00:00",
+   "category": "defensoria",
+   "query": "Mecanismo Nacional de Prevención de la Tortura informe",
+   "id": "f05174d4a05f2d51",
+   "first_seen": "2026-11-25T08:28:26+00:00",
+   "topics": [],
+   "signals": [],
+   "score": 0,
+   "flag": false
+  },
   {
    "title": "#ÚLTIMAHORA | Alias “El Alcalde” es capturado por la DPI tras arribar al país en un vuelo de retornados procedente de Estados Unidos. El detenido, mantenía una orden de captura pendiente por el delito de asesinato en su grado de ejecución inacabada e - Facebook",
    "url": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxPQUFYd2QyWXhpblpSUmRjMHRNSFpZb3FkNFF1NDJDYWN2eHBMVXNSX1Q1TDRjdHBUQ0J0cUF3R3g5M2NDMFRLV2F4UVFmWTRyOTVUaW5nc1Jmdk4tWE13cGUyM1B5Z2hCWXpKZ3ZwVUdrd2laX3V6ZVNMS0ItQkd5d1hEUDl1eTdpTDVRY2JsQmlxdjZHdVRoMG9zalQ4dEJpZUQzaTFOSFRqeU11R2N5Y2VaX2NXVWZldmlKNmp1UGNSLTFsaDdNMlR5OGY1QUFuZHlVLXVSQmVZNEN1amU5ZWtIN2Nha1hOWnVmLVZqYmRKNld3YUxiMg?oc=5",
@@ -64,6 +111,25 @@
    "signals": [],
    "score": 1,
    "flag": false
+  },
+  {
+   "title": "Rechazan amparo de reo no postulado a libertad condicional - veredictum.cl",
+   "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNcC1LQnItX3RabEZ5dHF3VDNlTlZwNTkyTDcxZDYyenJTM1h2dENMbGsyM1FjLVhNNHZSMlV5MkdRMDgyUTkyamZZNVlDaU5aVmlHQ2Itd0g0NXhFYUxwa1k4ak8xMVVFcEVRaURDNUE3NnBEektYaHNaN1kxamNway1STXdTaDBtTTlMcUZvV2ZPckhOQ2dDaDYxVUpoTUVjTnVRY3N2R2lSVGs?oc=5",
+   "source": "veredictum.cl",
+   "summary": "Rechazan amparo de reo no postulado a libertad condicional veredictum.cl",
+   "date": "2026-11-24T11:08:24+00:00",
+   "category": "tribunales",
+   "query": "Sala Constitucional privados de libertad",
+   "id": "9ca55d4aa9f00acf",
+   "first_seen": "2026-11-25T08:28:26+00:00",
+   "topics": [
+    "Beneficios penitenciarios"
+   ],
+   "signals": [
+    "rechaza"
+   ],
+   "score": 3,
+   "flag": true
   },
   {
    "title": "Trump firma el memorando para acelerar la pena de muerte federal y arremete contra Newsom por conmutar 548 condenas - MONCLOA.COM",
@@ -2359,6 +2425,21 @@
    "flag": false
   },
   {
+   "title": "Comisión de Seguridad de la Asamblea aprueba informe para el segundo debate de la Ley Antimafias - Sucre RTV",
+   "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOU0tuRGZzNGp0MGJLdTFETGJvalU0RW1ZWDRtd2Y0ZS1ScDJsUDh2THJNeVk1VXllaUxORnFJai1ralNDSE5BTzlXMFN3WVhFSlV3bDdCUFpJMjczUnlRLU1nWjNjZGdRMkxKR2Z5bnUwbV9EaDl0WUkzRWdWSVF6QzJEalhUVkd4MnY5Q016OTVsTTRGaGF1NTNNeUx4QkpSX2ZlTFdFYzZBZmZNOGFJS3Rsd3dPVHNyZFZxYS1rR2w?oc=5",
+   "source": "Sucre RTV",
+   "summary": "Comisión de Seguridad de la Asamblea aprueba informe para el segundo debate de la Ley Antimafias Sucre RTV",
+   "date": "2026-11-08T08:00:00+00:00",
+   "category": "asamblea",
+   "query": "Asamblea Legislativa proyecto de ley seguridad crimen organizado",
+   "id": "3ad61deaa70a1418",
+   "first_seen": "2026-11-25T08:28:26+00:00",
+   "topics": [],
+   "signals": [],
+   "score": 0,
+   "flag": false
+  },
+  {
    "title": "Reclamos en Sala IV por condiciones en cárceles se duplicaron entre 2020 y 2025 - CR Hoy",
    "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNTDBZNlVPQUNGLXpHdi1qdG5GZEExOHRjcnA5X0FTNEs0d1JZWGFmU1lQRlFYTkx5QVJoMWZyU0tzRW9uNWZ2dlhacEFQV1dvaV9DN0UybXYwVVY5eElSNHZqbHFIWkpSeWNmRGw0bWk5REdNRW5ETUd3U2xTVmExYXpGN25ZVUNPTTdLS3FLNnJZLUlNck9ROUZOUEhTblJrRVItYThQVDdMODBtbVE?oc=5",
    "source": "CR Hoy",
@@ -2705,6 +2786,23 @@
    "flag": false
   },
   {
+   "title": "Gobernador de California prevé conmutar penas de muerte por cadena perpetua sin libertad condicional - Yahoo",
+   "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQQlBlOTF4bEMxak8tdWhxRmE3el85cjFLcDBqRGFNbU5ZUFpXVUg2ZlU1elI0SlNIRWVZVldtS2MyLVFlNVVGZkwwZGlnSmhyR0FkS1pMb0RsU29mMERtMm1RSWt1eXU3TFZVM24za1VLeFFFMTZFZlByeE9VNlNoeHJyamJhRGRDbkcwV2YxcEFQSUpCODdyMzFvQQ?oc=5",
+   "source": "Yahoo",
+   "summary": "Gobernador de California prevé conmutar penas de muerte por cadena perpetua sin libertad condicional Yahoo",
+   "date": "2026-11-05T08:00:00+00:00",
+   "category": "asamblea",
+   "query": "ley ejecución de la pena Costa Rica",
+   "id": "29da6089ed0c3240",
+   "first_seen": "2026-11-25T08:28:26+00:00",
+   "topics": [
+    "Beneficios penitenciarios"
+   ],
+   "signals": [],
+   "score": 1,
+   "flag": false
+  },
+  {
    "title": "La falta de financiación complica el plan de De la Espriella para construir nuevas cárceles - EL PAÍS",
    "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxNR1ZQWERYdzJIeTQyV0RKa0JlbDZsMjJMeVpSR3h0QzlMSkdzNEtxYTg3c0pnNkdicDBzYnZDV1ZiQVRxLVREUlNGNnJ6WWxXWmlsNFp5dW1UWFp0NWJXT0lxVEVfcmYxMkNSTDYtOWFKNWFpN2E0Nnc4RDlKMmoxSlUwRlpKc0V0bldMSWpJVlh4ZHlnMWMzN0c4Qlk1cDhNRVhLdDdJbFhla0RVSXZhc1pteTJsa3Y1NEdUX0h3X1hxckFPLUNCVFdJZlRuSEx0SHY4b1RsMWpRWFXSAe8BQVVfeXFMUEJmOVRsaTQ4c2c1NG1MdE42QmdzVy1YaTB4VnpGb2J4STJuNUpIdVNVYURWU3g0LXFNM2RVZVhDQ0J0YzVpc0VxRnJBS3NhWE9WYTl1X3ItLTctWXl1QVJXMzFLQ0RmZXIwQTgzekxqQmhwMVBtU2tFUzhkSlRfOGhZRjNwMW9fZzlfMkhjbHVWNFFWa3JHcG5FMFJYa3Y3c0duVGVSSkNIdWs4c3VISG5EVF9DRVl4eTR4RGJuak45dU4wZXFtbW1WYXNUa0Z1RFN0dzR1RUk2Q2dydE5GdjVZdDFDTHBKQUZ3WUdkc2s?oc=5",
    "source": "EL PAÍS",
@@ -2998,6 +3096,21 @@
    "flag": false
   },
   {
+   "title": "Defensoría investiga muerte de un conscripto en Yacuiba - eju.tv",
+   "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQVmxTWVF5NVNlalVyYS1UckZQbjRxNFE5Nm5pVVZuenBBRmo2bzFEcG9sblVHR1NTS2FXOEt4VUR4UkpVWGp6R2c5MkRkU0h5bVhqWW9LVnVPM0N2UHNGWGY2bU4zVzlFNEx3M1EtcUxnYjFaejJldkZ0MUVOQWFBaFliUFhTUQ?oc=5",
+   "source": "eju.tv",
+   "summary": "Defensoría investiga muerte de un conscripto en Yacuiba eju.tv",
+   "date": "2026-11-02T08:00:00+00:00",
+   "category": "defensoria",
+   "query": "Mecanismo Nacional de Prevención de la Tortura informe",
+   "id": "f6aae52b7a1dce97",
+   "first_seen": "2026-11-25T08:28:26+00:00",
+   "topics": [],
+   "signals": [],
+   "score": 0,
+   "flag": false
+  },
+  {
    "title": "Justicia no acatará recomendaciones de la Defensoría sobre privados de libertad",
    "url": "https://www.diarioextra.com/noticia/justicia-no-acatara-recomendaciones-de-la-defensoria-sobre-privados-de-libertad/",
    "source": "Diario Extra",
@@ -3277,6 +3390,21 @@
    "flag": false
   },
   {
+   "title": "Esto informa la fiscalía sobre futuro de la “Asesina del bikini”, sospechosa de asesinato con un vaso de licuadora - La Teja",
+   "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPTmR0OE03dlNBUzFoTUcyTkZlY3pmTkp2X0lncFFPUzh0TGtvYnN3dEt0bUdEMUVseHc0eFA3a25hMGJmX3phb3UtT2NTRGNPN0ZmTlVNZ0J3WEtfYnFhY091dzAwbERtbWR3bDJtOGUyLWZyS2pqMUVLSFJaNkFVRDUydkNXQU54NktlZmlLVzRMTm5jZEpkUmNtM0VkZkxUejNPYXFoeGNiLXc?oc=5",
+   "source": "La Teja",
+   "summary": "Esto informa la fiscalía sobre futuro de la “Asesina del bikini”, sospechosa de asesinato con un vaso de licuadora La Teja",
+   "date": "2026-10-30T07:00:00+00:00",
+   "category": "noticias",
+   "query": "delito ordenado desde la cárcel Costa Rica",
+   "id": "6406fdb8d2a43049",
+   "first_seen": "2026-11-25T08:28:26+00:00",
+   "topics": [],
+   "signals": [],
+   "score": 0,
+   "flag": false
+  },
+  {
    "title": "Mancheno anuncia que el Pleno votará la ley antimafias el 9 de noviembre - El Universo",
    "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQNTJfU2U0VjJLTGNmOGpJTlhhak1OQmcxdnRmZTBoUm5uemRfNjU2Mkk1SnNhZlFRTUJzZ2xXMnhIWGJzVE42c295eGRRYkhuUVZHd281Ymw4SHdxWExqMXhmcE9kektMUXR2aDVETkhMeDd2OE1WMk9DSFlBTUJTTEVrMlA5blpIRTdFTkFZU1lqLTAzVTdBQWpQZnJGN2d6bmRWc2lRejd5bG44cDRZUXZTZmJ0YzlNNldqWWVvaW95Qm5lRnIxZNIB3AFBVV95cUxQanNoWVBQaDRQRVZickZSd3dhcFJBVUQtUzhmbjhwZXc3M1dITEtZcEwtczBVczdLZm5WdHpJUWl2LVYzeVJ6Tmw2QXd1T1VxaFJncWtGbmltZ1ZfdkFucGh6d0dhaUlDaUdhaFdaVTBldTJzNGxzWW10R21KclA1MVI0YkZNUmdtMUVncGRHMGktdVlqVmc0SFQxMXNZajlURTQyd3Rsck5wSWdhVXBlQWR0bmloa2lLa0tOWEx1ay1TUk81SzJqMHZzYUZXZ3ZCblIza1h5ckdYUjNs?oc=5",
    "source": "El Universo",
@@ -3514,6 +3642,23 @@
    "flag": false
   },
   {
+   "title": "Condenan a exalcalde por trámite ilegal para construcción de motel, pero no pondrá ni un pie en prisión - La Teja",
+   "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPSi1XaGpBdXNvemUwcWhGZ0pJeEJKZS1YOWVvY1hkbHZqMEJIQ09DUmdDTmFBc1puMW1NSFdDRVlobkRkZGJ2S21wcUpFbmM0S0lvdXhPajA1OHhxY2hKbmZiWkVHcGxrdk05U2NOT1NpUl9Bdlc2b21yVS1GVzZxbE1mbFpIT1BMNjZGdUFDQTdPVkw0QXJOeDhLT2tZRU9HRDZ1OVBESnRNOWlJ?oc=5",
+   "source": "La Teja",
+   "summary": "Condenan a exalcalde por trámite ilegal para construcción de motel, pero no pondrá ni un pie en prisión La Teja",
+   "date": "2026-10-29T07:00:00+00:00",
+   "category": "asamblea",
+   "query": "ley ejecución de la pena Costa Rica",
+   "id": "971d47217b39e995",
+   "first_seen": "2026-11-25T08:28:26+00:00",
+   "topics": [],
+   "signals": [
+    "ilegal"
+   ],
+   "score": 2,
+   "flag": false
+  },
+  {
    "title": "Fiscalización del caso VaQnas en la Comisión de Transparencia tendrá tres ejes, mientras denunciante prepara una ‘segunda fase’ - El Universo",
    "url": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxQT2RSMlRHclZRTks2TjBCRFBvMUJOTEN2d1lGaF93NVZRYUdYSmVPaHFrVlYyRDZuTWlPUXRPSzkwTm9ld01DNGxic0F1T0VERTdWVHNrOVBxVVc2eHBuT0FWWmFqWEtiTGp5emI0dG1Zd19NWWRBcWgtVHcwWTYwQWhIelpjSmZKa1hkOGU2dmZvZGlVeXhzU0VQNHhGMVlncGs2aWp5WXZYckdEaF82U3FLWU9SSjVtN0d4U3JwT19WT25HWVp4bWFxdi1rYmg5QkI2NDQ2N0FQdzZUcmRyRTJGcGZTZ0RTa0RoS0VDc1NSZ9IBhgJBVV95cUxPcndIeFhhUzRXcVlST3dkM1VxY1AzV1k5UnhpWDk5Q0phRl9MZUU5ajl6UGQ1OTA4ckU2QXNBRlg1VVRMRkdpMFlEaFgzZFZrS0RTWEF0V0d2SFQ5T2VmallKMldMa3ZLNnRUVzlmSkRBWHpqeFBNN1YzYVNsZmxUSVVJSFVQVVhFQVpjSi1fdGJCaEFOYkVKSzJ6cTJTaFAtcXJKU0pLcWM5YnI5cnZvVE5IcnhlMzNvX21KT2tja0NiWmE0OHdKWmVNSlppZ2RKblBMVThnZFU1UmlHU2RwUEVSMEZmX3pLbDQ1a1owZjJIYnd2NVhfbEJTSHQxWXhkYTNLN0x3?oc=5",
    "source": "El Universo",
@@ -3728,6 +3873,21 @@
    "query": "reforma Código Procesal Penal prisión preventiva Costa Rica",
    "id": "c77094c1c593f6bc",
    "first_seen": "2026-11-23T23:51:01+00:00",
+   "topics": [],
+   "signals": [],
+   "score": 0,
+   "flag": false
+  },
+  {
+   "title": "Bienes vinculados al expresidente Antonio Saca seguirán bajo custodia del Estado, reitera Fiscalía - elsalvador.com",
+   "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOWVJWX29ScWF3YXlBbHBfbFptRzhEMzZidl92WTlBZmY4WVJkamJpSjB0RlRnWVZaY0JBbVRuMTFFV014WTFQLURmNUctODVSYXB5OFRQN3JsdnlncFRnbzlocnZ3LVhlVE1uNHhlS1pPZFFLdVhtRHAtSWhFY3NtckttQlhuVVp1MDRuLVAyV2s?oc=5",
+   "source": "elsalvador.com",
+   "summary": "Bienes vinculados al expresidente Antonio Saca seguirán bajo custodia del Estado, reitera Fiscalía elsalvador.com",
+   "date": "2026-10-28T07:00:00+00:00",
+   "category": "tribunales",
+   "query": "Juzgado de Ejecución de la Pena ordena",
+   "id": "7dd98e97fa2d6fff",
+   "first_seen": "2026-11-25T08:28:26+00:00",
    "topics": [],
    "signals": [],
    "score": 0,
@@ -4218,6 +4378,23 @@
    "topics": [],
    "signals": [],
    "score": 0,
+   "flag": false
+  },
+  {
+   "title": "Reos de mayor peligrosidad no irán al Cacco pese a ser una cárcel de alta contención - La Nación Costa Rica",
+   "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPRzNiYjFWaFVlVFlscHFBdjRMUGdUdkN3WEZlRDhZWmhMUEFhM1NNenpYZXFTTlhGd3RyemlDYl93T2tJNDF2LXJJeVlTdzlDck9FRTloNXBTQkNmUWFkekVxOFByQmcwcEFFYXJqOFBOOG5fd21UNnVqWFJkRFN3T0l1bGNZZGtkazBLUnVmV0o3cEtzQ1ZfTk5oRWZHNDVYZHpKWV9pVHpyOHBMYTZDNjVSYU9wZw?oc=5",
+   "source": "La Nación Costa Rica",
+   "summary": "Reos de mayor peligrosidad no irán al Cacco pese a ser una cárcel de alta contención La Nación Costa Rica",
+   "date": "2026-10-27T07:00:00+00:00",
+   "category": "defensoria",
+   "query": "CACCO Centro de Alta Contención",
+   "id": "47ff12644d243579",
+   "first_seen": "2026-11-25T08:28:26+00:00",
+   "topics": [
+    "Alta contención"
+   ],
+   "signals": [],
+   "score": 1,
    "flag": false
   },
   {
