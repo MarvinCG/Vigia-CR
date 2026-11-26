@@ -1,8 +1,38 @@
 {
- "updated": "2026-11-26T08:12:50+00:00",
- "count": 353,
+ "updated": "2026-11-26T21:28:42+00:00",
+ "count": 370,
  "flagged": 13,
  "items": [
+  {
+   "title": "Ministro de Justicia reclama a jueza por permitir que tres hijos de “Pecho de Rata” asistan al funeral de su hermano - Delfino.cr",
+   "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQZ3J6djdHQXN6Z3dHcTZkbUxpWGpDRk44VDVod3Vrc3ZXNjVYOWdHVDhKLXFNRmx0RGNVdXJ6bDJHRVFwOElHODhsUmVqUElxQU0zZnp6TWtrMXlhZ0xudHlIMWJsTm9OOTB2Z1Q1LVhsUnlYdXpHQUoxNm4wcjI5M3lSWlY0RkZMaGd0aGlaRlhUVFlvcm5LWXhoWlpCTmZvMGI1TENBQUluTW9aSXktcV84ZDlDNWZwc2NFaHY5R0xJRm1xU2NuWEtPbnJQSE9LLXpNUUJtZE0?oc=5",
+   "source": "Delfino.cr",
+   "summary": "Ministro de Justicia reclama a jueza por permitir que tres hijos de “Pecho de Rata” asistan al funeral de su hermano Delfino.cr",
+   "date": "2026-11-26T21:13:40+00:00",
+   "category": "noticias",
+   "query": "Ministerio de Justicia y Paz cárceles Costa Rica",
+   "id": "d9af72d45dd48c0a",
+   "first_seen": "2026-11-26T21:28:42+00:00",
+   "topics": [],
+   "signals": [],
+   "score": 0,
+   "flag": false
+  },
+  {
+   "title": "Exigen «revisión constitucional» a la sentencia de militares vinculados al Caso Cotiza tras haber cumplido su condena - Howl.Link",
+   "url": "https://news.google.com/rss/articles/CBMiO0FVX3lxTE1COTlzYlBrU0cxelhhRkVTNVAteVhXamYzM2p5Y3V5ck1UWmI1dllLcUpXVmk1V0VfZGI0?oc=5",
+   "source": "Howl.Link",
+   "summary": "Exigen «revisión constitucional» a la sentencia de militares vinculados al Caso Cotiza tras haber cumplido su condena Howl.Link",
+   "date": "2026-11-26T20:36:41+00:00",
+   "category": "tribunales",
+   "query": "Sala Constitucional privados de libertad",
+   "id": "e30f9dea2414c36b",
+   "first_seen": "2026-11-26T21:28:42+00:00",
+   "topics": [],
+   "signals": [],
+   "score": 0,
+   "flag": false
+  },
   {
    "title": "Exdiputado Cuevas se entrega para cumplir condena de cinco años por enriquecimiento ilícito - La Nación",
    "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPV250V1V4cmhBVkFOSWtzenFMRUNYUnlXZGhHa1Y3bXJpQ09pTXFrcEZuZjQ1UWVWYU41b2xFVGpoOEJDenllbnJJbnZyNDNWcGp4RFZMUmo2ZFhFak5ZSERBV2g0OU5maVlweUNLUW9IX055RXZScmV3ZXNoRTJMTktoOWVEQ0hNVUlKSmF6cGpQcWRFc3BnQjhqZnJNdHhsaVhhcldqbEpDNnJvM2RuZFlEc2x3ZnZvZHFDdHdnSHlyNnpFWDdleGNWWGVBTVY0WFZac0FZLWctUQ?oc=5",
@@ -49,6 +79,23 @@
    "flag": false
   },
   {
+   "title": "Tribunal deja sin efecto captura del exalcalde Danilo Duque - Diario del Cesar",
+   "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQdlNSWVVnQklHa2ZGTldEaXRXN1FHblJOR3FIbUI0OUtSckpnY0hlVlJiUHVMTlhHT2ZzQk0wVEo0VklaODVJeFV3bTZyVldyQTY1dkdWSXlIR1VldUhJdkFBMHlZcmt3WVdXZG1XTERBczg1SmQtS0RiS0ExSWdtOXhVV0toamJRblhHY3BXRzFoRnJBQmJxMGFjZVB2cmRVTVhtcklRRmJJSlE?oc=5",
+   "source": "Diario del Cesar",
+   "summary": "Tribunal deja sin efecto captura del exalcalde Danilo Duque Diario del Cesar",
+   "date": "2026-11-25T20:18:16+00:00",
+   "category": "tribunales",
+   "query": "Juzgado de Ejecución de la Pena ordena",
+   "id": "52ec8482e739ef2a",
+   "first_seen": "2026-11-26T21:28:42+00:00",
+   "topics": [],
+   "signals": [
+    "deja sin efecto"
+   ],
+   "score": 2,
+   "flag": false
+  },
+  {
    "title": "Juez ordena prisión preventiva de Francisco Peña en la Agrupación Especializada - La Nación",
    "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOdXhtcTd3X3htRVpuMlpEaXRVYTRYV3daTUJTYmlCeHdnVEtaUEZ3MVlCQzJZaXpPbG1DWXFFZUhrdWh0UFkzUDBjVVFsTkgtNEprdnhxVXlyZjZvNWZoeEZWb2ZsdUlNS2FncFBUc05pbjFmVlprTE5CczFWSG9naV9TUmF2WXE3WnVJSnZ6LUI5MF9XTVJBSmw4VjdQa1FjaFllYVAtVnhDdDdBSXNlMGJITlVKS0tadHVxdnIyTmJ0RmdSOUlmdjln?oc=5",
    "source": "La Nación",
@@ -63,6 +110,40 @@
    ],
    "signals": [],
    "score": 1,
+   "flag": false
+  },
+  {
+   "title": "¿Logrará el Cacco reducir la inseguridad? Así opinan los costarricenses, según CIEP - La Nación Costa Rica",
+   "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQV0RYTmVEUThvM2tWRGc5Z0pWOGNaQVNzVlVDU1FqYUpCWC0tcDRQal8zSWxpZE5wMTR1N21GQlZTX1gydkNXRlpVSVBUSlRLRVJOcVlva1NUbDl5dUFGUDZyRkt5Y1NUVGhsR3puQUVDeXM5TWlfbE96UWlTWkxON203dVJRZUR4UGhjbFBjMnNyY2lGTHNwMHpwdDhjdWc2Vk9tY3V1c1pFMWlJNkhQOG9hdmVUQQ?oc=5",
+   "source": "La Nación Costa Rica",
+   "summary": "¿Logrará el Cacco reducir la inseguridad? Así opinan los costarricenses, según CIEP La Nación Costa Rica",
+   "date": "2026-11-25T14:41:29+00:00",
+   "category": "defensoria",
+   "query": "CACCO Centro de Alta Contención",
+   "id": "5fe27fb557a6d63d",
+   "first_seen": "2026-11-26T21:28:42+00:00",
+   "topics": [
+    "Alta contención"
+   ],
+   "signals": [],
+   "score": 1,
+   "flag": false
+  },
+  {
+   "title": "Corte Suprema de Florida rechaza apelaciones finales de condenado a muerte por asesinato de policía - CRprensa.com",
+   "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOYTBiLVhNNG9FeC1BOGVfWE9Kam1mN0RCc0NkRk9MQVJzOXV0SFlJU0dvcUs4TjlQallTYzFMWWR4MkdPZGhYRldyLU1NQXROYWNxc21ab1dtQWlTM3RaZmZhMDNVY0d3UEdvbm93SloyNl9FTUppbnJaaG1TeU1nQVdMeW9qM3RzWU5rU0YwVWxFSldzYmt6YlBPc3hfczAzZVZVbFZrOE9hTG1sVDRWX180SE52UGFYU3hfdWxCUS00ZXhqa3dTWkVDeTM?oc=5",
+   "source": "CRprensa.com",
+   "summary": "Corte Suprema de Florida rechaza apelaciones finales de condenado a muerte por asesinato de policía CRprensa.com",
+   "date": "2026-11-25T11:34:34+00:00",
+   "category": "tribunales",
+   "query": "Juzgado de Ejecución de la Pena ordena",
+   "id": "a6c9131899f2fc09",
+   "first_seen": "2026-11-26T21:28:42+00:00",
+   "topics": [],
+   "signals": [
+    "rechaza"
+   ],
+   "score": 2,
    "flag": false
   },
   {
@@ -210,6 +291,23 @@
    "flag": false
   },
   {
+   "title": "Poder Judicial ordena internar a alias ‘Jolín’ en penal de máxima seguridad del Callao por acdena perpetua - https://hbanoticias.pe/",
+   "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQekd2MWRPRE5YMGhKWTVsNE5fMV9lSFdWX3JrOUJpYUM1RWYyYUtmZzBLZjJRby1aU29sYXFxZlgxOEY2X2M4TVhFaFJtQ0g4bXVYSjRmYkoxVmlwNXZ0Yll2cXZGM0YwMmlEY19oY3FqM0kzRFljQy0yTGVHOUpoQ3JfZUdCdlU4ZUN4cFBHd1k2UGlDY3N6UE80RmtoT21nT3JoU1JpWktHN0MyVW14R0JYM1ctMXYycE9Tek9senc0QWRWdHhj?oc=5",
+   "source": "https://hbanoticias.pe/",
+   "summary": "Poder Judicial ordena internar a alias ‘Jolín’ en penal de máxima seguridad del Callao por acdena perpetua https://hbanoticias.pe/",
+   "date": "2026-11-24T22:00:49+00:00",
+   "category": "tribunales",
+   "query": "Juzgado de Ejecución de la Pena ordena",
+   "id": "f0996f772086e16a",
+   "first_seen": "2026-11-26T21:28:42+00:00",
+   "topics": [
+    "Alta contención"
+   ],
+   "signals": [],
+   "score": 1,
+   "flag": false
+  },
+  {
    "title": "#ÚLTIMAHORA | Alias “El Alcalde” es capturado por la DPI tras arribar al país en un vuelo de retornados procedente de Estados Unidos. El detenido, mantenía una orden de captura pendiente por el delito de asesinato en su grado de ejecución inacabada e - Facebook",
    "url": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxPQUFYd2QyWXhpblpSUmRjMHRNSFpZb3FkNFF1NDJDYWN2eHBMVXNSX1Q1TDRjdHBUQ0J0cUF3R3g5M2NDMFRLV2F4UVFmWTRyOTVUaW5nc1Jmdk4tWE13cGUyM1B5Z2hCWXpKZ3ZwVUdrd2laX3V6ZVNMS0ItQkd5d1hEUDl1eTdpTDVRY2JsQmlxdjZHdVRoMG9zalQ4dEJpZUQzaTFOSFRqeU11R2N5Y2VaX2NXVWZldmlKNmp1UGNSLTFsaDdNMlR5OGY1QUFuZHlVLXVSQmVZNEN1amU5ZWtIN2Nha1hOWnVmLVZqYmRKNld3YUxiMg?oc=5",
    "source": "Facebook",
@@ -219,6 +317,21 @@
    "query": "Juzgado de Ejecución de la Pena ordena",
    "id": "de64a70b3be00ae8",
    "first_seen": "2026-11-24T22:24:45+00:00",
+   "topics": [],
+   "signals": [],
+   "score": 0,
+   "flag": false
+  },
+  {
+   "title": "Venezuela: CIDH llama a garantizar independencia y transparencia en la selección de magistraturas del Tribunal Supremo de Justicia - Foro Penal",
+   "url": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxOYVNLczhlSTJPRGxrNEJ3aVlGZEtBU1VfcEpzMjdoeVRMbDNWVVl3R1l1aXpQVC1ULWowZTFsT3hNcWtheHltdnJoMXpReXBNb3ZvYm1oMGxhVGlqYnhlNjlPLXB1NFY4d19tQVRrOVY5ZDVfM0tDRllreUM2QVlMTEZ2R3p6OTBKdWJoQmJyVm01c1FLMUswdWhOeE1rMW0tVUhtMmRkWnhVa3dVZlF2NnVQTzFwb2VvTVlzbE12V29YTjFqTlpyZVhrcktDakZXUVVDaXlLSkJJUGFtRm52ZGRRZklfbWlBQ05QdG1uY1BlUQ?oc=5",
+   "source": "Foro Penal",
+   "summary": "Venezuela: CIDH llama a garantizar independencia y transparencia en la selección de magistraturas del Tribunal Supremo de Justicia Foro Penal",
+   "date": "2026-11-24T19:15:00+00:00",
+   "category": "tribunales",
+   "query": "Sala Constitucional privados de libertad",
+   "id": "88f89bfcd7e82893",
+   "first_seen": "2026-11-26T21:28:42+00:00",
    "topics": [],
    "signals": [],
    "score": 0,
@@ -347,6 +460,21 @@
    "query": "ley ejecución de la pena Costa Rica",
    "id": "302a6c9f4877a21d",
    "first_seen": "2026-11-26T08:12:50+00:00",
+   "topics": [],
+   "signals": [],
+   "score": 0,
+   "flag": false
+  },
+  {
+   "title": "Jugador de primera división es condenado a dos años de prisión por conducción peligrosa - La Prensa Gráfica",
+   "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxPS3JkWDJWR0hFa2NReXZVdU44alNaSG0xNE1KczVJcjhDQlJpcURSTEJaMy1td0FpbG1sS1BnbklORE5ac0FjMWVRUVNoaHdIU2ZZTlpqaDBVNTM5RHNUTU9kTTdDczhVdnNCYlVYLVJJQnhqaVM1VFZnUnV4QjVoY3ZnRnlnbmZ2S1hoZnIzWGs0NlU5X1hIcU90dXU0WjdaeWd0VGtfTW1sNFJUUVRwSjJrMm1DWFVjS2JkYnZock5WNDVMUEMxY0N1OVJBQndlNTd5V0FSSHlaNzJ1RklFaVZwcw?oc=5",
+   "source": "La Prensa Gráfica",
+   "summary": "Jugador de primera división es condenado a dos años de prisión por conducción peligrosa La Prensa Gráfica",
+   "date": "2026-11-23T18:15:00+00:00",
+   "category": "tribunales",
+   "query": "Juzgado de Ejecución de la Pena ordena",
+   "id": "3dda0454182797cb",
+   "first_seen": "2026-11-26T21:28:42+00:00",
    "topics": [],
    "signals": [],
    "score": 0,
@@ -582,6 +710,40 @@
    "flag": false
   },
   {
+   "title": "Justicia justifica ausencia de cocina en diseño inicial del Cacco: contempló solo obras “estrictamente indispensables para la puesta en funcionamiento” - AmeliaRueda.com",
+   "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNaGViYy1QU3Mway1OQVFBWjZSSVN2YlRyeDF0WnhQOFdZUXlwMlNwbHI2aWJTMFVRS3NJR2RYUUVTZERHZWQzT3BjcGhwdll6X2c2RXZaTmZvUlhuUTdxZ09LbVRxYV8tLTBDZjI5QUoxN0hSVE5iLUhHRjNoNFE1cXJEdkluNEVaRXVHcGU4UHRkTDB2YzB0UGhkMWVyWEFfb0xydldYaGYyT3c?oc=5",
+   "source": "AmeliaRueda.com",
+   "summary": "Justicia justifica ausencia de cocina en diseño inicial del Cacco: contempló solo obras “estrictamente indispensables para la puesta en funcionamiento” AmeliaRueda.com",
+   "date": "2026-11-20T17:51:09+00:00",
+   "category": "defensoria",
+   "query": "CACCO Centro de Alta Contención",
+   "id": "86e58a087b96e0d6",
+   "first_seen": "2026-11-26T21:28:42+00:00",
+   "topics": [
+    "Alta contención"
+   ],
+   "signals": [],
+   "score": 1,
+   "flag": false
+  },
+  {
+   "title": "Justicia anuncia primera salida del CACCO por indisciplina - Teletica",
+   "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxObmVqYUlHOHpmT3dteTdzQTU1NDkxT1BISEhzbWIwWlJXRFNhREpPVGV1UHh5RFdDRklWLU1PVGVkdjlrU0s2ek4yRDk3bkZxdTFWT09nYzA3REphN1FaaWtBMVJueDE1QkJkdEJtbVM0N1pWVlI5YWo4S29uZ2JLekJxZ25oNW1XamstUG5xYWFqYW95V2RhdE5xOHNfSTBX?oc=5",
+   "source": "Teletica",
+   "summary": "Justicia anuncia primera salida del CACCO por indisciplina Teletica",
+   "date": "2026-11-20T17:45:57+00:00",
+   "category": "defensoria",
+   "query": "CACCO Centro de Alta Contención",
+   "id": "c1e33dce0894de01",
+   "first_seen": "2026-11-26T21:28:42+00:00",
+   "topics": [
+    "Alta contención"
+   ],
+   "signals": [],
+   "score": 1,
+   "flag": false
+  },
+  {
    "title": "Los gritos de un reo durante su ejecución en Texas reavivan el debate sobre la pena de muerte en EE.UU. - BBC",
    "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9hR2V0aWNpajBBR3NaU0U0Y3VBbW0za0FWd2hfNUJ1b3BSMm1OQkhJOGRUSnNDNUN3ZWdvYzFteUp5dVplNlIwcU80TWp4ajlhRGNHdlJOZzd5eG1W0gFiQVVfeXFMTUFvWWdJWU1kOXNRMFlmaXdvXzdfTklJaXVaWFZrVnJCalVHV2N1YVAwZGxHcDdNamU0dF80aGRIbnFWZUwxb1o4MEZweGs1MmJUMUZFdmRISzdWdlVNT090eXc?oc=5",
    "source": "BBC",
@@ -718,6 +880,23 @@
    ],
    "signals": [],
    "score": 2,
+   "flag": false
+  },
+  {
+   "title": "Araya Vlogs afirma que recibió ‘comentarios amenazantes’ tras grabar video en el Cacco - La Nación Costa Rica",
+   "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOWllnUFlFQW9hU2FFNGhwcXh2SXlGbDF1azc4Ykd3ZWt1V05IaFFoQUJJal9TSXVlcUNTekwzQ3FBYmJBejVBMVBaR0w2LWpyTDhyM0tJcXlxQ0R5ZXdfVHlkRkZSZUVQMVBWZmxfQXFud1VKZ013RkpCckZFYllZVDhNZTQzYS1DNkR0cWw1VVpfUlFBMk1QajRERER0QmdSeUlmUjlLUQ?oc=5",
+   "source": "La Nación Costa Rica",
+   "summary": "Araya Vlogs afirma que recibió ‘comentarios amenazantes’ tras grabar video en el Cacco La Nación Costa Rica",
+   "date": "2026-11-20T02:10:41+00:00",
+   "category": "defensoria",
+   "query": "CACCO Centro de Alta Contención",
+   "id": "1dd2a87827628d49",
+   "first_seen": "2026-11-26T21:28:42+00:00",
+   "topics": [
+    "Alta contención"
+   ],
+   "signals": [],
+   "score": 1,
    "flag": false
   },
   {
@@ -1275,6 +1454,23 @@
    "flag": false
   },
   {
+   "title": "Agresión en el CACCO deja un privado de libertad en condición grave - Teletica",
+   "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOR0hhWDJXNTZ6YkFrWDVwN3M2aHJRNHpZSElNa2tnZm5JZzhCdFJLYU0wTi1MNFgwamlQSEFsSHg3SUZYX3VfT2JLZEg3VFR3YjRPX0t3V1NyYm1NUk5tdDI4ZDlSSHNVVUhpZjNQLTZyQWFiR3UzZTV3RnBzWmpzdzJ6MmEyeDRuMXlRdEpXajN3MlZWc1Q4YWNkNW1wNlVBeHRFNWd5aHVHRDg?oc=5",
+   "source": "Teletica",
+   "summary": "Agresión en el CACCO deja un privado de libertad en condición grave Teletica",
+   "date": "2026-11-17T08:00:00+00:00",
+   "category": "defensoria",
+   "query": "CACCO Centro de Alta Contención",
+   "id": "6fbb99bd76eb8686",
+   "first_seen": "2026-11-26T21:28:42+00:00",
+   "topics": [
+    "Alta contención"
+   ],
+   "signals": [],
+   "score": 1,
+   "flag": false
+  },
+  {
    "title": "OIJ ingresa a casa del periodista Camilo Rodríguez - Teletica",
    "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQOVpFUGZjdUJMYnhMVXRhQ2pHSk1oZDl6V2otZjlKX21NeUpReTlCcWJuUjVuV2hQcHFicmNKX1dsMlRveGQyeVpJcjRmelgwcWhYMmhSZ1Nja0tXOFVidW4zMEpyUER0c1k2NmNsSTRDZHJkdFZUTUVFLUltYnZjZXBGWEM4bTZESUttcHIzQkozdFdP?oc=5",
    "source": "Teletica",
@@ -1488,6 +1684,21 @@
    "query": "Juzgado de Ejecución de la Pena ordena",
    "id": "20ecb47d10bef5d9",
    "first_seen": "2026-11-26T08:12:50+00:00",
+   "topics": [],
+   "signals": [],
+   "score": 0,
+   "flag": false
+  },
+  {
+   "title": "Juez de Paraguay ordena el traslado del expresidente Santiago Peña a prisión militar de Viñas Cue - Yahoo",
+   "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNSmNhN2xqTmRWanNocHJCVUZVc3VCd0Z2N0xGRk9wRjFiWXAtOG5hRTFJTEt4azFCbkhJWm5RcmJsS2luZ2phUmNfWEVFTDVpTm4tVzFFWFo3dW9KcmZVcmE2YVNVQ1pqRHZHR3ZzZUJoXzNFRk9uUmFKaE4zS0x0NzVzNG9vOU9meUxMM3NRUmpCTERV?oc=5",
+   "source": "Yahoo",
+   "summary": "Juez de Paraguay ordena el traslado del expresidente Santiago Peña a prisión militar de Viñas Cue Yahoo",
+   "date": "2026-11-16T08:00:00+00:00",
+   "category": "tribunales",
+   "query": "Juzgado de Ejecución de la Pena ordena",
+   "id": "5b45f92bbc1c8de6",
+   "first_seen": "2026-11-26T21:28:42+00:00",
    "topics": [],
    "signals": [],
    "score": 0,
@@ -2468,6 +2679,40 @@
    "flag": false
   },
   {
+   "title": "Justicia valoró cocina para el Cacco como innecesaria y luego la tramitó de urgencia - CR Hoy",
+   "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxORWJJQ0Y5Mm9DV0RtckhoQlRCUmxpZlBCbzIyQm5jV3RZYlBta0wxSXktRVJlbnNKVTlCVnRicTM2dlp0eEFMd0l4MWhpdldLb1k0eW50UHZCSjh6WjgybzhJOUpjOUJYM1R6RkdWMVRrakczQ3pWVzJOTnduMmo2OWNOUGFPRXIwNU91QW1KVU1BMGZZV09VUjd3OUdTUW9HOFRGd0RXWV9pNzFJc1RRTExkdlQ?oc=5",
+   "source": "CR Hoy",
+   "summary": "Justicia valoró cocina para el Cacco como innecesaria y luego la tramitó de urgencia CR Hoy",
+   "date": "2026-11-10T08:00:00+00:00",
+   "category": "defensoria",
+   "query": "CACCO Centro de Alta Contención",
+   "id": "2eb5d2509490d9e4",
+   "first_seen": "2026-11-26T21:28:42+00:00",
+   "topics": [
+    "Alta contención"
+   ],
+   "signals": [],
+   "score": 1,
+   "flag": false
+  },
+  {
+   "title": "Justicia deja en firme contrato “de urgencia” para construir cocina en el Cacco: costará $10 millones y se dirigió a una sola empresa - AmeliaRueda.com",
+   "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQbU9lMTJQTUFsWTR1cGNDc3RTdVJ1YWpTYnQ2d1dycDNybW5GRjhMenVPVlVNOG5mT29saEtTMGxtUVZ3Rm9rclVFSG1jVUpmTl9tZXI5bk5xWEtRcFdXQUZ5V29KOEhOcjdtSmNmNkRDSkVWRE9YS0dNTmFTV3pJOU9MOHRRUVF1d0RkTVhXTHJNeUp4b0M1U29aeDBlVGJhRV9PeENvSi1mc2ViZTkwTnVubTg1anhXc2VNTlptN3JVMF94RGlfNmZndEtLMEtaTWpQNQ?oc=5",
+   "source": "AmeliaRueda.com",
+   "summary": "Justicia deja en firme contrato “de urgencia” para construir cocina en el Cacco: costará $10 millones y se dirigió a una sola empresa AmeliaRueda.com",
+   "date": "2026-11-10T08:00:00+00:00",
+   "category": "defensoria",
+   "query": "CACCO Centro de Alta Contención",
+   "id": "049c308db2b2b4e3",
+   "first_seen": "2026-11-26T21:28:42+00:00",
+   "topics": [
+    "Alta contención"
+   ],
+   "signals": [],
+   "score": 1,
+   "flag": false
+  },
+  {
    "title": "Se presentó en la Facultad de Psicología la sección de salud mental del Informe CPM - Indymedia Argentina",
    "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOdEhlRnN1cTV0aUtoYkJwMUJXdV9JaU44QXBSN2tPeWpRWDJtMnRsV2JVQV94ZzhpUFV5dzFuQmJyWFh5WFlaYWhXOUtETUhhNmswWVJVb0wtLUt0cWZ6TVlUSENaQ3IzS3E1Z3V6THBXOGRjdUlVelpIOEU3MzZZQ2E3eHNlVlZsemxoczBXYldDZFBZemF1X3JOVnVMcTU3eTU0elRveVhHQzFiaG1ndl9IRUNVMDNiWGpKSGc1MnZqUWs3MFE?oc=5",
    "source": "Indymedia Argentina",
@@ -2939,6 +3184,21 @@
    "query": "ley ejecución de la pena Costa Rica",
    "id": "b5d86204ed89441b",
    "first_seen": "2026-11-23T23:51:01+00:00",
+   "topics": [],
+   "signals": [],
+   "score": 0,
+   "flag": false
+  },
+  {
+   "title": "Justicia anuncia que ampliará uso de armas no letales en las cárceles - Teletica",
+   "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOUmQ3cF9OYTNLYmFQeGdhMU0yQVlaWUlnVGtJUlJrTy1CcWNMN1hnazhmUWFBYklPYUZ4ajU3UFdXMjRYNFV3Q1Zwb2lRc2R5WmJfVXE2V0ZQSGlYa2U4ZGxBOWt2cVd2ZVZDZWk1R29fc1FkZGhsZGhyaGJkaUxZd2hwekZ6UTNPZUZqRUJGeUxTNE56RG1JWWdlalBpUkkyRnV2ZXo3RWNWOThBZk9j?oc=5",
+   "source": "Teletica",
+   "summary": "Justicia anuncia que ampliará uso de armas no letales en las cárceles Teletica",
+   "date": "2026-11-06T08:00:00+00:00",
+   "category": "noticias",
+   "query": "Ministerio de Justicia y Paz cárceles Costa Rica",
+   "id": "dc22811c35f37ec1",
+   "first_seen": "2026-11-26T21:28:42+00:00",
    "topics": [],
    "signals": [],
    "score": 0,
@@ -3445,6 +3705,21 @@
    ],
    "signals": [],
    "score": 1,
+   "flag": false
+  },
+  {
+   "title": "Orden de detención europea: la supuesta desproporción entre la pena impuesta y la gravedad del delito no basta, por sí sola, para justificar la denegación de la ejecución - Law & Trends",
+   "url": "https://news.google.com/rss/articles/CBMiigJBVV95cUxOSWhXVVRQeHVSWGhqMGtnRDZ6WkV5QW5hQWJ6U1l2dXFNSi1ubWgzY1VVWlpPdnMzUUstTUdRMnN4Y3pwQjRiaGdsT3d6TU9EN2t1ODRkM1k5bG5KeEFteVRUaTk1SGdfWGxpUXdMYnZtMFY3b29FY2JnU0VYRTVWVjg3cUJ1SUYwOXZONVpkRmxhSWVnd1YxaC1ZdFhVZFdVWDFxcmkxdGdUWFl3cjMwVTkxV1hPcXl6M0prUzROb182QkZqYkVSRzkwWVdnQXNaRWNLeng2WndrYXZPcjhXYmxsQmk3LWhDUE5tbVFwVkVxTHVOSFZ5ZmRoWXc1MEdleXBsVlJ0eDQ1dw?oc=5",
+   "source": "Law & Trends",
+   "summary": "Orden de detención europea: la supuesta desproporción entre la pena impuesta y la gravedad del delito no basta, por sí sola, para justificar la denegación de la ejecución Law & Trends",
+   "date": "2026-11-03T08:00:00+00:00",
+   "category": "tribunales",
+   "query": "Juzgado de Ejecución de la Pena ordena",
+   "id": "56defcec4b52d7b4",
+   "first_seen": "2026-11-26T21:28:42+00:00",
+   "topics": [],
+   "signals": [],
+   "score": 0,
    "flag": false
   },
   {
