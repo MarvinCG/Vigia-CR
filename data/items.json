@@ -1,7 +1,7 @@
 {
- "updated": "2026-11-27T08:24:30+00:00",
- "count": 385,
- "flagged": 13,
+ "updated": "2026-11-27T21:14:11+00:00",
+ "count": 400,
+ "flagged": 14,
  "items": [
   {
    "title": "País apunta a superar los 800 homicidios por cuarto año consecutivo - CR Hoy",
@@ -45,6 +45,21 @@
    "query": "ley ejecución de la pena Costa Rica",
    "id": "092a0395191af1fe",
    "first_seen": "2026-11-27T08:24:30+00:00",
+   "topics": [],
+   "signals": [],
+   "score": 0,
+   "flag": false
+  },
+  {
+   "title": "Ordenan la ubicación y captura de Rosa Vásquez, gobernadora regional de Lima, para que cumpla condena de nueve años de prisión - Infobae",
+   "url": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxNSG9kVkdzTng1SEZYTE5ydXRVU0FOdk9KMFVueUpkRllLdU16TTU5VUVFcmhONXdvcXJYVmJ0b3ZXejBjdkJYRGU0RndGZmNIaXBFNDBzSHJZV1U5UEU3ZW1FS1lBUjhvTXhUVDY4NEJrN2lWT2tFUWdkOFZMV29VQmtLdjJ3RllGbXJyX3BKOG9xa0FFRWYxN2c0b2hPb1M1Sk4xcGZ1bktVeTdTcVJzMFJGRDJlX1B1RjhSTHo3WEJnS1JZVjB6UzBxSWEyVFJuWFlTRldWY3d6d2xUQzNDd3V6YVFxMDkwcDIxYTJHMVE5cHlodUVtetIBkwJBVV95cUxNenUzcUdRSVdfRjNoRUdqWHdVaFkwenBDbHRraFJXdEVfVVhGYnlWU2pWZVo2a0tULXB0V3VqN0twUF8xUVAzOG43bTNfOXd2RjhOYXZSeVVLU0VGTFRfaGNfc0FDX19TTmpJV21SY3BXUHNwdHVQSzBjOWhIM1lzdU1Jd0s0Q0VZeXQxR3c3X2JoR19seWpzZUtZd3FXWDl5cHlkLWNyVmlCTDRjM1MwVXpOaTNZbWxUcjFkd01QVWlKM0xBbnphLUhsaFREamZHdld4UGZtQjJuUWZUQ0o5TmtURkJDc1lhT3F3UEVkbVU5cFV3MGxWTWZHYVgweXdRbkcteGF4S2xtUk1FT1lrelhMNA?oc=5",
+   "source": "Infobae",
+   "summary": "Ordenan la ubicación y captura de Rosa Vásquez, gobernadora regional de Lima, para que cumpla condena de nueve años de prisión Infobae",
+   "date": "2026-11-26T23:25:00+00:00",
+   "category": "tribunales",
+   "query": "Juzgado de Ejecución de la Pena ordena",
+   "id": "4a5cc2329e6368e4",
+   "first_seen": "2026-11-27T21:14:11+00:00",
    "topics": [],
    "signals": [],
    "score": 0,
@@ -108,6 +123,23 @@
    "topics": [],
    "signals": [],
    "score": 0,
+   "flag": false
+  },
+  {
+   "title": "Sala IV anula recorte al FEES y encuentra vicios en rebaja al Poder Judicial - Diario Extra",
+   "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPNDVKeENJdFJESnM0U1V3elRPOUgwYkR6RG1IQjdnd21zVnN2N1htR2ZvODlWSThxUTFoalkxN0NweXY1YUs2RjZWS1Eya2toYlRUQkxDSGNfdGpyNnA1N0RqUVUtQ2lieFVqbU1GalU2ZHZ3R0VwXzlldVNwdEpYQUlRdERHZjA3WjNGRkwwTkxjTDlmNVlMRk5MazFuWWpTOWVZcUdudDR5YlNYYk5LdzRXdw?oc=5",
+   "source": "Diario Extra",
+   "summary": "Sala IV anula recorte al FEES y encuentra vicios en rebaja al Poder Judicial Diario Extra",
+   "date": "2026-11-25T23:24:16+00:00",
+   "category": "tribunales",
+   "query": "Sala IV acción de inconstitucionalidad reglamento penitenciario",
+   "id": "242e14870854f5b7",
+   "first_seen": "2026-11-27T21:14:11+00:00",
+   "topics": [],
+   "signals": [
+    "anula"
+   ],
+   "score": 2,
    "flag": false
   },
   {
@@ -430,6 +462,23 @@
    "flag": false
   },
   {
+   "title": "Del 'Chapo Isidro' a César Duarte: ellos son los narcos y políticos presos en el penal de máxima seguridad del - MILENIO",
+   "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOcGpSWFpKUGM2cWxMVTRMU3lZTjBSVmRBc0ExTGFtamttMVJfSENGMWdXbHZKMnhyb0ttaGV0RERRcmNVZ0I1YTE5a3BCX0x1ak83RW9hY1lzenMzSFBSMm1CM1M1a3lkeG1uRDN3R1RvNEdiQXV2cld6ZEIwWGtfcDI1aHVPTnhVZ2tSc0FZU3l2c0NFVkHSAZYBQVVfeXFMTnp1VS0tZXV4NnVKRk1fRUp2TExRTUU2X29XV2dMQlp1LTBoOGZPX25MWDZGeVRVdG5WYTR3eDRUYzJxcWNOSldJUHFNZVVsYnYyekhBZUJLQXJrQ19ubGJzWGpBa1RLcTk2NG5BNUMzbTJFWjRjRXlLYVRsbi1seU43RGxMWkU5RXRLLUx6dG55TmctWFpR?oc=5",
+   "source": "MILENIO",
+   "summary": "Del 'Chapo Isidro' a César Duarte: ellos son los narcos y políticos presos en el penal de máxima seguridad del MILENIO",
+   "date": "2026-11-24T13:55:00+00:00",
+   "category": "noticias",
+   "query": "delito ordenado desde la cárcel Costa Rica",
+   "id": "40f1eaf4e22140bf",
+   "first_seen": "2026-11-27T21:14:11+00:00",
+   "topics": [
+    "Alta contención"
+   ],
+   "signals": [],
+   "score": 1,
+   "flag": false
+  },
+  {
    "title": "Noche violenta deja cuatro hombres asesinados a balazos en las tres provincias con más homicidios este año - La Nación Costa Rica",
    "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPeXBSblU4NXhkZ3FzX1VrdEd3WUZNUXRSeUF5VFNBd2RsdF9UQ2dYQ21HckU5Nm1BRnBuSkplaXg2aVBFc2poOXRnZDZRNHM5Yk5neEV1R0NuM1pjOFNhVXNZcDlnYzF0MWViYksyTDZHeUkzeWpvZkRMV29wZWFnenp3SGwxYmJOWkZRQ3RiZ2F4UXk0c2Q4ZHBKY1hDNUNYTFQzWmlOc0pXUWVlZXhTMllR?oc=5",
    "source": "La Nación Costa Rica",
@@ -498,6 +547,21 @@
    "flag": false
   },
   {
+   "title": "Trump ordenará al Departamento de Justicia que solicite la pena de muerte para asesinos de niños y violadores - La Tercera",
+   "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxPcWNNellUYnlxY2M1akFDeG02RzcxSkRyQ0NaZmx1WFRtVElaV2pNYS1FTmh0NEktRkY1eWVxS1docW1xdTBRYTBlcGhDNVZ1S19YZk1OQm5TSXF6em9jWXk5ZjRpalVzeERPbDBYY3h5Tm1uUHpzajJCRkYtRkNOdXMzQlBZNkkyT1NVaXNhUld4U3JtcG9BZEVMR0lrRXMxVFJZTVJSMGM1N2p4amVZZGZEMThIMEE4eHNtanF4Mm5vaWoyVk9zWUdUeDZFQXJiLV9XRGhaNmI1TVUyemdUMm5DNHbSAYYCQVVfeXFMUERHOTZHTVNXdnNOMGxvX2YxeUxyY2IxN2JXZzJjR05wZ0NkbjROemhna2w2ZGhpeFpycDVJWDFuTm0yWC05RHNRbE93YkNxWlBGUU9RcERJeVhialBBWlktMmpvYVJDbUwtd3EyWTZoMklHWUVha3BRWWdmVEExbXJQT2duU0taTVQzanFmTHdaSDJyNjhvcUhpaFB6cmdwZUZGLTFRTmgtV0Ywc2pBdVJxQzFEWnY3QzRkcTJDMU95aHV1MTNYR2hWemZUbzJTLTNHLVppMXdBUHhJdldDd2xNSnJ2ZkhONnNYdnBKRHZTZTFNY1ZORkVMODRrZzZobmd3Z3M5Zw?oc=5",
+   "source": "La Tercera",
+   "summary": "Trump ordenará al Departamento de Justicia que solicite la pena de muerte para asesinos de niños y violadores La Tercera",
+   "date": "2026-11-24T01:25:08+00:00",
+   "category": "asamblea",
+   "query": "ley ejecución de la pena Costa Rica",
+   "id": "73b863e38a66e2a8",
+   "first_seen": "2026-11-27T21:14:11+00:00",
+   "topics": [],
+   "signals": [],
+   "score": 0,
+   "flag": false
+  },
+  {
    "title": "Ordenan medidas urgentes por hacinamiento del 570 % en estación de Policía de Soledad, Atlántico - Defensoría del Pueblo de Colombia",
    "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOUW5ZZXg5TlpzSXBpR2VmY0ZZYVJfdmtMczlwdHY5RjlTZTBTdFpBMmEwOXMweWpaRXllX1dnWWhGazI2dUxJdjFHcTlzakJZTHJzdDlKVGhSNWhhUWRQaU94VUtEWnVDdWNmOG05aXA2WU00ZXV3ZURNYVVVYVJ6aW1HY0VXenB0Wmw4QTRyeVpCbVBYcllz?oc=5",
    "source": "Defensoría del Pueblo de Colombia",
@@ -528,6 +592,23 @@
    "flag": false
   },
   {
+   "title": "Prisión preventiva para cuatro pasajeros que llegaron de Miami con maletas llenas de iPhone - Ecuavisa",
+   "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPX3F5M2VLeDBZcGp3VXFzcUNURWowWVBhd0dpX0ZudjhUeEhQclFHY2pGYmZYYW5PUlVyRmRNVEtNSjNQdHlCZjM4eWpjLXBMQm1sYUxqdnFsdVEyTFUzYmRNeU41cjZMc0VyMEFzN2Ntcjh4Tk9PLTZYUl8zLWlVUWFybW1xQk95ZzkyY0RqZVBCbnFoSmdmZmduUXhQUEd6X0RaeV9jd1l0UzN4SGpad0oxVGxyaGRF0gG-AUFVX3lxTE43bE1XNE5TVEU3YU9XTkcya1AwU05vY3BNeVYtU2dESF9kSUR1SUhGWl9nbnhFSTFhdHZ0YW4zWGhUd3NCeXJkbXBNaTRpS293MGpLRUszYjdnbmhkNGxUR1U3aTVyTXVZS1lJQlAyLVNrM3BLYWpHLW0tNzhXd0xjTE1qZ0R0U21lbEF6QkRNVnVrUzBCMEJQY182XzM1dGRRYWNUZVMtY0lMUW8xQW8xUURGazBDTHhidXlvcUE?oc=5",
+   "source": "Ecuavisa",
+   "summary": "Prisión preventiva para cuatro pasajeros que llegaron de Miami con maletas llenas de iPhone Ecuavisa",
+   "date": "2026-11-23T20:58:19+00:00",
+   "category": "noticias",
+   "query": "celulares decomisados cárcel Costa Rica",
+   "id": "cda659cec8947464",
+   "first_seen": "2026-11-27T21:14:11+00:00",
+   "topics": [
+    "Prisión preventiva"
+   ],
+   "signals": [],
+   "score": 1,
+   "flag": false
+  },
+  {
    "title": "Jugador de primera división es condenado a dos años de prisión por conducción peligrosa - La Prensa Gráfica",
    "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxPS3JkWDJWR0hFa2NReXZVdU44alNaSG0xNE1KczVJcjhDQlJpcURSTEJaMy1td0FpbG1sS1BnbklORE5ac0FjMWVRUVNoaHdIU2ZZTlpqaDBVNTM5RHNUTU9kTTdDczhVdnNCYlVYLVJJQnhqaVM1VFZnUnV4QjVoY3ZnRnlnbmZ2S1hoZnIzWGs0NlU5X1hIcU90dXU0WjdaeWd0VGtfTW1sNFJUUVRwSjJrMm1DWFVjS2JkYnZock5WNDVMUEMxY0N1OVJBQndlNTd5V0FSSHlaNzJ1RklFaVZwcw?oc=5",
    "source": "La Prensa Gráfica",
@@ -555,6 +636,23 @@
    "topics": [],
    "signals": [],
    "score": 0,
+   "flag": false
+  },
+  {
+   "title": "Frente Amplio propone endurecer penas contra sicarios pero oficialismo rechaza la moción - San Carlos Digital",
+   "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQeUFGR2xtTkc3b3k2RDhJd3NYZXQ3aUNRVTFtRmJNVFhnLTFzQ3R3RmRXeEROWEt1elVzRGVkandHaW15TzEtMkVXaDRqQ09yU1NiTzhhUVJTTVpMSTdSQzI0N0t1MWhqekRZVFZkbnVZLWdBOTA3eUxuV1o1N2RXcHUzN2luT3JtaG1TckdtTTNubWtoeV9yT2FTakQzLVBWeVpuak1zS2hQRGNUNF94WWtJQm1NR1AtZ1E?oc=5",
+   "source": "San Carlos Digital",
+   "summary": "Frente Amplio propone endurecer penas contra sicarios pero oficialismo rechaza la moción San Carlos Digital",
+   "date": "2026-11-22T20:12:13+00:00",
+   "category": "asamblea",
+   "query": "Comisión de Seguridad y Narcotráfico expediente",
+   "id": "092522cc3559e5a2",
+   "first_seen": "2026-11-27T21:14:11+00:00",
+   "topics": [],
+   "signals": [
+    "rechaza"
+   ],
+   "score": 2,
    "flag": false
   },
   {
@@ -1286,6 +1384,24 @@
    "flag": false
   },
   {
+   "title": "Defensora de los Habitantes de Costa Rica desafía a 29 diputados y anuncia que no renunciará tras polémica visita al CACCO - Infobae",
+   "url": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxQWG9nTmZrUHpqc3hDRlFtcWpwTVNuRy15ODZCMjRYWUdEQkRHd2txTkg4VWhKWVI0OFA3RkxxcmhHbWQ5elVBWFpBMHM4WE04TnlNRUltUkRwRC1qN29WTzhxX1czVlEwdjNxZlJwSHFaeUp5Z09rb3llcVVnaXN0a0o1c3pSZWp2bVJDeWk4Y29mbmQ5QW5uc0diZWxvSjJETHZUSUY0dWZvX04xM1lSN1VZalMwNFVNMVVfVFhfRF9GSWlIcEktYVhRM0R6aGVhYm54R210TEd6N2NpQXJVWWpGeWJhcDBBVUlST25rRG5Lem1iN0hMT0h0aVBVd9IBmAJBVV95cUxNWEg2VmVFTTZzVU5GUnFDZkxIRXFDU3c4MmlEZHlEalNTUklnV2lwX2lwM182SXdBT3lpa0cwMUdqczQ3djhfbnZ4V2dHWG1TRlBJdjVSSUtZSm5aTmdOckJuVmp0eFptN0ZnbTdQd3ppZHNTSDBkV01ROU1Xc1hKeURRU1N4M2lLT0VhWVBScU5zLXBwMk1MUHJ6SVRiUHdLbk5LOHFXclQtc0RyWVpTalh6Zy1ING9KNDlycElYWWYtYXhwbUVDR1pvRlFSdDFDWFR2d1M1dTlYMFYtOXNyQjFqTFgwVXVZdFZmNnE2Z0g3TmVIUmRJcTg3a1NEMjBKc2lUY183TS03MFVRaFVwMjNwVU55eVVG?oc=5",
+   "source": "Infobae",
+   "summary": "Defensora de los Habitantes de Costa Rica desafía a 29 diputados y anuncia que no renunciará tras polémica visita al CACCO Infobae",
+   "date": "2026-11-19T08:00:00+00:00",
+   "category": "defensoria",
+   "query": "Defensoría de los Habitantes privados de libertad",
+   "id": "b0faf9c680ad92e8",
+   "first_seen": "2026-11-27T21:14:11+00:00",
+   "topics": [
+    "Alta contención",
+    "Visitas"
+   ],
+   "signals": [],
+   "score": 2,
+   "flag": false
+  },
+  {
    "title": "Sin verdugos contra la tortura - Plaza Pública",
    "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNdnRVUDV2Y1lDeEUxSW1FRWVScWNrblV2MkdSQkZ3UHNjakpzS2ZTYnF5TEtXa3N6RkE0dTZaLTRoWkpIREVGRnUyR2RkN0Y4b2N4NHZyQTJzRzZGUklnZHdMMGJuYm9icWVxa3BUTnhOU09FVVkya3VBVU1ldE9RSA?oc=5",
    "source": "Plaza Pública",
@@ -1705,6 +1821,25 @@
    "flag": false
   },
   {
+   "title": "Ministro de Justicia rechaza denuncias de tortura en el CACCO - AM Prensa",
+   "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOOWIwSnFxUTdmckI0OHJUcjlWSnVlUHBWR0xGYTFNamFobWE2dDZzc0p4QW0weWw0MEQxM2EwM3pQdldWU2loNnItYzBacTR3RzJETmZ3ZGpOdFlndWpXS2h3dmJ1X05Ha2c0cks2Nk8zVVVHdWJwbmF1ZnB4cEVNRzMyclNMTHJRb1E?oc=5",
+   "source": "AM Prensa",
+   "summary": "Ministro de Justicia rechaza denuncias de tortura en el CACCO AM Prensa",
+   "date": "2026-11-16T18:30:08+00:00",
+   "category": "noticias",
+   "query": "Ministerio de Justicia y Paz cárceles Costa Rica",
+   "id": "6373e4fd40085928",
+   "first_seen": "2026-11-27T21:14:11+00:00",
+   "topics": [
+    "Alta contención"
+   ],
+   "signals": [
+    "rechaza"
+   ],
+   "score": 3,
+   "flag": true
+  },
+  {
    "title": "El nuevo rol de Costa Rica como centro logístico de droga - Infobae",
    "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNMFdWWUZ4ZWdoWjRJS2FzQ0lDWExuM1A0QVJ3MENqM1MtM19aZjEyXzdZcHF6SVF4UkRfNmx3ejBiMDlBSHBFYzFrX1ZjYnNjZE5hc2RJM05ad1ZkTWdJRmpoUlpHZkNvZzZGOWtyYkVIc21EVUN0QWM5ZVJ4UFR3MzhaeVQ2TGxBUU10OWRyZ3pEem5nSVZJS1ZEdDZ0ZmoyUWtXMkhFb9IBwgFBVV95cUxOQlJvcldZWnhabTVxc0h2Z3ZWQzlRblFFUmwwZERidDdWbWplZFhudEJnSzFoYVRrQ0E1Z2lFWU1XdXgxb00tN1VJNkxraEZKcmkyZTFteWVKUGVPQ2pFSHpSSmY5b2FEdWZFNUlTZnpQZW1mUHBiWXZrTmtHc1REcjlLb3JVYkpvMzZpR0xvaTFIVGx2VlF3bFZab2U4XzZhRkVTNFNOVVpHbks5ZVpPOVozVWtKRlh1cmhHNmdaNnRfdw?oc=5",
    "source": "Infobae",
@@ -2027,6 +2162,21 @@
    "query": "OIJ homicidios Costa Rica",
    "id": "e5d541130a32c80b",
    "first_seen": "2026-11-23T23:51:01+00:00",
+   "topics": [],
+   "signals": [],
+   "score": 0,
+   "flag": false
+  },
+  {
+   "title": "Matan a joven de 18 años cuando estaba sentado en el corredor de su casa - Teletica",
+   "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOZkVXODZtTlZISl81R2xqOE84alVWMEtLcGFOZm54NnRyZmI3NEF3ZC1kVGVXaG51Z3RYQUZ4MzBJdy1Hc0w2R0Jqak10c1hNanN0Q05ET2R2T2pIZklXNDY2SkZaclI5MlFqYzVhaHp3eGFzX1ZpWFh5YlBka1pSUUJYRllIVGZPSVhBVGdvenFJMEJGeENWMkloOWc5X080WUxDVEhGOThmWG5BamtDQ3FR?oc=5",
+   "source": "Teletica",
+   "summary": "Matan a joven de 18 años cuando estaba sentado en el corredor de su casa Teletica",
+   "date": "2026-11-14T08:00:00+00:00",
+   "category": "noticias",
+   "query": "OIJ homicidios Costa Rica",
+   "id": "ce3bf0e6269e5164",
+   "first_seen": "2026-11-27T21:14:11+00:00",
    "topics": [],
    "signals": [],
    "score": 0,
@@ -2400,6 +2550,23 @@
    "flag": true
   },
   {
+   "title": "Ministerio de Justicia adjudica por urgencia cocina de $10 millones para Cacco que omitió en su diseño original - La Nación Costa Rica",
+   "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOZjFDa002eWNzRkJoR3FRSmQ3YUhybVdQS2RRNVRNZmdYN3pLZE0tczhQN2c1RlhYMV9nRHZqZmJROFl0OVZZdDRvZ1dYbmx2NjE0LWxETl95ek1iOFpoa3Y4U1BBVm1zd2k3SlhxS3Z5bXJkV29lRExpYmRwWldLdThubkNfZkJsclZTTFByel9CZ0JDdy16OE5kQUZmUENHdGRtN3VwdzhXN2FyNkE?oc=5",
+   "source": "La Nación Costa Rica",
+   "summary": "Ministerio de Justicia adjudica por urgencia cocina de $10 millones para Cacco que omitió en su diseño original La Nación Costa Rica",
+   "date": "2026-11-13T08:00:00+00:00",
+   "category": "defensoria",
+   "query": "CACCO Centro de Alta Contención",
+   "id": "70f7d6c0ab3d2f9c",
+   "first_seen": "2026-11-27T21:14:11+00:00",
+   "topics": [
+    "Alta contención"
+   ],
+   "signals": [],
+   "score": 1,
+   "flag": false
+  },
+  {
    "title": "Limón, San Felipe y Hatillo figuran entre los 10 distritos con más homicidios de 2026, según el OIJ - El Observador CR",
    "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQQm1fWXZSVHIxQmxQQ2RYUGdwdzFNVDkzYVFlSEcyQUhpZnI2RWxFckNSeWJXb0p5MU9qZVFyaXVNOVZ1SlZ3Nk5sa05WOXlrTHNQMUZfWVZ5WWt6cGlVVUNNbF9wZ1pKVEJDaEZSS2cwMVVEY1dfa2xEMUdfdTNqNlU3U21SLUZLd1lXcFQwalF3eWVjWUMzRnBES19qYmM0RkVxaGVsYkRGNTVDUkNyVGx5dWZyZmhWZnZXXw?oc=5",
    "source": "El Observador CR",
@@ -2610,6 +2777,36 @@
    "query": "Comisión de Seguridad y Narcotráfico expediente",
    "id": "8b0e2667c168a65c",
    "first_seen": "2026-11-27T08:24:30+00:00",
+   "topics": [],
+   "signals": [],
+   "score": 0,
+   "flag": false
+  },
+  {
+   "title": "Presidente del Congreso defiende reformas penales en Honduras y responde a advertencias de la ONU sobre derechos humanos - Infobae",
+   "url": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxOcTItUl9wOFktRTBKMV9PUHJ6N09YME5URlhJRGNreTBVTjVjWmc1OEVoSW1udWRxcG9KYldYWVBlX3lsQUYwZ0U2NW5FU0YxUUR4QkNBTnRKNnN1c0VMR1ZuLTNXTVJ5dk1WejZtbEl4NVRuRVhteFdvT3ZvcENHSnN1bWdUZjl2dC1KYlZHZVdXcHQzdEl4NGJySjB1N0xZR3VMQzJncm1nWGZiREdlYmgxN3haMl9yRUkwZFhUSTZma2Zfd1VRX0R3bWl2ZVAzYW5hNjRQTUxNQ1VWRDFxY0RBUjFaMEtlNEVHdjE5Qm9SbFdVWEpRQtIBkwJBVV95cUxQc3RlQkxqdVZidmZVSW5JRDE1OERacGdBRXB2aUV1M2s0dkhSX2lCTGdPanEyczNMcVZGdDE1cjNPalV3TGtoUW5jV2UzTERzalJ2a0p0ZnhyWGpSVkF0czA2V2V3U044NGs4VEZ3Q1Vnbm9HV0JxXzQxTTV4Yk10endVdlg4S1IyQmV4VWk3QUxMMDFCQlFwVGdHRUQ3cDhmM1VyNm1JaWdPYmp6bTY4aktCTGxncDd2YTYzSnFwbENJTjg3M0YwcWszSUg0Y3JsZjhxRWwyVFJUc1hmT2FkX3ptWlZvemg2NHFrdmtfblBCUmI2NmxjbzRUX3pzcHFUcllNd0N6ZHJpU29waHREMmNGUQ?oc=5",
+   "source": "Infobae",
+   "summary": "Presidente del Congreso defiende reformas penales en Honduras y responde a advertencias de la ONU sobre derechos humanos Infobae",
+   "date": "2026-11-12T08:00:00+00:00",
+   "category": "asamblea",
+   "query": "reforma Código Procesal Penal prisión preventiva Costa Rica",
+   "id": "548cf7476e7d30b6",
+   "first_seen": "2026-11-27T21:14:11+00:00",
+   "topics": [],
+   "signals": [],
+   "score": 0,
+   "flag": false
+  },
+  {
+   "title": "Qué es la Oficina de Prevención de la Tortura y por qué sus relatores devengan hasta Q73 mil - La Hora",
+   "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxOUFkwd0hPNklmQkUwQTVieEx6eW05UlZZZnJHOWxuWkJieVBvdFYzR1QwMDA3NVhrSWV1R19EMmZiN3pIX01MTDJ5NDhVVzcwNmg3UUstUVg1azZSUUd2WF84STBIenpyR3ZHcW5WdGZzZTlxTTl0Vlp6aTNhWkR4X3R1cmhNRlM0Wk1ncU5mbElZcUhMcE9ucXF0dklub2d6NEpsRVJlVXRVTTc1eUNOaUlHNkt0WWcyOVczLXlxLXBtNEt5Q3lzckVZUXBObllLNkNENGFJUDYzTHVIZEE?oc=5",
+   "source": "La Hora",
+   "summary": "Qué es la Oficina de Prevención de la Tortura y por qué sus relatores devengan hasta Q73 mil La Hora",
+   "date": "2026-11-12T08:00:00+00:00",
+   "category": "defensoria",
+   "query": "Mecanismo Nacional de Prevención de la Tortura informe",
+   "id": "72ca09ac846a05f4",
+   "first_seen": "2026-11-27T21:14:11+00:00",
    "topics": [],
    "signals": [],
    "score": 0,
@@ -3092,6 +3289,24 @@
    "flag": false
   },
   {
+   "title": "Presentan recurso de amparo por falta de teléfonos y entrega de comida fría en el CACCO - Teletica",
+   "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQcnYwenhtOW5sSTYxZE50TDJjOVRwcV9OMHJZV3Q4bk9RbGE1R2VYMmhsZHpnVEVNLUhsa1habG9yM1VQbXhSZDRxLWtPN0d3eGZMSzBWZjQ1eGdyb2RZV3c4WFBFUHRiSDJPcWU5bG1rWTI2azRGdmdsVV9YRnlFYXFMeGxNbkpFZk96SG5UTUhMNnpQM3VldWFIY2thRV9KZEhhaHc1aEY3ME52RHBXQ3FYYlRuclIyeks3RmRzWGpJQzlCTmMw?oc=5",
+   "source": "Teletica",
+   "summary": "Presentan recurso de amparo por falta de teléfonos y entrega de comida fría en el CACCO Teletica",
+   "date": "2026-11-09T08:00:00+00:00",
+   "category": "noticias",
+   "query": "Ministerio de Justicia y Paz cárceles Costa Rica",
+   "id": "bf39c5b46479b57d",
+   "first_seen": "2026-11-27T21:14:11+00:00",
+   "topics": [
+    "Alta contención",
+    "Llamadas"
+   ],
+   "signals": [],
+   "score": 2,
+   "flag": false
+  },
+  {
    "title": "Homicidios apenas cederían en 2026 - Periódico La República (Costa Rica)",
    "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFA4TlZqbUhYNllsWjBYRG52QzhuTXNjNW84cGNtVXJtMUxyQjRNZ0xzdHVfek1IamVFeWNSYm1ZdUg5SGs4dmRiODJidzFkYWk0UGtYbDNNeEdXdGJNRWtHR3lhRWk3cmZmNEkwVlFUNHY?oc=5",
    "source": "Periódico La República (Costa Rica)",
@@ -3218,6 +3433,21 @@
    "query": "Ministerio de Justicia y Paz cárceles Costa Rica",
    "id": "170bdca4dd9627c9",
    "first_seen": "2026-11-26T08:12:50+00:00",
+   "topics": [],
+   "signals": [],
+   "score": 0,
+   "flag": false
+  },
+  {
+   "title": "Caso Ronaldinho: Dalia López es condenada a dos años de prisión con suspensión de la pena - La Nación",
+   "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOSzNJV0RyTkpERlBqRjNnbXNMOTZpX3cweG40NFZ6cGpyM19hWVNzaWVGanZrRUJaczdScHpVUmVSRmIzaEJxbldSSDFpb1RwTDkyeldBUkx6R1F4Z0lDWEF4Sy1BRkszWkU5NEt1VW4xMFFLdWt4QVFuNzZQNGxkcUpSRXNvR29ZOG9DSUwyazdGMzVDTjVIWlJfdjhPdjBHOVpZRDkzd3ZNRzF3V21IY3paYmRrX3ZEYjVwdHV3ZDhrM1d6Q2o1QVQ4N0hNcDMtU1pqQlZ3?oc=5",
+   "source": "La Nación",
+   "summary": "Caso Ronaldinho: Dalia López es condenada a dos años de prisión con suspensión de la pena La Nación",
+   "date": "2026-11-07T08:00:00+00:00",
+   "category": "tribunales",
+   "query": "Juzgado de Ejecución de la Pena ordena",
+   "id": "ee8fef5804230680",
+   "first_seen": "2026-11-27T21:14:11+00:00",
    "topics": [],
    "signals": [],
    "score": 0,
@@ -3595,6 +3825,21 @@
    ],
    "signals": [],
    "score": 1,
+   "flag": false
+  },
+  {
+   "title": "En un controvertido fallo, le concedieron el arresto domiciliario al ex juez Reynoso - Gente de Salta",
+   "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPRDl3cnVxcVBUQWdKdUp4Tm1tb2U0S3k0X01oWG9VVDVoZ3QweDNpVm9kaDFvVTRoclp2YVI4eGNHa0RES09XRktkdHZvUjlhejYzLVU3VXdjTzBkZGNUTG81ZVJKbTFpWGdNb0hDLVFqQXBxU0t2SjBMS3ZxWmVHYnBjc3BiWUU4R0RfWkU5SjhESGItSG5SZWF4R3cxb1FTb1BXbHJza0ZjTTdkS3VwMGpIc25KUy0yeGdvV3Fn0gHDAUFVX3lxTE1rOEd6SGY0OTVMeTZ4Ti1wSUtlZ3RJNnNiaW1SZUJMMFUwRkZUeG1FN1VmbUR3OS1XS09DM3NqNDd5bG1BOGFNVHpwU3BVNmNmQVdQRmtiYnc5VWFONnF5dHN1bzY5aGd4OFVYQjNKTEIzX0VJU2ZrN2N0UjJqdEhWUTdpaVVkN29hSF91NlNicUdaYXh5RTBvdG1weENCNjRCSmlYMjY0cHdjRWcycURsSmJTV2dTMmZxa2R3MjhCZzhpcw?oc=5",
+   "source": "Gente de Salta",
+   "summary": "En un controvertido fallo, le concedieron el arresto domiciliario al ex juez Reynoso Gente de Salta",
+   "date": "2026-11-05T08:00:00+00:00",
+   "category": "tribunales",
+   "query": "Juzgado de Ejecución de la Pena ordena",
+   "id": "b94a9d6342234496",
+   "first_seen": "2026-11-27T21:14:11+00:00",
+   "topics": [],
+   "signals": [],
+   "score": 0,
    "flag": false
   },
   {
