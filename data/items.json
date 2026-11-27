@@ -1,8 +1,55 @@
 {
- "updated": "2026-11-26T21:28:42+00:00",
- "count": 370,
+ "updated": "2026-11-27T08:24:30+00:00",
+ "count": 385,
  "flagged": 13,
  "items": [
+  {
+   "title": "País apunta a superar los 800 homicidios por cuarto año consecutivo - CR Hoy",
+   "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPYUprRUdFWVY4dVpTZFNZVEJ2ZV8wVTFuc3NxZGp5Y0VoSkRWVFBqTDJwMGYxWHpiZDMwNFJIMjJGajJWX3VaeFhKSkhSZmRmbklNcG53VlB0aDZ1blNJQ2ZqQUpmeHUxbTNOV19fUFdXZ3ZKeE91X1BSckVadkY0MV84d04yb2R5N0hGS2stZ3RtMlc1WjZQT1AyNzFnZw?oc=5",
+   "source": "CR Hoy",
+   "summary": "País apunta a superar los 800 homicidios por cuarto año consecutivo CR Hoy",
+   "date": "2026-11-27T06:29:29+00:00",
+   "category": "noticias",
+   "query": "OIJ homicidios Costa Rica",
+   "id": "456c6c77dc8bee13",
+   "first_seen": "2026-11-27T08:24:30+00:00",
+   "topics": [
+    "Homicidios"
+   ],
+   "signals": [],
+   "score": 1,
+   "flag": false
+  },
+  {
+   "title": "Caso Cotiza: consignan recurso contra nuevo juicio en tribunales ordinarios - Runrun.es",
+   "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPVzJLRUVOTThQX2lteHRySHAwRTVvUFBvbmdLUDF1Q254alRpMUJvT2F1NlI5ekU5NGFtQlFJTmlvZ01GYXk3dTZOS1JsRk9SMWdRaDNZczNSNnpxa21ycXpieU9KMTIzOG9obmxXNFhRM2xWSzlVNWliblllNVEwSUJLVHNVWUtINXlidDZPTFRqbHNZRVhveUdzaE01aVNxeUFJS180U3hiYlRHWlE?oc=5",
+   "source": "Runrun.es",
+   "summary": "Caso Cotiza: consignan recurso contra nuevo juicio en tribunales ordinarios Runrun.es",
+   "date": "2026-11-27T00:14:21+00:00",
+   "category": "tribunales",
+   "query": "Sala Constitucional privados de libertad",
+   "id": "d94cff84e0fd5146",
+   "first_seen": "2026-11-27T08:24:30+00:00",
+   "topics": [],
+   "signals": [],
+   "score": 0,
+   "flag": false
+  },
+  {
+   "title": "Unas gemelas figuran entre las seis mujeres condenadas este año a la pena capital en Irán. El enlace, en comentarios. - Facebook",
+   "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxPUHEwUDRibVRDNDB2RV8yQU93eEdhazY2TWxoLTI3N2pHakY4WlhCd3pLSFhaOWdzc0k0WUU1SDBlUkNvWlpJYXFTLXp3VDhkakVmSVhvRTNxd3BzSXNBQ0E5YU9nQ3JFVHRGU3Zsb1RBT09JNHZLODV1emNKUlpDZTBVMU1yLXJnejFoNGtrZVRic2ZmRldpMW5zYUppOTlxbVNiWGMwZlVzS280dlM2VFhZTE1KVlk5UmMzMjEzQzBWbGo1R0RjbE5sR1dJbHkxTkM1eDNNOFBCOXA2UHZBZDZB?oc=5",
+   "source": "Facebook",
+   "summary": "Unas gemelas figuran entre las seis mujeres condenadas este año a la pena capital en Irán. El enlace, en comentarios. Facebook",
+   "date": "2026-11-26T23:37:59+00:00",
+   "category": "asamblea",
+   "query": "ley ejecución de la pena Costa Rica",
+   "id": "092a0395191af1fe",
+   "first_seen": "2026-11-27T08:24:30+00:00",
+   "topics": [],
+   "signals": [],
+   "score": 0,
+   "flag": false
+  },
   {
    "title": "Ministro de Justicia reclama a jueza por permitir que tres hijos de “Pecho de Rata” asistan al funeral de su hermano - Delfino.cr",
    "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQZ3J6djdHQXN6Z3dHcTZkbUxpWGpDRk44VDVod3Vrc3ZXNjVYOWdHVDhKLXFNRmx0RGNVdXJ6bDJHRVFwOElHODhsUmVqUElxQU0zZnp6TWtrMXlhZ0xudHlIMWJsTm9OOTB2Z1Q1LVhsUnlYdXpHQUoxNm4wcjI5M3lSWlY0RkZMaGd0aGlaRlhUVFlvcm5LWXhoWlpCTmZvMGI1TENBQUluTW9aSXktcV84ZDlDNWZwc2NFaHY5R0xJRm1xU2NuWEtPbnJQSE9LLXpNUUJtZE0?oc=5",
@@ -451,6 +498,21 @@
    "flag": false
   },
   {
+   "title": "Ordenan medidas urgentes por hacinamiento del 570 % en estación de Policía de Soledad, Atlántico - Defensoría del Pueblo de Colombia",
+   "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOUW5ZZXg5TlpzSXBpR2VmY0ZZYVJfdmtMczlwdHY5RjlTZTBTdFpBMmEwOXMweWpaRXllX1dnWWhGazI2dUxJdjFHcTlzakJZTHJzdDlKVGhSNWhhUWRQaU94VUtEWnVDdWNmOG05aXA2WU00ZXV3ZURNYVVVYVJ6aW1HY0VXenB0Wmw4QTRyeVpCbVBYcllz?oc=5",
+   "source": "Defensoría del Pueblo de Colombia",
+   "summary": "Ordenan medidas urgentes por hacinamiento del 570 % en estación de Policía de Soledad, Atlántico Defensoría del Pueblo de Colombia",
+   "date": "2026-11-23T23:27:57+00:00",
+   "category": "tribunales",
+   "query": "Sala Constitucional privados de libertad",
+   "id": "fffa3ecc71a4bb45",
+   "first_seen": "2026-11-27T08:24:30+00:00",
+   "topics": [],
+   "signals": [],
+   "score": 0,
+   "flag": false
+  },
+  {
    "title": "Trump ordenará al Departamento de Justicia que solicite la pena de muerte para asesinos de niños y violadores - Infobae",
    "url": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxPcWxhX0VYcnFUdjhnM0VSMWpMbVUtbTJlY2tmcDI1WjVhaFU3VVU4bGcxbFBKWFZXTjJUSlY4TjBSZ1lPclJTdHFSS3RZZUxZWkpQMVpZcWRfbEZneHE3UkJQVlBfSUotcFFsWGlPMTBDRGJCN1Buc0h5TDJrMTlWLWx3OWdYdVRBT1d2MW1McFNJMG1SdWRhR1hITnVGN192dUpZY1N3ckxEcGwtV1dGQ0EzRUdMY1NWV1pTLXgwWlVNTEYzeHNWazVHZjk3ckVWQ2cwRllrTGV0V0UtRFhBR1lDbks4bEhpSjkxNWZxUXJGdXNJ0gGPAkFVX3lxTE9tME9EVkNiRU9NaGhVRmkwZUNnNXc1aDBnUlltTm9ZRy1ZblN1VExyQmZaaGI3OFg2cFV2ZjZRSV9VRXlLYlUtd083LUVVTlVsbXozeThSdkhaRWUxNkNqUmtwekFOR1RoODA1eUsxZHNzWF9sUlIwNDdLU2s3YS0yRTZHN3VxMG9PYVRGLTJCbTNmMFlsaEY2RnZSODc5LVZzb0psSFhQaTE3TzJrSWN1clkxUGU1WkhRb2d0clBQVFFXTV96SXNJcWt1X3k5ek9EWklIZG1QakQxM01NQTBtX1AwSnh3QS1yT3ZFTjMtYXd4dG1OT3NpMFRWV21aUFZFYmZlQm83X1ZTQUFVcmM?oc=5",
    "source": "Infobae",
@@ -710,6 +772,23 @@
    "flag": false
   },
   {
+   "title": "Reo del Cacco fue trasladado a La Reforma por cortarle las mangas al uniforme - CR Hoy",
+   "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPSVdWeXZod2VCWllFOG5ZTHhjZ0V2ZkZwS0ZUdTJSWUFTYkg2LXZjTFYyVVRjVXJyRG5nOUhXenl6YnRlOGRlNk1WdVh5c090eUpOX09ST1VtWURGal9HcV9RTjZqT2RDS1JYWjBmcEV6cWFMRTJ5RjA3Qm5JWUZ3TGxQTmtXRmtSak1iWFBNVGFtRG9FODMyRU91UlJDZ3Z2RWRGZTNxcnkySGMtaTI0?oc=5",
+   "source": "CR Hoy",
+   "summary": "Reo del Cacco fue trasladado a La Reforma por cortarle las mangas al uniforme CR Hoy",
+   "date": "2026-11-20T18:26:49+00:00",
+   "category": "defensoria",
+   "query": "CACCO Centro de Alta Contención",
+   "id": "4c678012ddc94f80",
+   "first_seen": "2026-11-27T08:24:30+00:00",
+   "topics": [
+    "Alta contención"
+   ],
+   "signals": [],
+   "score": 1,
+   "flag": false
+  },
+  {
    "title": "Justicia justifica ausencia de cocina en diseño inicial del Cacco: contempló solo obras “estrictamente indispensables para la puesta en funcionamiento” - AmeliaRueda.com",
    "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNaGViYy1QU3Mway1OQVFBWjZSSVN2YlRyeDF0WnhQOFdZUXlwMlNwbHI2aWJTMFVRS3NJR2RYUUVTZERHZWQzT3BjcGhwdll6X2c2RXZaTmZvUlhuUTdxZ09LbVRxYV8tLTBDZjI5QUoxN0hSVE5iLUhHRjNoNFE1cXJEdkluNEVaRXVHcGU4UHRkTDB2YzB0UGhkMWVyWEFfb0xydldYaGYyT3c?oc=5",
    "source": "AmeliaRueda.com",
@@ -832,6 +911,21 @@
    ],
    "signals": [],
    "score": 1,
+   "flag": false
+  },
+  {
+   "title": "Jueza dispone la captura del exdiputado colorado Miguel Cuevas para cumplir condena - Resumen de Noticias",
+   "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxObVhLSEt2TE9RNUVxUm9hRFBqc0pHaDZyQ3VGeTVmek5Kc0Z5U1kwVkhsZElhNC1GakpGMzBpWjEzUWtjXzJYeWQtcGttVExQRFhaRHRMWUlFM05LRW80NG5aR0U2cG5OeDAydXBRWkk2dzBacXNubXU1NkF5X2FCYUdiOFRWRzFDbGV1ZWVmMzZscHpDX0g2NWc0V1EwcWRBYVJNM3hfR1dPZzNpZXJzYmhOeVVSVkFUTnc?oc=5",
+   "source": "Resumen de Noticias",
+   "summary": "Jueza dispone la captura del exdiputado colorado Miguel Cuevas para cumplir condena Resumen de Noticias",
+   "date": "2026-11-20T12:31:19+00:00",
+   "category": "tribunales",
+   "query": "Juzgado de Ejecución de la Pena ordena",
+   "id": "65202e1a0c335fc6",
+   "first_seen": "2026-11-27T08:24:30+00:00",
+   "topics": [],
+   "signals": [],
+   "score": 0,
    "flag": false
   },
   {
@@ -1053,6 +1147,21 @@
    "flag": false
   },
   {
+   "title": "Comisión de Seguridad y Narcotráfico investigará al Poder Judicial por asesinato del periodista Camilo Rodríguez - El Mundo CR",
+   "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxNZy0xVGRHYmNTajhyWkNuWkZKdnlzSk9hOU96TDNzYlNPOWJjX2x4Z1M4cHlBMmNVWGtiRTRRT3ZudE9yTXd3a0x4Tnh0cE5IQ3ctUWdvR3dQc2FvRTRETW5qWWRJbFczVE9uSDFDWldhaU1DMHJJRllkb3oyaFAzeGw0VmhCajdSclljLW9JY3JndDJGTUVvWm5yZk9qdUt4MC1xNlhJcEM1VlpDa0NCOC1NbjJsZ1NDVDhLbHdscXRxNUV4WEtYUUlqX1kyc3dfWFVpbXJVRmRTZFU?oc=5",
+   "source": "El Mundo CR",
+   "summary": "Comisión de Seguridad y Narcotráfico investigará al Poder Judicial por asesinato del periodista Camilo Rodríguez El Mundo CR",
+   "date": "2026-11-19T18:18:23+00:00",
+   "category": "asamblea",
+   "query": "Comisión de Seguridad y Narcotráfico expediente",
+   "id": "344af63118c5d948",
+   "first_seen": "2026-11-27T08:24:30+00:00",
+   "topics": [],
+   "signals": [],
+   "score": 0,
+   "flag": false
+  },
+  {
    "title": "Fallece recluso agredido por otros privados de libertad en el CACCO - Delfino.cr",
    "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOS1h4S2JoVzYyVXJUUl96VkRseU1BTUpqOUk4amRqYjkxUDhCLUhDV05DcGRhcU9ZajZCU0YtTmpuX3ZDZUhFSmZYYWc4Qk9ObkRock9ydFM2a3VCaVdtcElzZ0JrWHBuSkNNdUhfaDBTSzl2ZkZsbjg2MTdRV3NVbUZfd1BzTXdFUEtjYVM3bjFHeGc2UUx1cUpR?oc=5",
    "source": "Delfino.cr",
@@ -1126,6 +1235,21 @@
    "query": "ley ejecución de la pena Costa Rica",
    "id": "bc98c58dc657ec1e",
    "first_seen": "2026-11-20T23:59:38+00:00",
+   "topics": [],
+   "signals": [],
+   "score": 0,
+   "flag": false
+  },
+  {
+   "title": "Federación Iberoamericana del Ombudsperson respalda a defensora ante moción que pide su renuncia - Delfino.cr",
+   "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPTExlbnl4ZS1DS2VFZmFtR05HcHhQQm9COWFXRDRKczlyN1NaX2J4WHRSRTlYYV9yOU1TTy1PNDljcXFteVVydHI3akJCdFVHTnVJREtIWUJDM2F4VEd1Q2diUFBkNDdtT3lURjVEV3JJLUtvVk96ZUlUT1NDLU9Za0E5NG5XQVhhNDhSMjFMbzk1TENxOTFybG92enRiUk5yWW9rNjFCbE5mb0c1QW1XSmtRaThseDJPeUdjNlUyVUw?oc=5",
+   "source": "Delfino.cr",
+   "summary": "Federación Iberoamericana del Ombudsperson respalda a defensora ante moción que pide su renuncia Delfino.cr",
+   "date": "2026-11-19T14:06:32+00:00",
+   "category": "defensoria",
+   "query": "Defensoría de los Habitantes privados de libertad",
+   "id": "b278112aadd7b8a3",
+   "first_seen": "2026-11-27T08:24:30+00:00",
    "topics": [],
    "signals": [],
    "score": 0,
@@ -1235,6 +1359,23 @@
    "first_seen": "2026-11-21T19:12:46+00:00",
    "topics": [
     "Prisión preventiva"
+   ],
+   "signals": [],
+   "score": 1,
+   "flag": false
+  },
+  {
+   "title": "Araya Vlogs hizo grabación en el Cacco y se refirió a las críticas que recibió: esto fue lo que dijo - La Nación Costa Rica",
+   "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNTVpLcS1OZkRuWU9rcVBPZHNlQTFiOU1QbEZDV25TcWV2LXR3eDlaV1dqRVNZOTlaNTktMncwemFDby0xcDFoUFlpVjZkcmZUN0g5TU5NUjV6NlJsOVRmcEt2TUl5TGpDOXN4NElXdGI0N3lBc1ZqdW80endTcENiZ0RvR0pXdEtWTU1feWFmYVlJUTV3eFJjZmhJUnJIdEZ4ZFFETGFPM0c?oc=5",
+   "source": "La Nación Costa Rica",
+   "summary": "Araya Vlogs hizo grabación en el Cacco y se refirió a las críticas que recibió: esto fue lo que dijo La Nación Costa Rica",
+   "date": "2026-11-18T17:40:52+00:00",
+   "category": "defensoria",
+   "query": "CACCO Centro de Alta Contención",
+   "id": "60257a72569a0869",
+   "first_seen": "2026-11-27T08:24:30+00:00",
+   "topics": [
+    "Alta contención"
    ],
    "signals": [],
    "score": 1,
@@ -1702,6 +1843,24 @@
    "topics": [],
    "signals": [],
    "score": 0,
+   "flag": false
+  },
+  {
+   "title": "Oficialismo aprueba exigir renuncia del Fiscal General y de la Defensora de los Habitantes tras visita al CACCO - Radio Monumental",
+   "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxNNkM3SkdLMDBvTmNRT0R0dGJGVVo2QmV4OW5nY3JxdExQeWZXTEVrYUNUcTlqeFByZHBpT2s0SEZKWmFiVFNZTU9ZQ1llVzNBcXUtcXRNUmZNLTBDR0Nxbm9RcXpvbUo1bWlma2lUOTY0SWt2eERRczU5UEtiZFNZdUp6SnU3bnk5TENKRUVuazAwX2RIS3h4eHoxdkptd09fY1M1aGRGMzBRVXRTajRBci1na3ZGMHhwTDFYN21zYVVicjhwRWtXZDJPY1JCT2xrN2h5SmVEZVhGcVJoQUg4NjNCOFkzczg?oc=5",
+   "source": "Radio Monumental",
+   "summary": "Oficialismo aprueba exigir renuncia del Fiscal General y de la Defensora de los Habitantes tras visita al CACCO Radio Monumental",
+   "date": "2026-11-16T08:00:00+00:00",
+   "category": "defensoria",
+   "query": "Defensoría de los Habitantes privados de libertad",
+   "id": "79ca5a1c158dc617",
+   "first_seen": "2026-11-27T08:24:30+00:00",
+   "topics": [
+    "Alta contención",
+    "Visitas"
+   ],
+   "signals": [],
+   "score": 2,
    "flag": false
   },
   {
@@ -2436,6 +2595,21 @@
    "query": "delito ordenado desde la cárcel Costa Rica",
    "id": "6f09311b50f82230",
    "first_seen": "2026-11-20T01:48:19+00:00",
+   "topics": [],
+   "signals": [],
+   "score": 0,
+   "flag": false
+  },
+  {
+   "title": "Avalan endurecer penas de cárcel por reconstruir o reutilizar pistas clandestinas - CR Hoy",
+   "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPMzd1TWFYYmdHQ0NKWUNoSjZqRTlVVlFuN2NyMkN6eUFBZnRIUGM0WWVOSGx4SUF2TVBsZGZBREkxZm5oQzI4cnBNSFRSNnFhdHlTSFdiaVBrT3I1QS14WUxBVU9fS2pfM21TanV6VUw1NnFNMkNVUzctUmZwbjVsSXFkS2ROS1hESnVlbEdvY3FFdkFWTmtWVS1NT2s2QlBDX1g2Rzd6bU9CeW54OHVPRQ?oc=5",
+   "source": "CR Hoy",
+   "summary": "Avalan endurecer penas de cárcel por reconstruir o reutilizar pistas clandestinas CR Hoy",
+   "date": "2026-11-12T08:00:00+00:00",
+   "category": "asamblea",
+   "query": "Comisión de Seguridad y Narcotráfico expediente",
+   "id": "8b0e2667c168a65c",
+   "first_seen": "2026-11-27T08:24:30+00:00",
    "topics": [],
    "signals": [],
    "score": 0,
@@ -3205,6 +3379,36 @@
    "flag": false
   },
   {
+   "title": "Jaime Estrada Medranda: cargos por armas en EE. UU. mientras en Ecuador fue condecorado por Aquiles Alvarez en derechos humanos - El Universo",
+   "url": "https://news.google.com/rss/articles/CBMiigJBVV95cUxQU2FLTDBiQ3lsRm5SaFlsM3RwOTR4RzExZkdGT25KNnJ5NjZDX210MS05eWNJRF9Ha2NuR3J6SnA0NFdxZnlZbFAtUDVXNkd4LXl2T0xFdVh3dDhfVXNVaWRYSTdXenB0TEdVRXc1cWZpMzJMUElXM21Cd0JyelZkeTU5VndGMHdXNXpvSG9vUHllRFRzb1l4WGUwX3B0ZFJhbFpLRlNoT0plLTNaVjRJSjRqMkptM3ozUnZKbEZQUzg0OE5VVy1uN2JCR3p6S0FydVRuNEREWE8yNG44anZiV3hSa0t6cmVEMElFclVSdlB0Z2ZCQ1dNS1Jua2V3SUhiWFExcFpBbHJQUdIBngJBVV95cUxOVkJnNGxLTEJWWU1vMXZTNGRrekxKWnF1di02LVk5aEdpbmJER0ZLTGFMQ05qX2RLY0l6TEtQb2N0U0l6SUxfY01pTUhUQ1ZyQ19tWW1ranR0VXU2c2NKTllHTHdfUVJFVHhnNTRLRGtDYVNaNmJLQzZURjI1YWwwV3VmVUtGREd6ZkJSdFQxbUlvTlU2dXN4bTZTSEJBSnNTRExlRXM3RDI5ZkY3Y3BDMlJPNXRILTliM2hOMFhXMHJ2MDF5RkxLeUtvMHBSNWFUSXViVHVKSzV4b2pfd1Q4ZktZeTh4a2t6cFlUb3JvdnhnR3NQeUlKOU5LZm1BdWNtMTA0LThJTVdYRlptRWNDLWRvcmxCTDFDdk5VNjFB?oc=5",
+   "source": "El Universo",
+   "summary": "Jaime Estrada Medranda: cargos por armas en EE. UU. mientras en Ecuador fue condecorado por Aquiles Alvarez en derechos humanos El Universo",
+   "date": "2026-11-06T08:00:00+00:00",
+   "category": "asamblea",
+   "query": "Comisión de Seguridad y Narcotráfico expediente",
+   "id": "63deb7873c1665f2",
+   "first_seen": "2026-11-27T08:24:30+00:00",
+   "topics": [],
+   "signals": [],
+   "score": 0,
+   "flag": false
+  },
+  {
+   "title": "Justicia comienza a pagar millonaria deuda por pago de horas extra a Policía Penitenciaria - Teletica",
+   "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQMkVIdXV2N0pUakVCV2EtZlVPMTFMeUVORG9NMEZvMGtHek9qeUd2RmdPNHZDRUdEakk2ZHZnTk1yX2FUUnJsbXp3UGx0eVhrNnhydFBzSUh3ZmFyUFNDRG5XU3lMU3dHWkJCcHZYQm1KSlZvMk9xRGVnY05jaGxDUEIzYUdyd2pRU1hjX0VGZFBfT2N1cnJKUTdpV0ZBamlZT2huNjg4TzFOQjhFTjFMWXA4SjVOU2FWV2xNSTNISldNSVFqVFRKT1djRQ?oc=5",
+   "source": "Teletica",
+   "summary": "Justicia comienza a pagar millonaria deuda por pago de horas extra a Policía Penitenciaria Teletica",
+   "date": "2026-11-06T08:00:00+00:00",
+   "category": "noticias",
+   "query": "Ministerio de Justicia y Paz cárceles Costa Rica",
+   "id": "246b778dd38ec695",
+   "first_seen": "2026-11-27T08:24:30+00:00",
+   "topics": [],
+   "signals": [],
+   "score": 0,
+   "flag": false
+  },
+  {
    "title": "¿Recaudación y corrupción como política de Estado? - Última Hora",
    "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPTGNZSlJmT1VGRzBsVFd3dFFMZmZIM3VESFdMMlphNW9McGZ1R3huOWdGbUdmb1dfS09Ca0MwTTBQaFBscEVDckR1Vm55blZOS2tUTmo4UXlic0ZwQ2RCY2M4R0tRc0RtMWg4Wmh6Q1FxZ040U1NETWdndlExMEkyNNIBjgFBVV95cUxQZ2VEd1AwaGtONm1ibm9tNzIyaHNRMkV1NmtZQkJxTk9hTjZ2cHhSZ0dOZ3FmZklLSzU2ODNWSFphSW8wN1BvTVk0dGl4Z0xHRVV3ckpZdnh0cnhMN05jRGlWaDBwRHA5VUhhYjJTTEtwbnk2Y3dCaUloVUIxbkVGLTlwWF9RQ1RsckEwVXNR?oc=5",
    "source": "Última Hora",
@@ -3723,6 +3927,21 @@
    "flag": false
   },
   {
+   "title": "\"Deberán ingeniárselas para comer\": Gabriel Aguilar advierte por armas hechas con cucharas - Teletica",
+   "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNdld5TDNCdGJoWkcyc1FkdEtlX09mMjA1Z2g5WDJNZTByNnF0RG9DRzVlamk4TE5WXzJaZkcxNzQxb3RoLXlIRktuQ3Q3SXRNZ0VnTWtaYlhHZXQwWFkzYVRaandHZGVaNUtCbHR5djFaSVJNSHViSENnNFVZaHdibDBrM05tLS1uOXJWN1JyMDhLU0VHZ1p1VnNDa055QlM2cnd3c2FkcXE0ZmMwQW5kempkazF4Tktta0MtSWttaXh4blNwcHNF?oc=5",
+   "source": "Teletica",
+   "summary": "\"Deberán ingeniárselas para comer\": Gabriel Aguilar advierte por armas hechas con cucharas Teletica",
+   "date": "2026-11-03T08:00:00+00:00",
+   "category": "noticias",
+   "query": "Ministerio de Justicia y Paz cárceles Costa Rica",
+   "id": "4280fda2425556aa",
+   "first_seen": "2026-11-27T08:24:30+00:00",
+   "topics": [],
+   "signals": [],
+   "score": 0,
+   "flag": false
+  },
+  {
    "title": "DEFENSORÍA DEL PUEBLO REQUIERE INFORME A LA POLICÍA BOLIVIANA Y REITERA LA NECESIDAD DE FORTALECER LA SEGURIDAD PENITENCIARIA TRAS FUGA EN PALMASOLA - defensoria.gob.bo",
    "url": "https://news.google.com/rss/articles/CBMinwJBVV95cUxPRFFuZ0ZOVTZaNHQzNlltaDVzQ1hvZndMYkt3eXNJN1F2TGNtVHB4YWd1UTNGMjZOeVNseDZsbTF5eU5qSzVmc1oxTVh2NGtsVEh0MlAxSUFycVQ4Nnd5ZU5EMUpvXzF5UWhQV0trNGZJREoxM2VQN0FiRVVHM3VYYVFLXzl3bm9XVWdEcDJDa1YzUmJVTk1ydFMwVnM1WXpWOVFlYmFhUEZjLXhfUkZrcGFQcTJoYjBNbDk2R3A0aDhiZHZ0V0hEMF9jZVRqQVg0TEJ6c3ZXcExTZHJlZWhJMnpJamd0TFVQTDR2cTVzc3JZOGVSalJwMG15U1kzRDFXcUhEYlc2eUYydzkyU2lQcElQcm1NTTN4WnE4dGZ5UQ?oc=5",
    "source": "defensoria.gob.bo",
@@ -3938,6 +4157,21 @@
    "query": "reforma Código Procesal Penal prisión preventiva Costa Rica",
    "id": "a641981ad8f431e1",
    "first_seen": "2026-11-22T06:43:54+00:00",
+   "topics": [],
+   "signals": [],
+   "score": 0,
+   "flag": false
+  },
+  {
+   "title": "Con uniformes naranja: Costa Rica comienza el traslado de presos a su megacárcel - Revista SUMMA",
+   "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPNy0xMlNxdWRoWnhkaWREQkVKd2NNeWpMRlhMclllRjR3TUk4ZC1RVkZCZkhnZWZSZlhTbi1SanpFMWxsLXY1SEo2bjJJOENuQXlmSndYdG04alZrYU1oWkFqZm9SRmNrRk1PcjZkWHl5am52V044ZWF5eTdLSlJVdFRuNVBpZU8wTk9GcDczOUV1Rk1xb3IyQXZ4RmdMUFNRM0V0TjI4VlE?oc=5",
+   "source": "Revista SUMMA",
+   "summary": "Con uniformes naranja: Costa Rica comienza el traslado de presos a su megacárcel Revista SUMMA",
+   "date": "2026-10-30T15:31:26+00:00",
+   "category": "noticias",
+   "query": "Ministerio de Justicia y Paz cárceles Costa Rica",
+   "id": "1306f07df90c5812",
+   "first_seen": "2026-11-27T08:24:30+00:00",
    "topics": [],
    "signals": [],
    "score": 0,
